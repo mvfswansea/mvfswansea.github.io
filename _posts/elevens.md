@@ -4,6 +4,8 @@ layout: default
 
 ## Elevens
 
-- [Gwyr](/pages/elevens.html#Gwyr)
-- [Tawe](/pages/elevens.html#Tawe)
-- [Copr](/pages/elevens.html#Copr)
+- <Button text="Gwyr" link="/pages/elevens.html#Gwyr" />
+- <Button text="Tawe" link="/pages/elevens.html#Tawe" />
+- <Button text="Copr" link="/pages/elevens.html#Copr" />
+
+<div id="content"></div>
