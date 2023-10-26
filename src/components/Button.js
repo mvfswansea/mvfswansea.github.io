@@ -16,11 +16,11 @@ function Button({
     <div className="custom-button">
       <div className="image-container">
         <img
-          alt="Button"
           src={imageUrl}
           width={imageWidth}
           height={imageHeight}
           onClick={handleImageClick}
+          alt=""
         />
       </div>
       <div className="text-container">

@@ -22,6 +22,14 @@ import TeamRealMadri from './components/teams/gwyr/TeamRealMadri';
 import TeamBorussiaDonuts from './components/teams/gwyr/TeamBorussiaDonuts';
 
 // Copr League
+// import TeamAllPhats from './components/teams/gwyr/TeamAllPhats';
+// import TeamLargentina from './components/teams/gwyr/TeamLargentina';
+// import TeamGastricBandits from './components/teams/gwyr/TeamGastricBandits';
+// import TeamVanDerSarnies from './components/teams/gwyr/TeamVanDerSarnies';
+// import TeamBMIMunchen from './components/teams/gwyr/TeamBMIMunchen';
+// import TeamRHCP from './components/teams/gwyr/TeamRHCP';
+// import TeamRealMadri from './components/teams/gwyr/TeamRealMadri';
+// import TeamBorussiaDonuts from './components/teams/gwyr/TeamBorussiaDonuts';
 
 
 import './App.css';
@@ -52,6 +60,15 @@ function App() {
           <Route path="/leagues/team/borussiadonuts" element={<TeamBorussiaDonuts />} />
 
           {/* Copr League */}
+          {/* <Route path="/leagues/team/ClwbTropicana" element={<TeamAllPhats />} />
+          <Route path="/leagues/team/FullOfHam" element={<TeamLargentina />} />
+          <Route path="/leagues/team/HangryHippos" element={<TeamGastricBandits />} />
+          <Route path="/leagues/team/MassiveCochs" element={<TeamBMIMunchen />} />
+          <Route path="/leagues/team/Monchenburgers" element={<TeamVanDerSarnies />} />
+          <Route path="/leagues/team/Seals" element={<TeamRHCP />} />
+          <Route path="/leagues/team/SnackingPumpkins" element={<TeamRealMadri />} />
+          <Route path="/leagues/team/RealLettuce" element={<TeamBorussiaDonuts />} /> */}
+
         </Routes>
       </div>
     </Router>
