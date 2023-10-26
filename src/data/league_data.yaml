@@ -1,0 +1,22 @@
+leagues:
+  - name: Gwyr
+    teams:
+      - name: Team A
+        players:
+          - name: Player 1
+          - name: Player 2
+      - name: Team B
+        players:
+          - name: Player 3
+          - name: Player 4
+      fixtures: gwyr_league/fixtures/file
+      results: gwyr_league/results/file
+  - name: Copr
+    teams:
+      - name: Team X
+        players:
+          - name: Player 5
+          - name: Player 6
+      - name: Team Y
+      fixtures: copr_league/fixtures/file
+      results: copr_league/results/file

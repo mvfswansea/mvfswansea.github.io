@@ -1,0 +1,478 @@
+{
+    "leagues": [
+        {
+            "name": "Gwyr",
+            "teams": [
+                {
+                    "AllPhats": [
+                        {
+                            "pitch": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
+                            },
+                            "scales": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
+                            },
+                            "combined": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
+                            }
+                        }
+                    ],
+                    "Largentina": [
+                        {
+                            "pitch": {
+                                "matchesPlayed": 5,
+                                "wins": 3,
+                                "draws": 1,
+                                "losses": 1,
+                                "goalsFor": 24,
+                                "goalsAgainst": 13
+                            },
+                            "scales": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 45,
+                                "goalsAgainst": 7
+                            },
+                            "combined": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 43,
+                                "goalsAgainst": 8
+                            }
+                        }
+                    ],
+                    "GastricBandits": [
+                        {
+                            "pitch": {
+                                "matchesPlayed": 5,
+                                "wins": 2,
+                                "draws": 1,
+                                "losses": 2,
+                                "goalsFor": 33,
+                                "goalsAgainst": 33
+                            },
+                            "scales": {
+                                "matchesPlayed": 5,
+                                "wins": 5,
+                                "draws": 0,
+                                "losses": 0,
+                                "goalsFor": 66,
+                                "goalsAgainst": 5
+                            },
+                            "combined": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 31,
+                                "goalsAgainst": 16
+                            }
+                        }
+                    ],
+                    "VanDerSarnies": [
+                        {
+                            "pitch": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
+                            },
+                            "scales": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
+                            },
+                            "combined": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
+                            }
+                        }
+                    ],
+                    "BMIMunchen": [
+                        {
+                            "pitch": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
+                            },
+                            "scales": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
+                            },
+                            "combined": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
+                            }
+                        }
+                    ],
+                    "RHCP": [
+                        {
+                            "pitch": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
+                            },
+                            "scales": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
+                            },
+                            "combined": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
+                            }
+                        }
+                    ],
+                    "RealMadri": [
+                        {
+                            "pitch": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
+                            },
+                            "scales": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
+                            },
+                            "combined": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
+                            }
+                        }
+                    ],
+                    "BorussiaDonuts": [
+                        {
+                            "pitch": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
+                            },
+                            "scales": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
+                            },
+                            "combined": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
+                            }
+                        }
+                    ]
+                }
+            ],
+            "fixtures": {
+                "fixtures": "something"
+            },
+            "results": {
+                "results": "something"
+            }
+        },
+        {
+            "name": "Copr",
+            "teams": [
+                {
+                    "Monchenburgers": [
+                        {
+                            "pitch": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
+                            },
+                            "scales": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
+                            },
+                            "combined": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
+                            }
+                        }
+                    ],
+                    "Seals": [
+                        {
+                            "pitch": {
+                                "matchesPlayed": 5,
+                                "wins": 3,
+                                "draws": 1,
+                                "losses": 1,
+                                "goalsFor": 24,
+                                "goalsAgainst": 13
+                            },
+                            "scales": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 45,
+                                "goalsAgainst": 7
+                            },
+                            "combined": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 43,
+                                "goalsAgainst": 8
+                            }
+                        }
+                    ],
+                    "RealLettuce": [
+                        {
+                            "pitch": {
+                                "matchesPlayed": 5,
+                                "wins": 2,
+                                "draws": 1,
+                                "losses": 2,
+                                "goalsFor": 33,
+                                "goalsAgainst": 33
+                            },
+                            "scales": {
+                                "matchesPlayed": 5,
+                                "wins": 5,
+                                "draws": 0,
+                                "losses": 0,
+                                "goalsFor": 66,
+                                "goalsAgainst": 5
+                            },
+                            "combined": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 31,
+                                "goalsAgainst": 16
+                            }
+                        }
+                    ],
+                    "SnackingPumpkins": [
+                        {
+                            "pitch": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
+                            },
+                            "scales": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
+                            },
+                            "combined": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
+                            }
+                        }
+                    ],
+                    "HangryHippos": [
+                        {
+                            "pitch": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
+                            },
+                            "scales": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
+                            },
+                            "combined": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
+                            }
+                        }
+                    ],
+                    "MassiveCochs": [
+                        {
+                            "pitch": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
+                            },
+                            "scales": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
+                            },
+                            "combined": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
+                            }
+                        }
+                    ],
+                    "FullOfHam": [
+                        {
+                            "pitch": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
+                            },
+                            "scales": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
+                            },
+                            "combined": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
+                            }
+                        }
+                    ],
+                    "ClwbTropicana": [
+                        {
+                            "pitch": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
+                            },
+                            "scales": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
+                            },
+                            "combined": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
+                            }
+                        }
+                    ]
+                }
+            ],
+            "fixtures": {
+                "fixtures": "something"
+            },
+            "results": {
+                "results": "something"
+            }
+        }
+    ]
+}
