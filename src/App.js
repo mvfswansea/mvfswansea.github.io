@@ -40,34 +40,34 @@ function App() {
       <div className="App">
         <Header />
         <Routes>
-          <Route path="" element={<Home />} />
-          <Route path="elevens" element={<Elevens />} />
-          <Route path="elevens/gwyr" element={<TeamGwyr />} />
-          <Route path="elevens/tawe" element={<TeamTawe />} />
-          <Route path="elevens/copr" element={<TeamCopr />} />
-          <Route path="leagues" element={<Leagues />} />
-          <Route path="leagues/gwyr" element={<LeagueGwyr />} />
-          <Route path="leagues/copr" element={<LeagueCopr />} />
+          <Route path="/" element={<Home />} />
+          <Route path="/elevens" element={<Elevens />} />
+          <Route path="/elevens/gwyr" element={<TeamGwyr />} />
+          <Route path="/elevens/tawe" element={<TeamTawe />} />
+          <Route path="/elevens/copr" element={<TeamCopr />} />
+          <Route path="/leagues" element={<Leagues />} />
+          <Route path="/leagues/gwyr" element={<LeagueGwyr />} />
+          <Route path="/leagues/copr" element={<LeagueCopr />} />
 
           {/* Gwyr League */}
-          <Route path="leagues/team/allphats" element={<TeamAllPhats />} />
-          <Route path="leagues/team/largentina" element={<TeamLargentina />} />
-          <Route path="leagues/team/gastricbandits" element={<TeamGastricBandits />} />
-          <Route path="leagues/team/vandersarnies" element={<TeamVanDerSarnies />} />
-          <Route path="leagues/team/bmimunchen" element={<TeamBMIMunchen />} />
-          <Route path="leagues/team/rhcp" element={<TeamRHCP />} />
-          <Route path="leagues/team/realmadri" element={<TeamRealMadri />} />
-          <Route path="leagues/team/borussiadonuts" element={<TeamBorussiaDonuts />} />
+          <Route path="/leagues/team/allphats" element={<TeamAllPhats />} />
+          <Route path="/leagues/team/largentina" element={<TeamLargentina />} />
+          <Route path="/leagues/team/gastricbandits" element={<TeamGastricBandits />} />
+          <Route path="/leagues/team/vandersarnies" element={<TeamVanDerSarnies />} />
+          <Route path="/leagues/team/bmimunchen" element={<TeamBMIMunchen />} />
+          <Route path="/leagues/team/rhcp" element={<TeamRHCP />} />
+          <Route path="/leagues/team/realmadri" element={<TeamRealMadri />} />
+          <Route path="/leagues/team/borussiadonuts" element={<TeamBorussiaDonuts />} />
 
           {/* Copr League */}
-          {/* <Route path="leagues/team/ClwbTropicana" element={<TeamAllPhats />} />
-          <Route path="leagues/team/FullOfHam" element={<TeamLargentina />} />
-          <Route path="leagues/team/HangryHippos" element={<TeamGastricBandits />} />
-          <Route path="leagues/team/MassiveCochs" element={<TeamBMIMunchen />} />
-          <Route path="leagues/team/Monchenburgers" element={<TeamVanDerSarnies />} />
-          <Route path="leagues/team/Seals" element={<TeamRHCP />} />
-          <Route path="leagues/team/SnackingPumpkins" element={<TeamRealMadri />} />
-          <Route path="leagues/team/RealLettuce" element={<TeamBorussiaDonuts />} /> */}
+          {/* <Route path="/leagues/team/ClwbTropicana" element={<TeamAllPhats />} />
+          <Route path="/leagues/team/FullOfHam" element={<TeamLargentina />} />
+          <Route path="/leagues/team/HangryHippos" element={<TeamGastricBandits />} />
+          <Route path="/leagues/team/MassiveCochs" element={<TeamBMIMunchen />} />
+          <Route path="/leagues/team/Monchenburgers" element={<TeamVanDerSarnies />} />
+          <Route path="/leagues/team/Seals" element={<TeamRHCP />} />
+          <Route path="/leagues/team/SnackingPumpkins" element={<TeamRealMadri />} />
+          <Route path="/leagues/team/RealLettuce" element={<TeamBorussiaDonuts />} /> */}
 
         </Routes>
       </div>
