@@ -16,6 +16,16 @@
 .league-table h2 {
     background-color: beige;
     text-align: center;
+    margin: 0 0 10px;
+}
+
+.league-table .tab {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+    max-width: 100%;
+    box-sizing: border-box;
 }
 
 /* Styles for the table headers and cells */

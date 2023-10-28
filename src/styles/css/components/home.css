@@ -1,0 +1,52 @@
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.home-images {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 500px;
+    padding: 0 10%;
+    /* Add padding on both sides to account for the margins */
+    box-sizing: border-box;
+    overflow-x: auto;
+    /* Enable horizontal scrolling if the content overflows */
+}
+
+.home-images .custom-button {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 500px;
+    height: 300px;
+}
+
+.image-container {
+    max-width: 100%;
+    height: auto;
+    box-sizing: border-box;
+}
+
+.image-container .img {
+    width: 400px;
+    height: 275px;
+}
+
+.home-images img {
+    width: 80%;
+    height: auto;
+    margin: 0 10px;
+}
+
+/* For smaller screens (768px or less) */
+@media screen and (max-width: 768px) {
+    .home-images {
+        flex-direction: column;
+    }
+
+    .home-images img {
+        width: 100%;
+    }
+}

@@ -5,8 +5,8 @@ import Button from './Button';
 function Leagues() {
   return (
     <div>
-      <Button text="Gwyr League" as={Link} to="/leagues/gwyr" />
-      <Button text="Copr League" as={Link} to="/leagues/copr" />
+      <Button text="Gwyr League" as={Link} to="gwyr" />
+      <Button text="Copr League" as={Link} to="copr" />
     </div>
   );
 }

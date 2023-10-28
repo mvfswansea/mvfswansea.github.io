@@ -11,7 +11,7 @@ function Elevens() {
           <Button
             text="Gwyr"
             imageUrl="images/ynystawe.jpg"
-            to="/elevens/gwyr"
+            to="#/elevens/gwyr"
             imageWidth="900px"
             imageHeight="500px"
           />
@@ -21,7 +21,7 @@ function Elevens() {
           <Button
             text="Tawe"
             imageUrl="images/teams/TaweTeam.jpeg"
-            to="/elevens/tawe"
+            to="#/elevens/tawe"
             imageWidth="900px"
             imageHeight="500px"
           />
@@ -31,7 +31,7 @@ function Elevens() {
           <Button
             text="Copr"
             imageUrl="images/purefootball.jpg"
-            to="/elevens/copr"
+            to="#/elevens/copr"
             imageWidth="900px"
             imageHeight="500px"
           />

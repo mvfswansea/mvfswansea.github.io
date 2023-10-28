@@ -30,6 +30,87 @@
                                 "goalsFor": 35,
                                 "goalsAgainst": 10
                             }
+                        },
+                        {
+                            "players": {
+                                "player1": {
+                                    "name": "Captain",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player2": {
+                                    "name": "Vice Captain",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player3": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player4": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player5": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player6": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player7": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player8": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player9": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player10": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player11": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                }
+                            }
                         }
                     ],
                     "Largentina": [
@@ -57,6 +138,87 @@
                                 "losses": 1,
                                 "goalsFor": 43,
                                 "goalsAgainst": 8
+                            }
+                        },
+                        {
+                            "players": {
+                                "player1": {
+                                    "name": "Captain",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player2": {
+                                    "name": "Vice Captain",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player3": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player4": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player5": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player6": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player7": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player8": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player9": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player10": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player11": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                }
                             }
                         }
                     ],
@@ -86,6 +248,87 @@
                                 "goalsFor": 31,
                                 "goalsAgainst": 16
                             }
+                        },
+                        {
+                            "players": {
+                                "player1": {
+                                    "name": "Captain",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player2": {
+                                    "name": "Vice Captain",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player3": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player4": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player5": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player6": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player7": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player8": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player9": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player10": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player11": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                }
+                            }
                         }
                     ],
                     "VanDerSarnies": [
@@ -113,6 +356,87 @@
                                 "losses": 1,
                                 "goalsFor": 35,
                                 "goalsAgainst": 10
+                            }
+                        },
+                        {
+                            "players": {
+                                "player1": {
+                                    "name": "Captain",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player2": {
+                                    "name": "Vice Captain",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player3": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player4": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player5": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player6": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player7": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player8": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player9": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player10": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player11": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                }
                             }
                         }
                     ],
@@ -142,6 +466,87 @@
                                 "goalsFor": 35,
                                 "goalsAgainst": 10
                             }
+                        },
+                        {
+                            "players": {
+                                "player1": {
+                                    "name": "Captain",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player2": {
+                                    "name": "Darrell Cox",
+                                    "age": "29",
+                                    "skill": "Pace",
+                                    "isCaptain": false,
+                                    "isViceCaptain": true
+                                },
+                                "player3": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player4": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player5": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player6": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player7": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player8": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player9": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player10": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player11": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                }
+                            }
                         }
                     ],
                     "RHCP": [
@@ -169,6 +574,87 @@
                                 "losses": 1,
                                 "goalsFor": 35,
                                 "goalsAgainst": 10
+                            }
+                        },
+                        {
+                            "players": {
+                                "player1": {
+                                    "name": "Captain",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player2": {
+                                    "name": "Vice Captain",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player3": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player4": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player5": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player6": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player7": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player8": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player9": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player10": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player11": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                }
                             }
                         }
                     ],
@@ -198,6 +684,87 @@
                                 "goalsFor": 35,
                                 "goalsAgainst": 10
                             }
+                        },
+                        {
+                            "players": {
+                                "player1": {
+                                    "name": "Captain",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player2": {
+                                    "name": "Vice Captain",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player3": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player4": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player5": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player6": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player7": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player8": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player9": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player10": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player11": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                }
+                            }
                         }
                     ],
                     "BorussiaDonuts": [
@@ -226,6 +793,87 @@
                                 "goalsFor": 35,
                                 "goalsAgainst": 10
                             }
+                        },
+                        {
+                            "players": {
+                                "player1": {
+                                    "name": "Captain",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player2": {
+                                    "name": "Vice Captain",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player3": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player4": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player5": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player6": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player7": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player8": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player9": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player10": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player11": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                }
+                            }
                         }
                     ]
                 }
@@ -241,7 +889,7 @@
             "name": "Copr",
             "teams": [
                 {
-                    "Monchenburgers": [
+                    "BorussiaMonchenburger": [
                         {
                             "pitch": {
                                 "matchesPlayed": 5,
@@ -266,6 +914,87 @@
                                 "losses": 1,
                                 "goalsFor": 35,
                                 "goalsAgainst": 10
+                            }
+                        },
+                        {
+                            "players": {
+                                "player1": {
+                                    "name": "Captain",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player2": {
+                                    "name": "Vice Captain",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player3": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player4": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player5": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player6": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player7": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player8": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player9": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player10": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player11": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                }
                             }
                         }
                     ],
@@ -295,6 +1024,87 @@
                                 "goalsFor": 43,
                                 "goalsAgainst": 8
                             }
+                        },
+                        {
+                            "players": {
+                                "player1": {
+                                    "name": "Captain",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player2": {
+                                    "name": "Vice Captain",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player3": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player4": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player5": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player6": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player7": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player8": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player9": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player10": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player11": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                }
+                            }
                         }
                     ],
                     "RealLettuce": [
@@ -322,6 +1132,87 @@
                                 "losses": 1,
                                 "goalsFor": 31,
                                 "goalsAgainst": 16
+                            }
+                        },
+                        {
+                            "players": {
+                                "player1": {
+                                    "name": "Car Wai Lau",
+                                    "age": "35",
+                                    "skill": "Golf",
+                                    "isCaptain": true,
+                                    "isViceCaptain": false
+                                },
+                                "player2": {
+                                    "name": "Vice Captain",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player3": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player4": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player5": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player6": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player7": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player8": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player9": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player10": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player11": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                }
                             }
                         }
                     ],
@@ -351,6 +1242,87 @@
                                 "goalsFor": 35,
                                 "goalsAgainst": 10
                             }
+                        },
+                        {
+                            "players": {
+                                "player1": {
+                                    "name": "Captain",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player2": {
+                                    "name": "Vice Captain",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player3": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player4": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player5": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player6": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player7": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player8": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player9": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player10": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player11": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                }
+                            }
                         }
                     ],
                     "HangryHippos": [
@@ -378,6 +1350,87 @@
                                 "losses": 1,
                                 "goalsFor": 35,
                                 "goalsAgainst": 10
+                            }
+                        },
+                        {
+                            "players": {
+                                "player1": {
+                                    "name": "Captain",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player2": {
+                                    "name": "Vice Captain",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player3": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player4": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player5": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player6": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player7": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player8": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player9": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player10": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player11": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                }
                             }
                         }
                     ],
@@ -407,6 +1460,87 @@
                                 "goalsFor": 35,
                                 "goalsAgainst": 10
                             }
+                        },
+                        {
+                            "players": {
+                                "player1": {
+                                    "name": "Captain",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player2": {
+                                    "name": "Vice Captain",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player3": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player4": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player5": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player6": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player7": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player8": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player9": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player10": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player11": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                }
+                            }
                         }
                     ],
                     "FullOfHam": [
@@ -435,6 +1569,87 @@
                                 "goalsFor": 35,
                                 "goalsAgainst": 10
                             }
+                        },
+                        {
+                            "players": {
+                                "player1": {
+                                    "name": "Captain",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player2": {
+                                    "name": "Vice Captain",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player3": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player4": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player5": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player6": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player7": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player8": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player9": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player10": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player11": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                }
+                            }
                         }
                     ],
                     "ClwbTropicana": [
@@ -462,6 +1677,87 @@
                                 "losses": 1,
                                 "goalsFor": 35,
                                 "goalsAgainst": 10
+                            }
+                        },
+                        {
+                            "players": {
+                                "player1": {
+                                    "name": "Captain",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player2": {
+                                    "name": "Vice Captain",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player3": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player4": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player5": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player6": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player7": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player8": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player9": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player10": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                },
+                                "player11": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "beingEmpty",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false
+                                }
                             }
                         }
                     ]

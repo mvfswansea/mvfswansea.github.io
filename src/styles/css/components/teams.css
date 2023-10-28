@@ -1,0 +1,54 @@
+.team {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.team h2 {
+    margin: 0;
+}
+
+.team-captains {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.team-players {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.team-captains p {
+    width: 30%;
+    margin: 10px;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.team-players p {
+    width: calc(30%);
+    margin: 10px;
+    border: 1px solid #ccc;
+}
+
+/* Remove bullet points and adjust styling for the list */
+.team-captains ul,
+.team-players ul {
+  list-style: none; /* Remove bullet points */
+  padding: 0; /* Remove default padding */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+/* Style for list items */
+.team-captains li,
+.team-players li {
+  width: 30%;
+  margin: 10px;
+  border: 1px solid #ccc;
+  padding: 10px;
+}

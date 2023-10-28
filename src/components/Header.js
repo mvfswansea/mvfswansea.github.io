@@ -27,7 +27,7 @@ function Header() {
       <div className="left-button">
         <Link to="/">
           <img
-            src="/images/MVFFLogo.svg"
+            src="images/MVFFLogo.svg"
             alt="Home"
             style={{
               width: '207px',
