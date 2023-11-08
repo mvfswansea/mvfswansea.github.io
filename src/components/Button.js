@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+// import { Link } from 'react-router-dom';
 
 function Button({
   text,
@@ -23,9 +23,9 @@ function Button({
           alt=""
         />
       </div>
-      <div className="text-container">
+      {/* <div className="text-container">
         {text && <Link to={to}>{text}</Link>}
-      </div>
+      </div> */}
     </div>
   );
 }
