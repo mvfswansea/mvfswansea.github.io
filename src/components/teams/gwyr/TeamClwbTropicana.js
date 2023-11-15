@@ -3,7 +3,7 @@ import Team from '../../Team';
 
 const TeamClwbTropicana = () => {
   return (
-    <Team teamName={'ClwbTropicana'} leagueName={'Copr'}></Team>
+    <Team teamName={'ClwbTropicana'} leagueName={'Gwyr'}></Team>
   );
 };
 

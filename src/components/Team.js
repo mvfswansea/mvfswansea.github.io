@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import '../styles/css/components/teams.css';
 import jsonLeagueData from '../data/league_data.json';
 
@@ -10,13 +11,11 @@ function Team({ teamName, leagueName }) {
 
   const teamData = league?.teams.find((team) => team.hasOwnProperty(teamName));
   if (!teamData) {
-    console.log(league)
     return <div>No team data available.</div>;
   }
 
   const teamPlayerData = teamData[teamName][1].players;
   if (!teamPlayerData) {
-    console.log(teamData)
     return <div>No player data available.</div>;
   }
 
@@ -25,9 +24,9 @@ function Team({ teamName, leagueName }) {
   const captain = Object.values(teamPlayerData).find((player) => player.isCaptain) || null;
   const viceCaptain = Object.values(teamPlayerData).find((player) => player.isViceCaptain) || null;
 
-  const otherPlayers = Object.values(teamPlayerData).filter(
-    (player) => player && player.name && !player.isCaptain && !player.isViceCaptain
-  );
+  const otherPlayers = Object.values(teamPlayerData)
+    .filter(player => player && player.isActive && player.name && !player.isCaptain && !player.isViceCaptain)
+    .sort((a, b) => a.name.localeCompare(b.name));
 
   if (!captain && !viceCaptain) {
     captainData =
@@ -85,7 +84,7 @@ function Team({ teamName, leagueName }) {
 
   // Main component return
   return (
-    <div>
+    <div className='team-main'>
       <h2> {teamName} Team Page </h2>
       <div className='team-captains'>
         {captainData}
@@ -97,6 +96,12 @@ function Team({ teamName, leagueName }) {
               {player.name} <br />
               Age: {player.age} <br />
               Skill: {player.skill}
+              {/* Conditionally display link if player.profile exists */}
+              {player.profile && (
+                <Link to={`/player/${encodeURIComponent(leagueName)}/${encodeURIComponent(player.name)}`}>
+                  <br /> View Profile
+                </Link>
+              )}
             </li>
           ))}
         </ul>

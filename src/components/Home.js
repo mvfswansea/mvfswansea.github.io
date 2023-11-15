@@ -3,6 +3,9 @@ import Button from './Button';
 
 import '../styles/css/components/home.css';
 
+// For Hero of the week, create a function that finds all of the values within the data set
+// Possibly change/remove this in favour of team of the week options in the league page?
+
 function Home() {
   return (
     <div>
@@ -10,15 +13,16 @@ function Home() {
       <div className='home-images'>
         <Button
           text="League"
-          imageUrl="images/purefootball.jpg"
+          imageUrl="images/LeagueArt.png"
           to="#/leagues"
         />
         <Button
           text="Elevens"
-          imageUrl="images/ynystawe.jpg"
+          imageUrl="images/ElevensArt.png"
           to="#/elevens"
         />
       </div>
+
     </div>
   );
 }

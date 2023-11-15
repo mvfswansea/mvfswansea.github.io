@@ -4,7 +4,7 @@
             "name": "Gwyr",
             "teams": [
                 {
-                    "AllPhats": [
+                    "ClwbTropicana": [
                         {
                             "pitch": {
                                 "matchesPlayed": 5,
@@ -36,108 +36,119 @@
                                 "player1": {
                                     "name": "Captain",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player2": {
                                     "name": "Vice Captain",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player3": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player4": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player5": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player6": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player7": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player8": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player9": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player10": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player11": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 }
                             }
                         }
                     ],
-                    "Largentina": [
+                    "FullOfHam": [
                         {
                             "pitch": {
                                 "matchesPlayed": 5,
-                                "wins": 3,
-                                "draws": 1,
+                                "wins": 4,
+                                "draws": 0,
                                 "losses": 1,
-                                "goalsFor": 24,
-                                "goalsAgainst": 13
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
                             },
                             "scales": {
                                 "matchesPlayed": 5,
                                 "wins": 4,
                                 "draws": 0,
                                 "losses": 1,
-                                "goalsFor": 45,
-                                "goalsAgainst": 7
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
                             },
                             "combined": {
                                 "matchesPlayed": 5,
                                 "wins": 4,
                                 "draws": 0,
                                 "losses": 1,
-                                "goalsFor": 43,
-                                "goalsAgainst": 8
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
                             }
                         },
                         {
@@ -145,79 +156,90 @@
                                 "player1": {
                                     "name": "Captain",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player2": {
                                     "name": "Vice Captain",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player3": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player4": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player5": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player6": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player7": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player8": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player9": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player10": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player11": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 }
                             }
                         }
@@ -254,84 +276,95 @@
                                 "player1": {
                                     "name": "Captain",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player2": {
                                     "name": "Vice Captain",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player3": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player4": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player5": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player6": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player7": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player8": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player9": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player10": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player11": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 }
                             }
                         }
                     ],
-                    "VanDerSarnies": [
+                    "HangryHippos": [
                         {
                             "pitch": {
                                 "matchesPlayed": 5,
@@ -363,108 +396,119 @@
                                 "player1": {
                                     "name": "Captain",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player2": {
                                     "name": "Vice Captain",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player3": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player4": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player5": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player6": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player7": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player8": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player9": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player10": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player11": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 }
                             }
                         }
                     ],
-                    "BMIMunchen": [
+                    "NavyBlueSeals": [
                         {
                             "pitch": {
                                 "matchesPlayed": 5,
-                                "wins": 4,
-                                "draws": 0,
+                                "wins": 3,
+                                "draws": 1,
                                 "losses": 1,
-                                "goalsFor": 35,
-                                "goalsAgainst": 10
+                                "goalsFor": 24,
+                                "goalsAgainst": 13
                             },
                             "scales": {
                                 "matchesPlayed": 5,
                                 "wins": 4,
                                 "draws": 0,
                                 "losses": 1,
-                                "goalsFor": 35,
-                                "goalsAgainst": 10
+                                "goalsFor": 45,
+                                "goalsAgainst": 7
                             },
                             "combined": {
                                 "matchesPlayed": 5,
                                 "wins": 4,
                                 "draws": 0,
                                 "losses": 1,
-                                "goalsFor": 35,
-                                "goalsAgainst": 10
+                                "goalsFor": 43,
+                                "goalsAgainst": 8
                             }
                         },
                         {
@@ -472,79 +516,90 @@
                                 "player1": {
                                     "name": "Captain",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player2": {
-                                    "name": "Darrell Cox",
-                                    "age": "29",
-                                    "skill": "Pace",
+                                    "name": "Vice Captain",
+                                    "age": "blank",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": true
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player3": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player4": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player5": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player6": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player7": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player8": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player9": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player10": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player11": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 }
                             }
                         }
@@ -581,84 +636,95 @@
                                 "player1": {
                                     "name": "Captain",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player2": {
                                     "name": "Vice Captain",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player3": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player4": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player5": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player6": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player7": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player8": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player9": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player10": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player11": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 }
                             }
                         }
                     ],
-                    "RealMadri": [
+                    "TheAllPhats": [
                         {
                             "pitch": {
                                 "matchesPlayed": 5,
@@ -690,79 +756,391 @@
                                 "player1": {
                                     "name": "Captain",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player2": {
                                     "name": "Vice Captain",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player3": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player4": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player5": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player6": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player7": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player8": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player9": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player10": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player11": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
+                                }
+                            }
+                        }
+                    ],
+                    "VanDerSarnies": [
+                        {
+                            "pitch": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
+                            },
+                            "scales": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
+                            },
+                            "combined": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
+                            }
+                        },
+                        {
+                            "players": {
+                                "player1": {
+                                    "name": "Captain",
+                                    "age": "blank",
+                                    "skill": "blank",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false,
+                                    "isActive": true
+                                },
+                                "player2": {
+                                    "name": "Vice Captain",
+                                    "age": "blank",
+                                    "skill": "blank",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false,
+                                    "isActive": true
+                                },
+                                "player3": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "blank",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false,
+                                    "isActive": true
+                                },
+                                "player4": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "blank",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false,
+                                    "isActive": true
+                                },
+                                "player5": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "blank",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false,
+                                    "isActive": true
+                                },
+                                "player6": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "blank",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false,
+                                    "isActive": true
+                                },
+                                "player7": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "blank",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false,
+                                    "isActive": true
+                                },
+                                "player8": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "blank",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false,
+                                    "isActive": true
+                                },
+                                "player9": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "blank",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false,
+                                    "isActive": true
+                                },
+                                "player10": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "blank",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false,
+                                    "isActive": true
+                                },
+                                "player11": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "blank",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false,
+                                    "isActive": true
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "fixtures": {
+                "fixtures": "something"
+            },
+            "results": {
+                "results": "something"
+            }
+        },
+        {
+            "name": "Copr",
+            "teams": [
+                {
+                    "BMIMunchen": [
+                        {
+                            "pitch": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
+                            },
+                            "scales": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
+                            },
+                            "combined": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
+                            }
+                        },
+                        {
+                            "players": {
+                                "player1": {
+                                    "name": "Nathan Charles",
+                                    "age": "blank",
+                                    "skill": "blank",
+                                    "isCaptain": true,
+                                    "isViceCaptain": false,
+                                    "isActive": true
+                                },
+                                "player2": {
+                                    "name": "Scott Jones",
+                                    "age": "blank",
+                                    "skill": "blank",
+                                    "isCaptain": false,
+                                    "isViceCaptain": true,
+                                    "isActive": true
+                                },
+                                "player3": {
+                                    "name": "Darrell Cox",
+                                    "age": "blank",
+                                    "skill": "blank",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false,
+                                    "isActive": true,
+                                    "isPrivate": false,
+                                    "isHero": true,
+                                    "isTOTW": false,
+                                    "profile": {
+                                        "test": "data"
+                                    }
+                                },
+                                "player32": {
+                                    "name": "Billy1",
+                                    "age": "blank",
+                                    "skill": "blank",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false,
+                                    "isActive": true,
+                                    "isPrivate": false,
+                                    "isHero": false,
+                                    "isTOTW": true,
+                                    "profile": {
+                                        "test": "This is Billy 1"
+                                    }
+                                },
+                                "player33": {
+                                    "name": "Billy2",
+                                    "age": "blank",
+                                    "skill": "blank",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false,
+                                    "isActive": true,
+                                    "isPrivate": true,
+                                    "isHero": false,
+                                    "isTOTW": true,
+                                    "profile": {
+                                        "test": "This is Billy 2"
+                                    }
+                                },
+                                "player34": {
+                                    "name": "Billy3",
+                                    "age": "blank",
+                                    "skill": "blank",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false,
+                                    "isActive": false,
+                                    "isPrivate": false,
+                                    "isHero": false,
+                                    "isTOTW": true,
+                                    "profile": {
+                                        "test": "This is Billy 3"
+                                    }
+                                },
+                                "player4": {
+                                    "name": "Richard Davies",
+                                    "age": "blank",
+                                    "skill": "blank",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false,
+                                    "isActive": true
+                                },
+                                "player5": {
+                                    "name": "Kevin Carro",
+                                    "age": "blank",
+                                    "skill": "blank",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false,
+                                    "isActive": true
+                                },
+                                "player6": {
+                                    "name": "Matthew Corbett",
+                                    "age": "blank",
+                                    "skill": "blank",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false,
+                                    "isActive": true
+                                },
+                                "player7": {
+                                    "name": "Ryan Devereaux-Harding",
+                                    "age": "blank",
+                                    "skill": "blank",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false,
+                                    "isActive": true
+                                },
+                                "player8": {
+                                    "name": "Matt Ridler",
+                                    "age": "blank",
+                                    "skill": "blank",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false,
+                                    "isActive": true
+                                },
+                                "player9": {
+                                    "name": "Cai Evans",
+                                    "age": "blank",
+                                    "skill": "blank",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false,
+                                    "isActive": true
+                                },
+                                "player10": {
+                                    "name": "David Skone",
+                                    "age": "blank",
+                                    "skill": "blank",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false,
+                                    "isActive": false
+                                },
+                                "player11": {
+                                    "name": "Matt Brooks",
+                                    "age": "blank",
+                                    "skill": "blank",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false,
+                                    "isActive": false
                                 }
                             }
                         }
@@ -799,96 +1177,94 @@
                                 "player1": {
                                     "name": "Captain",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player2": {
                                     "name": "Vice Captain",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player3": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player4": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player5": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player6": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player7": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player8": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player9": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player10": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player11": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 }
                             }
                         }
-                    ]
-                }
-            ],
-            "fixtures": {
-                "fixtures": "something"
-            },
-            "results": {
-                "results": "something"
-            }
-        },
-        {
-            "name": "Copr",
-            "teams": [
-                {
+                    ],
                     "BorussiaMonchenburger": [
                         {
                             "pitch": {
@@ -921,84 +1297,95 @@
                                 "player1": {
                                     "name": "Captain",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player2": {
                                     "name": "Vice Captain",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player3": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player4": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player5": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player6": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player7": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player8": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player9": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player10": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player11": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 }
                             }
                         }
                     ],
-                    "Seals": [
+                    "Largentina": [
                         {
                             "pitch": {
                                 "matchesPlayed": 5,
@@ -1030,79 +1417,210 @@
                                 "player1": {
                                     "name": "Captain",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player2": {
                                     "name": "Vice Captain",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player3": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player4": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player5": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player6": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player7": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player8": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player9": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player10": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player11": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
+                                }
+                            }
+                        }
+                    ],
+                    "MassiveCochs": [
+                        {
+                            "pitch": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
+                            },
+                            "scales": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
+                            },
+                            "combined": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
+                            }
+                        },
+                        {
+                            "players": {
+                                "player1": {
+                                    "name": "Captain",
+                                    "age": "blank",
+                                    "skill": "blank",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false,
+                                    "isActive": true
+                                },
+                                "player2": {
+                                    "name": "Vice Captain",
+                                    "age": "blank",
+                                    "skill": "blank",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false,
+                                    "isActive": true
+                                },
+                                "player3": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "blank",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false,
+                                    "isActive": true
+                                },
+                                "player4": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "blank",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false,
+                                    "isActive": true
+                                },
+                                "player5": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "blank",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false,
+                                    "isActive": true
+                                },
+                                "player6": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "blank",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false,
+                                    "isActive": true
+                                },
+                                "player7": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "blank",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false,
+                                    "isActive": true
+                                },
+                                "player8": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "blank",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false,
+                                    "isActive": true
+                                },
+                                "player9": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "blank",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false,
+                                    "isActive": true
+                                },
+                                "player10": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "blank",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false,
+                                    "isActive": true
+                                },
+                                "player11": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "blank",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 }
                             }
                         }
@@ -1141,77 +1659,208 @@
                                     "age": "35",
                                     "skill": "Golf",
                                     "isCaptain": true,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player2": {
                                     "name": "Vice Captain",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player3": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player4": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player5": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player6": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player7": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player8": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player9": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player10": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player11": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
+                                }
+                            }
+                        }
+                    ],
+                    "RealMadri": [
+                        {
+                            "pitch": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
+                            },
+                            "scales": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
+                            },
+                            "combined": {
+                                "matchesPlayed": 5,
+                                "wins": 4,
+                                "draws": 0,
+                                "losses": 1,
+                                "goalsFor": 35,
+                                "goalsAgainst": 10
+                            }
+                        },
+                        {
+                            "players": {
+                                "player1": {
+                                    "name": "Captain",
+                                    "age": "blank",
+                                    "skill": "blank",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false,
+                                    "isActive": true
+                                },
+                                "player2": {
+                                    "name": "Vice Captain",
+                                    "age": "blank",
+                                    "skill": "blank",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false,
+                                    "isActive": true
+                                },
+                                "player3": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "blank",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false,
+                                    "isActive": true
+                                },
+                                "player4": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "blank",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false,
+                                    "isActive": true
+                                },
+                                "player5": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "blank",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false,
+                                    "isActive": true
+                                },
+                                "player6": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "blank",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false,
+                                    "isActive": true
+                                },
+                                "player7": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "blank",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false,
+                                    "isActive": true
+                                },
+                                "player8": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "blank",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false,
+                                    "isActive": true
+                                },
+                                "player9": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "blank",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false,
+                                    "isActive": true
+                                },
+                                "player10": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "blank",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false,
+                                    "isActive": true
+                                },
+                                "player11": {
+                                    "name": "Nobody",
+                                    "age": "blank",
+                                    "skill": "blank",
+                                    "isCaptain": false,
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 }
                             }
                         }
@@ -1248,515 +1897,90 @@
                                 "player1": {
                                     "name": "Captain",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player2": {
                                     "name": "Vice Captain",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player3": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player4": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player5": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player6": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player7": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player8": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player9": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player10": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 },
                                 "player11": {
                                     "name": "Nobody",
                                     "age": "blank",
-                                    "skill": "beingEmpty",
+                                    "skill": "blank",
                                     "isCaptain": false,
-                                    "isViceCaptain": false
-                                }
-                            }
-                        }
-                    ],
-                    "HangryHippos": [
-                        {
-                            "pitch": {
-                                "matchesPlayed": 5,
-                                "wins": 4,
-                                "draws": 0,
-                                "losses": 1,
-                                "goalsFor": 35,
-                                "goalsAgainst": 10
-                            },
-                            "scales": {
-                                "matchesPlayed": 5,
-                                "wins": 4,
-                                "draws": 0,
-                                "losses": 1,
-                                "goalsFor": 35,
-                                "goalsAgainst": 10
-                            },
-                            "combined": {
-                                "matchesPlayed": 5,
-                                "wins": 4,
-                                "draws": 0,
-                                "losses": 1,
-                                "goalsFor": 35,
-                                "goalsAgainst": 10
-                            }
-                        },
-                        {
-                            "players": {
-                                "player1": {
-                                    "name": "Captain",
-                                    "age": "blank",
-                                    "skill": "beingEmpty",
-                                    "isCaptain": false,
-                                    "isViceCaptain": false
-                                },
-                                "player2": {
-                                    "name": "Vice Captain",
-                                    "age": "blank",
-                                    "skill": "beingEmpty",
-                                    "isCaptain": false,
-                                    "isViceCaptain": false
-                                },
-                                "player3": {
-                                    "name": "Nobody",
-                                    "age": "blank",
-                                    "skill": "beingEmpty",
-                                    "isCaptain": false,
-                                    "isViceCaptain": false
-                                },
-                                "player4": {
-                                    "name": "Nobody",
-                                    "age": "blank",
-                                    "skill": "beingEmpty",
-                                    "isCaptain": false,
-                                    "isViceCaptain": false
-                                },
-                                "player5": {
-                                    "name": "Nobody",
-                                    "age": "blank",
-                                    "skill": "beingEmpty",
-                                    "isCaptain": false,
-                                    "isViceCaptain": false
-                                },
-                                "player6": {
-                                    "name": "Nobody",
-                                    "age": "blank",
-                                    "skill": "beingEmpty",
-                                    "isCaptain": false,
-                                    "isViceCaptain": false
-                                },
-                                "player7": {
-                                    "name": "Nobody",
-                                    "age": "blank",
-                                    "skill": "beingEmpty",
-                                    "isCaptain": false,
-                                    "isViceCaptain": false
-                                },
-                                "player8": {
-                                    "name": "Nobody",
-                                    "age": "blank",
-                                    "skill": "beingEmpty",
-                                    "isCaptain": false,
-                                    "isViceCaptain": false
-                                },
-                                "player9": {
-                                    "name": "Nobody",
-                                    "age": "blank",
-                                    "skill": "beingEmpty",
-                                    "isCaptain": false,
-                                    "isViceCaptain": false
-                                },
-                                "player10": {
-                                    "name": "Nobody",
-                                    "age": "blank",
-                                    "skill": "beingEmpty",
-                                    "isCaptain": false,
-                                    "isViceCaptain": false
-                                },
-                                "player11": {
-                                    "name": "Nobody",
-                                    "age": "blank",
-                                    "skill": "beingEmpty",
-                                    "isCaptain": false,
-                                    "isViceCaptain": false
-                                }
-                            }
-                        }
-                    ],
-                    "MassiveCochs": [
-                        {
-                            "pitch": {
-                                "matchesPlayed": 5,
-                                "wins": 4,
-                                "draws": 0,
-                                "losses": 1,
-                                "goalsFor": 35,
-                                "goalsAgainst": 10
-                            },
-                            "scales": {
-                                "matchesPlayed": 5,
-                                "wins": 4,
-                                "draws": 0,
-                                "losses": 1,
-                                "goalsFor": 35,
-                                "goalsAgainst": 10
-                            },
-                            "combined": {
-                                "matchesPlayed": 5,
-                                "wins": 4,
-                                "draws": 0,
-                                "losses": 1,
-                                "goalsFor": 35,
-                                "goalsAgainst": 10
-                            }
-                        },
-                        {
-                            "players": {
-                                "player1": {
-                                    "name": "Captain",
-                                    "age": "blank",
-                                    "skill": "beingEmpty",
-                                    "isCaptain": false,
-                                    "isViceCaptain": false
-                                },
-                                "player2": {
-                                    "name": "Vice Captain",
-                                    "age": "blank",
-                                    "skill": "beingEmpty",
-                                    "isCaptain": false,
-                                    "isViceCaptain": false
-                                },
-                                "player3": {
-                                    "name": "Nobody",
-                                    "age": "blank",
-                                    "skill": "beingEmpty",
-                                    "isCaptain": false,
-                                    "isViceCaptain": false
-                                },
-                                "player4": {
-                                    "name": "Nobody",
-                                    "age": "blank",
-                                    "skill": "beingEmpty",
-                                    "isCaptain": false,
-                                    "isViceCaptain": false
-                                },
-                                "player5": {
-                                    "name": "Nobody",
-                                    "age": "blank",
-                                    "skill": "beingEmpty",
-                                    "isCaptain": false,
-                                    "isViceCaptain": false
-                                },
-                                "player6": {
-                                    "name": "Nobody",
-                                    "age": "blank",
-                                    "skill": "beingEmpty",
-                                    "isCaptain": false,
-                                    "isViceCaptain": false
-                                },
-                                "player7": {
-                                    "name": "Nobody",
-                                    "age": "blank",
-                                    "skill": "beingEmpty",
-                                    "isCaptain": false,
-                                    "isViceCaptain": false
-                                },
-                                "player8": {
-                                    "name": "Nobody",
-                                    "age": "blank",
-                                    "skill": "beingEmpty",
-                                    "isCaptain": false,
-                                    "isViceCaptain": false
-                                },
-                                "player9": {
-                                    "name": "Nobody",
-                                    "age": "blank",
-                                    "skill": "beingEmpty",
-                                    "isCaptain": false,
-                                    "isViceCaptain": false
-                                },
-                                "player10": {
-                                    "name": "Nobody",
-                                    "age": "blank",
-                                    "skill": "beingEmpty",
-                                    "isCaptain": false,
-                                    "isViceCaptain": false
-                                },
-                                "player11": {
-                                    "name": "Nobody",
-                                    "age": "blank",
-                                    "skill": "beingEmpty",
-                                    "isCaptain": false,
-                                    "isViceCaptain": false
-                                }
-                            }
-                        }
-                    ],
-                    "FullOfHam": [
-                        {
-                            "pitch": {
-                                "matchesPlayed": 5,
-                                "wins": 4,
-                                "draws": 0,
-                                "losses": 1,
-                                "goalsFor": 35,
-                                "goalsAgainst": 10
-                            },
-                            "scales": {
-                                "matchesPlayed": 5,
-                                "wins": 4,
-                                "draws": 0,
-                                "losses": 1,
-                                "goalsFor": 35,
-                                "goalsAgainst": 10
-                            },
-                            "combined": {
-                                "matchesPlayed": 5,
-                                "wins": 4,
-                                "draws": 0,
-                                "losses": 1,
-                                "goalsFor": 35,
-                                "goalsAgainst": 10
-                            }
-                        },
-                        {
-                            "players": {
-                                "player1": {
-                                    "name": "Captain",
-                                    "age": "blank",
-                                    "skill": "beingEmpty",
-                                    "isCaptain": false,
-                                    "isViceCaptain": false
-                                },
-                                "player2": {
-                                    "name": "Vice Captain",
-                                    "age": "blank",
-                                    "skill": "beingEmpty",
-                                    "isCaptain": false,
-                                    "isViceCaptain": false
-                                },
-                                "player3": {
-                                    "name": "Nobody",
-                                    "age": "blank",
-                                    "skill": "beingEmpty",
-                                    "isCaptain": false,
-                                    "isViceCaptain": false
-                                },
-                                "player4": {
-                                    "name": "Nobody",
-                                    "age": "blank",
-                                    "skill": "beingEmpty",
-                                    "isCaptain": false,
-                                    "isViceCaptain": false
-                                },
-                                "player5": {
-                                    "name": "Nobody",
-                                    "age": "blank",
-                                    "skill": "beingEmpty",
-                                    "isCaptain": false,
-                                    "isViceCaptain": false
-                                },
-                                "player6": {
-                                    "name": "Nobody",
-                                    "age": "blank",
-                                    "skill": "beingEmpty",
-                                    "isCaptain": false,
-                                    "isViceCaptain": false
-                                },
-                                "player7": {
-                                    "name": "Nobody",
-                                    "age": "blank",
-                                    "skill": "beingEmpty",
-                                    "isCaptain": false,
-                                    "isViceCaptain": false
-                                },
-                                "player8": {
-                                    "name": "Nobody",
-                                    "age": "blank",
-                                    "skill": "beingEmpty",
-                                    "isCaptain": false,
-                                    "isViceCaptain": false
-                                },
-                                "player9": {
-                                    "name": "Nobody",
-                                    "age": "blank",
-                                    "skill": "beingEmpty",
-                                    "isCaptain": false,
-                                    "isViceCaptain": false
-                                },
-                                "player10": {
-                                    "name": "Nobody",
-                                    "age": "blank",
-                                    "skill": "beingEmpty",
-                                    "isCaptain": false,
-                                    "isViceCaptain": false
-                                },
-                                "player11": {
-                                    "name": "Nobody",
-                                    "age": "blank",
-                                    "skill": "beingEmpty",
-                                    "isCaptain": false,
-                                    "isViceCaptain": false
-                                }
-                            }
-                        }
-                    ],
-                    "ClwbTropicana": [
-                        {
-                            "pitch": {
-                                "matchesPlayed": 5,
-                                "wins": 4,
-                                "draws": 0,
-                                "losses": 1,
-                                "goalsFor": 35,
-                                "goalsAgainst": 10
-                            },
-                            "scales": {
-                                "matchesPlayed": 5,
-                                "wins": 4,
-                                "draws": 0,
-                                "losses": 1,
-                                "goalsFor": 35,
-                                "goalsAgainst": 10
-                            },
-                            "combined": {
-                                "matchesPlayed": 5,
-                                "wins": 4,
-                                "draws": 0,
-                                "losses": 1,
-                                "goalsFor": 35,
-                                "goalsAgainst": 10
-                            }
-                        },
-                        {
-                            "players": {
-                                "player1": {
-                                    "name": "Captain",
-                                    "age": "blank",
-                                    "skill": "beingEmpty",
-                                    "isCaptain": false,
-                                    "isViceCaptain": false
-                                },
-                                "player2": {
-                                    "name": "Vice Captain",
-                                    "age": "blank",
-                                    "skill": "beingEmpty",
-                                    "isCaptain": false,
-                                    "isViceCaptain": false
-                                },
-                                "player3": {
-                                    "name": "Nobody",
-                                    "age": "blank",
-                                    "skill": "beingEmpty",
-                                    "isCaptain": false,
-                                    "isViceCaptain": false
-                                },
-                                "player4": {
-                                    "name": "Nobody",
-                                    "age": "blank",
-                                    "skill": "beingEmpty",
-                                    "isCaptain": false,
-                                    "isViceCaptain": false
-                                },
-                                "player5": {
-                                    "name": "Nobody",
-                                    "age": "blank",
-                                    "skill": "beingEmpty",
-                                    "isCaptain": false,
-                                    "isViceCaptain": false
-                                },
-                                "player6": {
-                                    "name": "Nobody",
-                                    "age": "blank",
-                                    "skill": "beingEmpty",
-                                    "isCaptain": false,
-                                    "isViceCaptain": false
-                                },
-                                "player7": {
-                                    "name": "Nobody",
-                                    "age": "blank",
-                                    "skill": "beingEmpty",
-                                    "isCaptain": false,
-                                    "isViceCaptain": false
-                                },
-                                "player8": {
-                                    "name": "Nobody",
-                                    "age": "blank",
-                                    "skill": "beingEmpty",
-                                    "isCaptain": false,
-                                    "isViceCaptain": false
-                                },
-                                "player9": {
-                                    "name": "Nobody",
-                                    "age": "blank",
-                                    "skill": "beingEmpty",
-                                    "isCaptain": false,
-                                    "isViceCaptain": false
-                                },
-                                "player10": {
-                                    "name": "Nobody",
-                                    "age": "blank",
-                                    "skill": "beingEmpty",
-                                    "isCaptain": false,
-                                    "isViceCaptain": false
-                                },
-                                "player11": {
-                                    "name": "Nobody",
-                                    "age": "blank",
-                                    "skill": "beingEmpty",
-                                    "isCaptain": false,
-                                    "isViceCaptain": false
+                                    "isViceCaptain": false,
+                                    "isActive": true
                                 }
                             }
                         }

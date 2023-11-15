@@ -2,9 +2,11 @@ import React from 'react';
 
 function TeamGwyr() {
   return (
-    <div>
-      <h1>Gwyr Team</h1>
-      <p>This is the Gwyr sub-route content.</p>
+    <div className='elevens-main'>
+      <h1> Gwyr Team </h1>
+      <p> Home vs Newport = Won 4-1 </p>
+      <p> Away vs Cardiff = on </p>
+      <p> Away vs Copr = on </p>
     </div>
   );
 }

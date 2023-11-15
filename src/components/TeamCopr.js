@@ -2,9 +2,11 @@ import React from 'react';
 
 function TeamCopr() {
   return (
-    <div>
-      <h1>Copr Team</h1>
-      <p>This is the Copr sub-route content.</p>
+    <div className='elevens-main'>
+      <h1> Copr Team </h1>
+      <p> Home vs Newport = Lost 4-2 </p>
+      <p> Away vs Cardiff = Lost 6-1 </p>
+      <p> Home vs Gwyr = on </p>
     </div>
   );
 }
