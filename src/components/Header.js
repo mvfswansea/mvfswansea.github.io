@@ -5,23 +5,21 @@ import Sidebar from './Sidebar';
 import DropdownList from './DropdownList';
 import '../styles/css/components/header.css';
 
-
 function Header() {
   const [showSidebar, setShowSidebar] = useState(false);
 
   const toggleSidebar = () => {
     setShowSidebar(!showSidebar);
-
-    if (showSidebar) {
-      document.body.classList.remove('sidebar-open');
-    } else {
+    if (!showSidebar) {
       document.body.classList.add('sidebar-open');
+    } else {
+      document.body.classList.remove('sidebar-open');
     }
+  };
 
-    const bars = document.querySelectorAll('.bar');
-    bars.forEach(bar => {
-      bar.style.zIndex = showSidebar ? '0' : '1';
-    });
+  const closeSidebar = () => {
+    setShowSidebar(false);
+    document.body.classList.remove('sidebar-open');
   };
 
   return (
@@ -47,7 +45,7 @@ function Header() {
           <div className={`bar bar2 ${showSidebar ? 'change' : ''}`} />
           <div className={`bar bar3 ${showSidebar ? 'change' : ''}`} />
         </div>
-        {showSidebar && <Sidebar toggleSidebar={toggleSidebar} />}
+        {showSidebar && <Sidebar closeSidebar={closeSidebar} />}
       </div>
     </div>
   );
