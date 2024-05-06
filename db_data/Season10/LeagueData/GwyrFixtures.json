@@ -1,0 +1,102 @@
+{
+    "fixtures": {
+        "2024-03-19": {
+            "GwyrBlack": {
+                "opposition": "GwyrYellow",
+                "played": true,
+                "pitchResult": "4-11"
+            }
+        },
+        "2024-03-26": {
+            "GwyrBlack": {
+                "opposition": "GwyrOrange",
+                "played": true,
+                "pitchResult": "5-0"
+            }
+        },
+        "2024-04-02": {
+            "GwyrBlack": {
+                "opposition": "GwyrGreen",
+                "played": true,
+                "pitchResult": "6-3"
+            }
+        },
+        "2024-04-09": {
+            "GwyrBlack": {
+                "opposition": "GwyrPurple",
+                "played": true,
+                "pitchResult": "7-1"
+            }
+        },
+        "2024-04-16": {
+            "GwyrBlack": {
+                "opposition": "GwyrRed",
+                "played": true,
+                "pitchResult": "6-1"
+            }
+        },
+        "2024-04-23": {
+            "GwyrBlack": {
+                "opposition": "GwyrWhite",
+                "played": true,
+                "pitchResult": "5-5"
+            }
+        },
+        "2024-04-30": {
+            "GwyrBlack": {
+                "opposition": "GwyrBlue",
+                "played": true,
+                "pitchResult": "7-3"
+            }
+        },
+        "2024-05-07": {
+            "GwyrBlack": {
+                "opposition": "GwyrYellow",
+                "played": false,
+                "pitchResult": "0-0"
+            }
+        },
+        "2024-05-14": {
+            "GwyrBlack": {
+                "opposition": "GwyrOrange",
+                "played": false,
+                "pitchResult": "0-0"
+            }
+        },
+        "2024-05-21": {
+            "GwyrBlack": {
+                "opposition": "GwyrGreen",
+                "played": false,
+                "pitchResult": "0-0"
+            }
+        },
+        "2024-05-28": {
+            "GwyrBlack": {
+                "opposition": "GwyrPurple",
+                "played": false,
+                "pitchResult": "0-0"
+            }
+        },
+        "2024-06-04": {
+            "GwyrBlack": {
+                "opposition": "GwyrRed",
+                "played": false,
+                "pitchResult": "0-0"
+            }
+        },
+        "2024-06-11": {
+            "GwyrBlack": {
+                "opposition": "GwyrWhite",
+                "played": false,
+                "pitchResult": "0-0"
+            }
+        },
+        "2024-06-18": {
+            "GwyrBlack": {
+                "opposition": "GwyrBlue",
+                "played": false,
+                "pitchResult": "0-0"
+            }
+        }
+    }
+}

@@ -44,7 +44,7 @@ def update_or_insert_player(player_data):
     players_table.put_item(Item=player_data)
 
 # Get list of JSON files in the db_data folder
-folder_path = 'db_data/Season9'
+folder_path = '../db_data/Season9'
 
 # Specify the directories path for the data files
 league_data_folder = os.path.join(folder_path, 'LeagueData')
