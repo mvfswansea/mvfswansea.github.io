@@ -1,0 +1,292 @@
+{
+    "team-name": "CoprPurple",
+    "league-name": "Copr",
+    "players": [
+        {
+            "name": "Matthew Miles",
+            "age": "blank",
+            "isCaptain": false,
+            "isViceCaptain": true,
+            "isActive": true,
+            "isPrivate": false,
+            "isHero": false,
+            "isTOTW": false,
+            "profile": {
+                "hometown": "",
+                "career": "",
+                "hobbies": "",
+                "favouriteFood": "",
+                "favouriteTeam": "",
+                "joiningReason": ""
+            },
+            "pitch": {
+                "position": "Defence",
+                "matchesPlayed": "0",
+                "goals": "0",
+                "elevensTeam": "None",
+                "favouriteTeamMate": "",
+                "hatePlayingAgainst": ""
+            }
+        },
+        {
+            "name": "Ben Williams",
+            "age": "blank",
+            "isCaptain": false,
+            "isViceCaptain": true,
+            "isActive": true,
+            "isPrivate": false,
+            "isHero": false,
+            "isTOTW": false,
+            "profile": {
+                "hometown": "",
+                "career": "",
+                "hobbies": "",
+                "favouriteFood": "",
+                "favouriteTeam": "",
+                "joiningReason": ""
+            },
+            "pitch": {
+                "position": "Defence",
+                "matchesPlayed": "0",
+                "goals": "0",
+                "elevensTeam": "None",
+                "favouriteTeamMate": "",
+                "hatePlayingAgainst": ""
+            }
+        },
+        {
+            "name": "Chris Simmons",
+            "age": "blank",
+            "isCaptain": false,
+            "isViceCaptain": true,
+            "isActive": true,
+            "isPrivate": false,
+            "isHero": false,
+            "isTOTW": false,
+            "profile": {
+                "hometown": "",
+                "career": "",
+                "hobbies": "",
+                "favouriteFood": "",
+                "favouriteTeam": "",
+                "joiningReason": ""
+            },
+            "pitch": {
+                "position": "Defence",
+                "matchesPlayed": "0",
+                "goals": "0",
+                "elevensTeam": "None",
+                "favouriteTeamMate": "",
+                "hatePlayingAgainst": ""
+            }
+        },
+        {
+            "name": "Craig Evans",
+            "age": "blank",
+            "isCaptain": false,
+            "isViceCaptain": true,
+            "isActive": true,
+            "isPrivate": false,
+            "isHero": false,
+            "isTOTW": false,
+            "profile": {
+                "hometown": "",
+                "career": "",
+                "hobbies": "",
+                "favouriteFood": "",
+                "favouriteTeam": "",
+                "joiningReason": ""
+            },
+            "pitch": {
+                "position": "Defence",
+                "matchesPlayed": "0",
+                "goals": "0",
+                "elevensTeam": "None",
+                "favouriteTeamMate": "",
+                "hatePlayingAgainst": ""
+            }
+        },
+        {
+            "name": "Marc Lockwood",
+            "age": "blank",
+            "isCaptain": false,
+            "isViceCaptain": true,
+            "isActive": true,
+            "isPrivate": false,
+            "isHero": false,
+            "isTOTW": false,
+            "profile": {
+                "hometown": "",
+                "career": "",
+                "hobbies": "",
+                "favouriteFood": "",
+                "favouriteTeam": "",
+                "joiningReason": ""
+            },
+            "pitch": {
+                "position": "Defence",
+                "matchesPlayed": "0",
+                "goals": "0",
+                "elevensTeam": "None",
+                "favouriteTeamMate": "",
+                "hatePlayingAgainst": ""
+            }
+        },
+        {
+            "name": "Matthew Couch",
+            "age": "blank",
+            "isCaptain": false,
+            "isViceCaptain": true,
+            "isActive": true,
+            "isPrivate": false,
+            "isHero": false,
+            "isTOTW": false,
+            "profile": {
+                "hometown": "",
+                "career": "",
+                "hobbies": "",
+                "favouriteFood": "",
+                "favouriteTeam": "",
+                "joiningReason": ""
+            },
+            "pitch": {
+                "position": "Defence",
+                "matchesPlayed": "0",
+                "goals": "0",
+                "elevensTeam": "None",
+                "favouriteTeamMate": "",
+                "hatePlayingAgainst": ""
+            }
+        },
+        {
+            "name": "Owen Llewellyn",
+            "age": "blank",
+            "isCaptain": false,
+            "isViceCaptain": true,
+            "isActive": true,
+            "isPrivate": false,
+            "isHero": false,
+            "isTOTW": false,
+            "profile": {
+                "hometown": "",
+                "career": "",
+                "hobbies": "",
+                "favouriteFood": "",
+                "favouriteTeam": "",
+                "joiningReason": ""
+            },
+            "pitch": {
+                "position": "Defence",
+                "matchesPlayed": "0",
+                "goals": "0",
+                "elevensTeam": "None",
+                "favouriteTeamMate": "",
+                "hatePlayingAgainst": ""
+            }
+        },
+        {
+            "name": "Ryan Hawkins",
+            "age": "blank",
+            "isCaptain": false,
+            "isViceCaptain": true,
+            "isActive": true,
+            "isPrivate": false,
+            "isHero": false,
+            "isTOTW": false,
+            "profile": {
+                "hometown": "",
+                "career": "",
+                "hobbies": "",
+                "favouriteFood": "",
+                "favouriteTeam": "",
+                "joiningReason": ""
+            },
+            "pitch": {
+                "position": "Defence",
+                "matchesPlayed": "0",
+                "goals": "0",
+                "elevensTeam": "None",
+                "favouriteTeamMate": "",
+                "hatePlayingAgainst": ""
+            }
+        },
+        {
+            "name": "Simon Gear",
+            "age": "blank",
+            "isCaptain": false,
+            "isViceCaptain": true,
+            "isActive": true,
+            "isPrivate": false,
+            "isHero": false,
+            "isTOTW": false,
+            "profile": {
+                "hometown": "",
+                "career": "",
+                "hobbies": "",
+                "favouriteFood": "",
+                "favouriteTeam": "",
+                "joiningReason": ""
+            },
+            "pitch": {
+                "position": "Defence",
+                "matchesPlayed": "0",
+                "goals": "0",
+                "elevensTeam": "None",
+                "favouriteTeamMate": "",
+                "hatePlayingAgainst": ""
+            }
+        },
+        {
+            "name": "",
+            "age": "blank",
+            "isCaptain": false,
+            "isViceCaptain": true,
+            "isActive": true,
+            "isPrivate": false,
+            "isHero": false,
+            "isTOTW": false,
+            "profile": {
+                "hometown": "",
+                "career": "",
+                "hobbies": "",
+                "favouriteFood": "",
+                "favouriteTeam": "",
+                "joiningReason": ""
+            },
+            "pitch": {
+                "position": "Defence",
+                "matchesPlayed": "0",
+                "goals": "0",
+                "elevensTeam": "None",
+                "favouriteTeamMate": "",
+                "hatePlayingAgainst": ""
+            }
+        },
+        {
+            "name": "",
+            "age": "blank",
+            "isCaptain": false,
+            "isViceCaptain": true,
+            "isActive": true,
+            "isPrivate": false,
+            "isHero": false,
+            "isTOTW": false,
+            "profile": {
+                "hometown": "",
+                "career": "",
+                "hobbies": "",
+                "favouriteFood": "",
+                "favouriteTeam": "",
+                "joiningReason": ""
+            },
+            "pitch": {
+                "position": "Defence",
+                "matchesPlayed": "0",
+                "goals": "0",
+                "elevensTeam": "None",
+                "favouriteTeamMate": "",
+                "hatePlayingAgainst": ""
+            }
+        }
+    ]
+}
