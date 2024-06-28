@@ -1,5 +1,6 @@
 import React from 'react';
 import Button from './Button';
+import LeagueComponent from './LeagueComponent';
 
 import '../styles/css/components/home.css';
 
@@ -10,12 +11,17 @@ function Home() {
   return (
     <div>
       <h1> Welcome to MvF Swansea </h1>
-      <div className='home-images'>
-        <Button
-          text="League"
-          imageUrl="images/LeagueArt.png"
-          to="#/leagues"
+      <div className='home-leagues'>
+        <LeagueComponent
+          leagueName="Gwyr"
+          leagueId="1"
         />
+        <LeagueComponent
+          leagueName="Copr"
+          leagueId="2"
+        />
+      </div>
+      <div className='home-images'>
         <Button
           text="Elevens"
           imageUrl="images/ElevensArt.png"

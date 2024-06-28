@@ -1,111 +1,105 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import '../styles/css/components/teams.css';
-import jsonLeagueData from '../data/league_data.json';
+
+const endpointUrl = "https://3u270eyft0.execute-api.eu-west-2.amazonaws.com/prod";
+const teamEndpoint = `${endpointUrl}/team`;
 
 function Team({ teamName, leagueName }) {
-  const league = jsonLeagueData.leagues.find((league) => league.name === leagueName);
-  if (!league) {
-    return <div>No league data available.</div>;
+  const [teamData, setTeamData] = useState(null);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState(null);
+
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        setLoading(true);
+
+        // Fetch Team Data
+        const teamResponse = await fetch(`${teamEndpoint}?teamName=${encodeURIComponent(teamName)}`);
+        if (!teamResponse.ok) {
+          throw new Error('Failed to fetch team data');
+        }
+        const teamJson = await teamResponse.json();
+        setTeamData(teamJson);
+
+        setLoading(false);
+      } catch (error) {
+        console.error('Error fetching data:', error);
+        setError(error.message);
+        setLoading(false);
+      }
+    };
+
+    fetchData();
+  }, [teamName, leagueName]);
+
+  if (loading) {
+    return <div>Loading...</div>;
   }
 
-  const teamData = league?.teams.find((team) => team.hasOwnProperty(teamName));
+  if (error) {
+    return <div>Error: {error}</div>;
+  }
+
   if (!teamData) {
-    return <div>No team data available.</div>;
+    return <div>No data available.</div>;
   }
 
-  const teamPlayerData = teamData[teamName][1].players;
-  if (!teamPlayerData) {
-    return <div>No player data available.</div>;
-  }
+  // Find the captain
+  const captain = teamData.find(player => player.isCaptain) || null;
+  const viceCaptain = teamData.find(player => player.isViceCaptain) || null;
 
-  let captainData = null;
-
-  const captain = Object.values(teamPlayerData).find((player) => player.isCaptain) || null;
-  const viceCaptain = Object.values(teamPlayerData).find((player) => player.isViceCaptain) || null;
-
-  const otherPlayers = Object.values(teamPlayerData)
-    .filter(player => player && player.isActive && player.name && !player.isCaptain && !player.isViceCaptain)
+  // Find the other players
+  const otherPlayers = teamData
+    .filter(player => player.isActive && player.name && !player.isCaptain && !player.isViceCaptain)
     .sort((a, b) => a.name.localeCompare(b.name));
+
+  console.log(otherPlayers);
+  let captainData = null;
 
   if (!captain && !viceCaptain) {
     captainData =
       <>
-        <p>
-          No Captain
-        </p>
-        <p>
-          No Vice Captain
-        </p>
+        <p>No Captain</p>
+        <p>No Vice Captain</p>
       </>
   } else if (captain && !viceCaptain) {
     captainData =
       <>
-        <p>
-          Captain <br />
-          Name: {captain.name} <br />
-          Age: {captain.age} <br />
-          Skill: {captain.skill}
-        </p>
-        <p>
-          No Vice Captain
-        </p>
+        <p>Captain <br /> Name: {captain.name} <br /> Age: {captain.age}</p>
+        <p>No Vice Captain</p>
       </>
   } else if (!captain && viceCaptain) {
     captainData =
       <>
-        <p>
-          No Captain
-        </p>
-        <p>
-          Vice Captain <br />
-          Name: {viceCaptain.name} <br />
-          Age: {viceCaptain.age} <br />
-          Skill: {viceCaptain.skill}
-        </p>
+        <p>No Captain</p>
+        <p>Vice Captain <br /> Name: {viceCaptain.name} <br /> Age: {viceCaptain.age}</p>
       </>
   } else {
     captainData =
       <>
-        <p>
-          Captain <br />
-          Name: {captain.name} <br />
-          Age: {captain.age} <br />
-          Skill: {captain.skill}
-        </p>
-        <p>
-          Vice Captain <br />
-          Name: {viceCaptain.name} <br />
-          Age: {viceCaptain.age} <br />
-          Skill: {viceCaptain.skill}
-        </p>
+        <p>Captain <br /> Name: {captain.name} <br /> Age: {captain.age}</p>
+        <p>Vice Captain <br /> Name: {viceCaptain.name} <br /> Age: {viceCaptain.age}</p>
       </>
   }
 
-  // Main component return
   return (
-    <div className='team-main'>
-      <h2> {teamName} Team Page </h2>
-      <div className='team-captains'>
+    <div className='teamContainer'>
+      <h1>{teamName}</h1>
+      <h2>Team Members:</h2>
+      <div className='players'>
+        {otherPlayers.map(player => (
+          <div key={player.id} className='player'>
+            <p>Name: <Link to={`/player/${player.id}`}>{player.name}</Link></p>
+            <p>Age: {player.age}</p>
+          </div>
+        ))}
+      </div>
+      <div className='captainsContainer'>
         {captainData}
       </div>
-      <div className='team-players'>
-        <ul>
-          {otherPlayers.map((player, index) => (
-            <li key={index}>
-              {player.name} <br />
-              Age: {player.age} <br />
-              Skill: {player.skill}
-              {/* Conditionally display link if player.profile exists */}
-              {player.profile && (
-                <Link to={`/player/${encodeURIComponent(leagueName)}/${encodeURIComponent(player.name)}`}>
-                  <br /> View Profile
-                </Link>
-              )}
-            </li>
-          ))}
-        </ul>
-      </div>
+      <Link to={`/leagues/${leagueName}`} className='btn'>Back to League</Link>
     </div>
   );
 }

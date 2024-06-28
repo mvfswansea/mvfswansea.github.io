@@ -6,6 +6,21 @@ const eventData = [
       "date": "2024-03-20",
       "info": "Deers Leap at 7:30"
     },
+    {
+      "eventName": "Quiz Night",
+      "date": "2024-04-20",
+      "info": "Deers Leap at 7:30"
+    },
+    {
+      "eventName": "Quiz Night",
+      "date": "2024-05-10",
+      "info": "Deers Leap at 7:30"
+    },
+    {
+      "eventName": "Quiz Night",
+      "date": "2024-05-20",
+      "info": "Deers Leap at 7:30"
+    },
     // Add other event data...
   ];
   

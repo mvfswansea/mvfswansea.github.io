@@ -1,0 +1,478 @@
+{
+    "team-name": "Maccysfield",
+    "league-name": "Gwyr",
+    "players": [
+        {
+            "name": "Darrell Cox",
+            "age": "blank",
+            "isCaptain": false,
+            "isViceCaptain": true,
+            "isActive": true,
+            "isPrivate": false,
+            "isHero": false,
+            "isTOTW": false,
+            "profile": {
+                "hometown": "Swansea",
+                "career": "IT",
+                "hobbies": "Football",
+                "favouriteFood": "burger",
+                "favouriteTeam": "Liverpool",
+                "joiningReason": "Get Healthy"
+            },
+            "pitch": {
+                "position": "Midfield",
+                "matchesPlayed": "2",
+                "goals": "2",
+                "elevensTeam": "None",
+                "favouriteTeamMate": "Martin - Animal, and compliments my game",
+                "hatePlayingAgainst": "TG - Runs rings around me"
+            }
+        },
+        {
+            "name": "Richard Davies",
+            "age": "blank",
+            "isCaptain": false,
+            "isViceCaptain": false,
+            "isActive": true,
+            "isPrivate": false,
+            "isHero": false,
+            "isTOTW": false,
+            "profile": {
+                "hometown": "Swansea",
+                "career": "IT",
+                "hobbies": "Football",
+                "favouriteFood": "burger",
+                "favouriteTeam": "Liverpool",
+                "joiningReason": "Get Healthy"
+            },
+            "pitch": {
+                "position": "Midfield",
+                "matchesPlayed": "0",
+                "goals": "0",
+                "elevensTeam": "None",
+                "favouriteTeamMate": "Martin - Animal, and compliments my game",
+                "hatePlayingAgainst": "TG - Runs rings around me"
+            }
+        },
+        {
+            "name": "Nathan Hodgson",
+            "age": "blank",
+            "isCaptain": true,
+            "isViceCaptain": false,
+            "isActive": true,
+            "isPrivate": false,
+            "isHero": false,
+            "isTOTW": false,
+            "profile": {
+                "hometown": "Swansea",
+                "career": "Singer",
+                "hobbies": "Football",
+                "favouriteFood": "burger",
+                "favouriteTeam": "Liverpool",
+                "joiningReason": "Get Healthy"
+            },
+            "pitch": {
+                "position": "Striker",
+                "matchesPlayed": "0",
+                "goals": "0",
+                "elevensTeam": "None",
+                "favouriteTeamMate": "",
+                "hatePlayingAgainst": ""
+            }
+        },
+        {
+            "name": "Kristian Hassan",
+            "age": "blank",
+            "isCaptain": false,
+            "isViceCaptain": false,
+            "isActive": true,
+            "isPrivate": false,
+            "isHero": false,
+            "isTOTW": false,
+            "profile": {
+                "hometown": "Swansea",
+                "career": "IT",
+                "hobbies": "Football",
+                "favouriteFood": "burger",
+                "favouriteTeam": "Liverpool",
+                "joiningReason": "Get Healthy"
+            },
+            "pitch": {
+                "position": "Striker",
+                "matchesPlayed": "0",
+                "goals": "0",
+                "elevensTeam": "None",
+                "favouriteTeamMate": "",
+                "hatePlayingAgainst": ""
+            }
+        },
+        {
+            "name": "Ross Thomas",
+            "age": "blank",
+            "isCaptain": false,
+            "isViceCaptain": false,
+            "isActive": true,
+            "isPrivate": false,
+            "isHero": false,
+            "isTOTW": false,
+            "profile": {
+                "hometown": "Swansea",
+                "career": "IT",
+                "hobbies": "Football",
+                "favouriteFood": "burger",
+                "favouriteTeam": "Liverpool",
+                "joiningReason": "Get Healthy"
+            },
+            "pitch": {
+                "position": "Midfield",
+                "matchesPlayed": "0",
+                "goals": "0",
+                "elevensTeam": "Copr",
+                "favouriteTeamMate": "",
+                "hatePlayingAgainst": ""
+            }
+        },
+        {
+            "name": "Alex Kirkhouse",
+            "age": "blank",
+            "isCaptain": false,
+            "isViceCaptain": false,
+            "isActive": true,
+            "isPrivate": false,
+            "isHero": false,
+            "isTOTW": false,
+            "profile": {
+                "hometown": "Swansea",
+                "career": "IT",
+                "hobbies": "Football",
+                "favouriteFood": "burger",
+                "favouriteTeam": "Liverpool",
+                "joiningReason": "Get Healthy"
+            },
+            "pitch": {
+                "position": "Defender",
+                "matchesPlayed": "0",
+                "goals": "0",
+                "elevensTeam": "Copr",
+                "favouriteTeamMate": "",
+                "hatePlayingAgainst": ""
+            }
+        },
+        {
+            "name": "Mike Rees",
+            "age": "blank",
+            "isCaptain": false,
+            "isViceCaptain": false,
+            "isActive": true,
+            "isPrivate": false,
+            "isHero": false,
+            "isTOTW": false,
+            "profile": {
+                "hometown": "Swansea",
+                "career": "IT",
+                "hobbies": "Football",
+                "favouriteFood": "burger",
+                "favouriteTeam": "Liverpool",
+                "joiningReason": "Get Healthy"
+            },
+            "pitch": {
+                "position": "Defender",
+                "matchesPlayed": "0",
+                "goals": "0",
+                "elevensTeam": "None",
+                "favouriteTeamMate": "",
+                "hatePlayingAgainst": ""
+            }
+        },
+        {
+            "name": "Andrew Thomas",
+            "age": "blank",
+            "isCaptain": false,
+            "isViceCaptain": false,
+            "isActive": true,
+            "isPrivate": false,
+            "isHero": false,
+            "isTOTW": false,
+            "profile": {
+                "hometown": "Swansea",
+                "career": "IT",
+                "hobbies": "Football",
+                "favouriteFood": "burger",
+                "favouriteTeam": "Liverpool",
+                "joiningReason": "Get Healthy"
+            },
+            "pitch": {
+                "position": "Midfield",
+                "matchesPlayed": "0",
+                "goals": "0",
+                "elevensTeam": "None",
+                "favouriteTeamMate": "",
+                "hatePlayingAgainst": ""
+            }
+        },
+        {
+            "name": "Luke Massingham",
+            "age": "blank",
+            "isCaptain": false,
+            "isViceCaptain": false,
+            "isActive": true,
+            "isPrivate": false,
+            "isHero": false,
+            "isTOTW": false,
+            "profile": {
+                "hometown": "Swansea",
+                "career": "IT",
+                "hobbies": "Football",
+                "favouriteFood": "burger",
+                "favouriteTeam": "Liverpool",
+                "joiningReason": "Get Healthy"
+            },
+            "pitch": {
+                "position": "Defender",
+                "matchesPlayed": "0",
+                "goals": "0",
+                "elevensTeam": "Gwyr",
+                "favouriteTeamMate": "",
+                "hatePlayingAgainst": ""
+            }
+        },
+        {
+            "name": "Kyle Lewis",
+            "age": "blank",
+            "isCaptain": false,
+            "isViceCaptain": false,
+            "isActive": true,
+            "isPrivate": false,
+            "isHero": false,
+            "isTOTW": false,
+            "profile": {
+                "hometown": "Swansea",
+                "career": "IT",
+                "hobbies": "Football",
+                "favouriteFood": "burger",
+                "favouriteTeam": "Liverpool",
+                "joiningReason": "Get Healthy"
+            },
+            "pitch": {
+                "position": "Midfield",
+                "matchesPlayed": "0",
+                "goals": "0",
+                "elevensTeam": "Copr",
+                "favouriteTeamMate": "",
+                "hatePlayingAgainst": ""
+            }
+        },
+        {
+            "name": "Ryan Morris",
+            "age": "blank",
+            "isCaptain": false,
+            "isViceCaptain": false,
+            "isActive": true,
+            "isPrivate": false,
+            "isHero": false,
+            "isTOTW": false,
+            "profile": {
+                "hometown": "Swansea",
+                "career": "IT",
+                "hobbies": "Football",
+                "favouriteFood": "burger",
+                "favouriteTeam": "Liverpool",
+                "joiningReason": "Get Healthy"
+            },
+            "pitch": {
+                "position": "Goalkeeper",
+                "matchesPlayed": "0",
+                "goals": "0",
+                "elevensTeam": "Copr",
+                "favouriteTeamMate": "",
+                "hatePlayingAgainst": ""
+            }
+        }
+    ],
+    "fixtures": [
+        {
+            "weekNumber": "1",
+            "opponent": "GwyrRed",
+            "matchPlayed": false
+        },
+        {
+            "weekNumber": "2",
+            "opponent": "GwyrWhite",
+            "matchPlayed": false
+        },
+        {
+            "weekNumber": "3",
+            "opponent": "GwyrBlue",
+            "matchPlayed": false
+        },
+        {
+            "weekNumber": "4",
+            "opponent": "GwyrWhite",
+            "matchPlayed": false
+        },
+        {
+            "weekNumber": "5",
+            "opponent": "GwyrRed",
+            "matchPlayed": false
+        },
+        {
+            "weekNumber": "6",
+            "opponent": "GwyrWhite",
+            "matchPlayed": false
+        },
+        {
+            "weekNumber": "7",
+            "opponent": "GwyrRed",
+            "matchPlayed": false
+        },
+        {
+            "weekNumber": "8",
+            "opponent": "GwyrWhite",
+            "matchPlayed": false
+        },
+        {
+            "weekNumber": "9",
+            "opponent": "GwyrRed",
+            "matchPlayed": false
+        },
+        {
+            "weekNumber": "10",
+            "opponent": "GwyrWhite",
+            "matchPlayed": false
+        },
+        {
+            "weekNumber": "11",
+            "opponent": "GwyrRed",
+            "matchPlayed": false
+        },
+        {
+            "weekNumber": "12",
+            "opponent": "GwyrWhite",
+            "matchPlayed": false
+        },
+        {
+            "weekNumber": "13",
+            "opponent": "GwyrRed",
+            "matchPlayed": false
+        },
+        {
+            "weekNumber": "14",
+            "opponent": "GwyrWhite",
+            "matchPlayed": false
+        }
+    ],
+    "results": [
+        {
+            "weekNumber": "1",
+            "opponent": "GwyrRed",
+            "pitchHomeScore": "3",
+            "pitchAwayScore": "6",
+            "overallHomeScore": "11",
+            "overallAwayScore": "20"
+        },
+        {
+            "weekNumber": "2",
+            "opponent": "GwyrWhite",
+            "pitchHomeScore": "5",
+            "pitchAwayScore": "0",
+            "overallHomeScore": "10",
+            "overallAwayScore": "4"
+        },
+        {
+            "weekNumber": "3",
+            "opponent": "GwyrBlue",
+            "pitchHomeScore": "0",
+            "pitchAwayScore": "0",
+            "overallHomeScore": "0",
+            "overallAwayScore": "0"
+        },
+        {
+            "weekNumber": "4",
+            "opponent": "GwyrBlue",
+            "pitchHomeScore": "0",
+            "pitchAwayScore": "0",
+            "overallHomeScore": "0",
+            "overallAwayScore": "0"
+        },
+        {
+            "weekNumber": "5",
+            "opponent": "GwyrBlue",
+            "pitchHomeScore": "0",
+            "pitchAwayScore": "0",
+            "overallHomeScore": "0",
+            "overallAwayScore": "0"
+        },
+        {
+            "weekNumber": "6",
+            "opponent": "GwyrBlue",
+            "pitchHomeScore": "0",
+            "pitchAwayScore": "0",
+            "overallHomeScore": "0",
+            "overallAwayScore": "0"
+        },
+        {
+            "weekNumber": "7",
+            "opponent": "GwyrBlue",
+            "pitchHomeScore": "0",
+            "pitchAwayScore": "0",
+            "overallHomeScore": "0",
+            "overallAwayScore": "0"
+        },
+        {
+            "weekNumber": "8",
+            "opponent": "GwyrBlue",
+            "pitchHomeScore": "0",
+            "pitchAwayScore": "0",
+            "overallHomeScore": "0",
+            "overallAwayScore": "0"
+        },
+        {
+            "weekNumber": "9",
+            "opponent": "GwyrBlue",
+            "pitchHomeScore": "0",
+            "pitchAwayScore": "0",
+            "overallHomeScore": "0",
+            "overallAwayScore": "0"
+        },
+        {
+            "weekNumber": "10",
+            "opponent": "GwyrBlue",
+            "pitchHomeScore": "0",
+            "pitchAwayScore": "0",
+            "overallHomeScore": "0",
+            "overallAwayScore": "0"
+        },
+        {
+            "weekNumber": "11",
+            "opponent": "GwyrBlue",
+            "pitchHomeScore": "0",
+            "pitchAwayScore": "0",
+            "overallHomeScore": "0",
+            "overallAwayScore": "0"
+        },
+        {
+            "weekNumber": "12",
+            "opponent": "GwyrBlue",
+            "pitchHomeScore": "0",
+            "pitchAwayScore": "0",
+            "overallHomeScore": "0",
+            "overallAwayScore": "0"
+        },
+        {
+            "weekNumber": "13",
+            "opponent": "GwyrBlue",
+            "pitchHomeScore": "0",
+            "pitchAwayScore": "0",
+            "overallHomeScore": "0",
+            "overallAwayScore": "0"
+        },
+        {
+            "weekNumber": "14",
+            "opponent": "GwyrBlue",
+            "pitchHomeScore": "0",
+            "pitchAwayScore": "0",
+            "overallHomeScore": "0",
+            "overallAwayScore": "0"
+        }
+    ]
+}

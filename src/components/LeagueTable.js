@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 import '../styles/css/components/leagueTable.css';
 
-function LeagueTable({ leagueData }) {
+function LeagueTable({ leagueData, lastRoundResults, nextRoundFixtures, topGoalscorers }) {
     const [selectedLeague, setSelectedLeague] = useState('combined');
 
     const handleTabClick = (league) => {
@@ -100,6 +100,42 @@ function LeagueTable({ leagueData }) {
                         ))}
                     </tbody>
                 </table>
+                
+                <div>
+                    {/* Display Last Round Results */}
+                    <h2>Last Round Results</h2>
+                    <ul>
+                        {lastRoundResults.map((result, index) => (
+                            <li key={index}>
+                                {result.homeTeam} {result.homeScore} - {result.awayScore} {result.awayTeam}
+                            </li>
+                        ))}
+                    </ul>
+                </div>
+                
+                <div>
+                    {/* Display Next Round Fixtures */}
+                    <h2>Next Round Fixtures</h2>
+                    <ul>
+                        {nextRoundFixtures.map((fixture, index) => (
+                            <li key={index}>
+                                {fixture.homeTeam} vs {fixture.awayTeam}
+                            </li>
+                        ))}
+                    </ul>
+                </div>
+                
+                <div>
+                    {/* Display Top Goalscorers */}
+                    <h2>Top Goalscorers</h2>
+                    <ol>
+                        {topGoalscorers.map((player, index) => (
+                            <li key={index}>
+                                {player.name} - {player.goals} goals
+                            </li>
+                        ))}
+                    </ol>
+                </div>
             </div>
         </div>
     );

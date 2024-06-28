@@ -1,0 +1,40 @@
+{
+    "id": "1",
+    "league-name": "Gwyr",
+    "teams": [
+        {
+            "GwyrBlack": {
+                "name": "Borussia Monchenburger",
+                "color": "black"
+            },
+            "GwyrBlue": {
+                "name": "Maccysfield",
+                "color": "blue"
+            },
+            "GwyrGreen": {
+                "name": "Real Let-tuce",
+                "color": "green"
+            },
+            "GwyrOrange": {
+                "name": "Snacking Pumpkins",
+                "color": "orange"
+            },
+            "GwyrPurple": {
+                "name": "BMI Munchen",
+                "color": "purple"
+            },
+            "GwyrRed": {
+                "name": "Red Hot Chilli Porkers",
+                "color": "red"
+            },
+            "GwyrWhite": {
+                "name": "Full Of Ham",
+                "color": "white"
+            },
+            "GwyrYellow": {
+                "name": "Clwb Tropicana Drinks FC",
+                "color": "yellow"
+            }
+        }
+    ]
+}

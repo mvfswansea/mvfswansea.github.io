@@ -45,9 +45,10 @@ function Events() {
           {daysInMonth.map((day, index) => {
             const formattedDay = day && day.getDate();
             const eventDataForDay = eventData.find(event => {
-              const eventDate = event.date.split('-');
-              const eventDay = parseInt(eventDate[2], 10); // Assuming day is the last part of the date string
-              return eventDay === formattedDay;
+              const eventDate = new Date(event.date);
+              return eventDate.getDate() === formattedDay &&
+                eventDate.getMonth() === currentDate.getMonth() &&
+                eventDate.getFullYear() === currentDate.getFullYear();
             });
 
             return (
@@ -55,7 +56,9 @@ function Events() {
                 key={index}
                 className={`day${formattedDay === new Date().getDate() ? ' current-day' : ''}`}
               >
-                {formattedDay}
+                <div className="day-single">
+                  {formattedDay}
+                </div>
                 {eventDataForDay && (
                   <Link to={`/events/${eventDataForDay.key}`}>
                     {eventDataForDay.eventName}
@@ -64,6 +67,10 @@ function Events() {
               </div>
             );
           })}
+        </div>
+        <h2> Upcoming Events </h2>
+        <div className="upcoming-events">
+
         </div>
       </div>
     );

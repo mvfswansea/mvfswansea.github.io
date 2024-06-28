@@ -14,30 +14,32 @@ import Elevens from './components/Elevens';
 import Leagues from './components/Leagues';
 import TeamCopr from './components/TeamCopr';
 import TeamGwyr from './components/TeamGwyr';
-import TeamTawe from './components/TeamTawe';
 import LeagueCopr from './components/LeagueCopr';
 import LeagueGwyr from './components/LeagueGwyr';
 import TeamOfTheWeek from './components/TeamOfTheWeek';
 
+
 // Gwyr League
-import TeamBorussiaMonchenburger from './components/teams/gwyr/TeamBorussiaMonchenburger';
-import TeamBMIMunchen from './components/teams/gwyr/TeamBMIMunchen';
-import TeamClwbTropicana from './components/teams/gwyr/TeamClwbTropicana';
-import TeamFullOfHam from './components/teams/gwyr/TeamFullOfHam';
-import TeamNavyBlueSeals from './components/teams/gwyr/TeamNavyBlueSeals';
-import TeamRHCP from './components/teams/gwyr/TeamRHCP';
-import TeamRealLettuce from './components/teams/gwyr/TeamRealLettuce';
-import TeamSnackingPumpkins from './components/teams/gwyr/TeamSnackingPumpkins';
+import GwyrBlack from './components/teams/gwyr/GwyrBlack';
+import GwyrBlue from './components/teams/gwyr/GwyrBlue';
+import GwyrGreen from './components/teams/gwyr/GwyrGreen';
+import GwyrOrange from './components/teams/gwyr/GwyrOrange';
+import GwyrPurple from './components/teams/gwyr/GwyrPurple';
+import GwyrRed from './components/teams/gwyr/GwyrRed';
+import GwyrWhite from './components/teams/gwyr/GwyrWhite';
+import GwyrYellow from './components/teams/gwyr/GwyrYellow';
+
 
 // Copr League
-import TeamBorussiaDonuts from './components/teams/copr/TeamBorussiaDonuts';
-import TeamGastricBandits from './components/teams/copr/TeamGastricBandits';
-import TeamHangryHippos from './components/teams/copr/TeamHangryHippos';
-import TeamLargentina from './components/teams/copr/TeamLargentina';
-import TeamMassiveCochs from './components/teams/copr/TeamMassiveCochs';
-import TeamRealMadri from './components/teams/copr/TeamRealMadri';
-import TeamTheAllPhats from './components/teams/copr/TeamTheAllPhats';
-import TeamVanDerSarnies from './components/teams/copr/TeamVanDerSarnies';
+import CoprBlack from './components/teams/copr/CoprBlack';
+import CoprBlue from './components/teams/copr/CoprBlue';
+import CoprGreen from './components/teams/copr/CoprGreen';
+import CoprOrange from './components/teams/copr/CoprOrange';
+import CoprPurple from './components/teams/copr/CoprPurple';
+import CoprRed from './components/teams/copr/CoprRed';
+import CoprWhite from './components/teams/copr/CoprWhite';
+import CoprYellow from './components/teams/copr/CoprYellow';
+
 
 import PlayerProfile from './components/PlayerProfile';
 import Event from './components/Event';
@@ -59,32 +61,32 @@ function App() {
         <Route path="/sponsors" element={<Sponsors />} />
         <Route path="/elevens" element={<Elevens />} />
         <Route path="/elevens/gwyr" element={<TeamGwyr />} />
-        <Route path="/elevens/tawe" element={<TeamTawe />} />
         <Route path="/elevens/copr" element={<TeamCopr />} />
         <Route path="/leagues" element={<Leagues />} />
         <Route path="/leagues/gwyr" element={<LeagueGwyr />} />
         <Route path="/leagues/copr" element={<LeagueCopr />} />
-        <Route path="/player/:leagueName/:playerName" element={<PlayerProfile />} />
+        <Route path="/player/:id" element={<PlayerProfile />} />
 
         {/* Gwyr League */}
-        <Route path="/leagues/team/BorussiaMonchenburger" element={<TeamBorussiaMonchenburger />} />
-        <Route path="/leagues/team/bmimunchen" element={<TeamBMIMunchen />} />
-        <Route path="/leagues/team/ClwbTropicana" element={<TeamClwbTropicana />} />
-        <Route path="/leagues/team/FullOfHam" element={<TeamFullOfHam />} />
-        <Route path="/leagues/team/NavyBlueSeals" element={<TeamNavyBlueSeals />} />
-        <Route path="/leagues/team/RealLettuce" element={<TeamRealLettuce />} />
-        <Route path="/leagues/team/rhcp" element={<TeamRHCP />} />
-        <Route path="/leagues/team/SnackingPumpkins" element={<TeamSnackingPumpkins />} />
+        <Route path="/leagues/team/GwyrBlack" element={<GwyrBlack />} />
+        <Route path="/leagues/team/GwyrBlue" element={<GwyrBlue />} />
+        <Route path="/leagues/team/GwyrGreen" element={<GwyrGreen />} />
+        <Route path="/leagues/team/GwyrOrange" element={<GwyrOrange />} />
+        <Route path="/leagues/team/GwyrPurple" element={<GwyrPurple />} />
+        <Route path="/leagues/team/GwyrRed" element={<GwyrRed />} />
+        <Route path="/leagues/team/GwyrWhite" element={<GwyrWhite />} />
+        <Route path="/leagues/team/GwyrYellow" element={<GwyrYellow />} />
+
 
         {/* Copr League */}
-        <Route path="/leagues/team/borussiadonuts" element={<TeamBorussiaDonuts />} />
-        <Route path="/leagues/team/gastricbandits" element={<TeamGastricBandits />} />
-        <Route path="/leagues/team/HangryHippos" element={<TeamHangryHippos />} />
-        <Route path="/leagues/team/largentina" element={<TeamLargentina />} />
-        <Route path="/leagues/team/MassiveCochs" element={<TeamMassiveCochs />} />
-        <Route path="/leagues/team/realmadri" element={<TeamRealMadri />} />
-        <Route path="/leagues/team/theallphats" element={<TeamTheAllPhats />} />
-        <Route path="/leagues/team/vandersarnies" element={<TeamVanDerSarnies />} />
+        <Route path="/leagues/team/CoprBlack" element={<CoprBlack />} />
+        <Route path="/leagues/team/CoprBlue" element={<CoprBlue />} />
+        <Route path="/leagues/team/CoprGreen" element={<CoprGreen />} />
+        <Route path="/leagues/team/CoprOrange" element={<CoprOrange />} />
+        <Route path="/leagues/team/CoprPurple" element={<CoprPurple />} />
+        <Route path="/leagues/team/CoprRed" element={<CoprRed />} />
+        <Route path="/leagues/team/CoprWhite" element={<CoprWhite />} />
+        <Route path="/leagues/team/CoprYellow" element={<CoprYellow />} />
 
         {/* Route to display custom 404 page */}
         <Route path="*" element={<NotFound />} />
