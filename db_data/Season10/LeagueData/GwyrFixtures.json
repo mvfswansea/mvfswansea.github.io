@@ -1,51 +1,51 @@
 {
     "fixtures": {
-        "2024-03-19": {
+        "2024-07-19": {
             "GwyrBlack": {
                 "opposition": "GwyrYellow",
-                "played": true,
+                "played": false,
                 "pitchResult": "4-11"
             }
         },
         "2024-03-26": {
             "GwyrBlack": {
                 "opposition": "GwyrOrange",
-                "played": true,
+                "played": false,
                 "pitchResult": "5-0"
             }
         },
         "2024-04-02": {
             "GwyrBlack": {
                 "opposition": "GwyrGreen",
-                "played": true,
+                "played": false,
                 "pitchResult": "6-3"
             }
         },
         "2024-04-09": {
             "GwyrBlack": {
                 "opposition": "GwyrPurple",
-                "played": true,
+                "played": false,
                 "pitchResult": "7-1"
             }
         },
         "2024-04-16": {
             "GwyrBlack": {
                 "opposition": "GwyrRed",
-                "played": true,
+                "played": false,
                 "pitchResult": "6-1"
             }
         },
         "2024-04-23": {
             "GwyrBlack": {
                 "opposition": "GwyrWhite",
-                "played": true,
+                "played": false,
                 "pitchResult": "5-5"
             }
         },
         "2024-04-30": {
             "GwyrBlack": {
                 "opposition": "GwyrBlue",
-                "played": true,
+                "played": false,
                 "pitchResult": "7-3"
             }
         },

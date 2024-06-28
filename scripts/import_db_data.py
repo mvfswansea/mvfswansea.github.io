@@ -44,7 +44,7 @@ def update_or_insert_player(player_data):
     players_table.put_item(Item=player_data)
 
 # Get list of JSON files in the db_data folder
-folder_path = '../db_data/Season9'
+folder_path = '../db_data/Season10'
 
 # Specify the directories path for the data files
 league_data_folder = os.path.join(folder_path, 'LeagueData')
@@ -55,7 +55,7 @@ team_data_folder = os.path.join(league_data_folder, 'TeamData')
 for root, dirs, files in os.walk(league_data_folder):
     if root == league_data_folder:  # Check if we are in the LeagueData folder
         for file in files:
-            if file.endswith('.json'):
+            if file.endswith('League.json'):
                 league_file = os.path.join(root, file)
                 print("Processing league file:", league_file)  # Add this line for debugging
                 try:
@@ -70,6 +70,8 @@ for root, dirs, files in os.walk(league_data_folder):
                     print("Error processing file:", league_file)
                     print(e)
 
+# Process League Fixtures
+
 # Process team data
 team_files = []
 for root, dirs, files in os.walk(team_data_folder):
@@ -82,11 +84,13 @@ for team_file in team_files:
     print("Processing team file:", team_file)
     try:
         team_data = load_data_from_file(team_file)
-        league_name = team_file.split('/')[-3]
+        league_name = team_data["league-name"]
         team_name = team_data["team-name"]
         
         # Store player data in DynamoDB table for players
         for player in team_data["players"]:
+            base_team_name_from_file = os.path.splitext(os.path.basename(team_file))[0]
+            player['official_team_name'] = base_team_name_from_file
             player['league_name'] = league_name
             player['team_name'] = team_name
             update_or_insert_player(player)

@@ -1,11 +1,12 @@
 {
-    "team-name": "BMI Munchen",
+    "team-name": "Maccysfield",
+    "league-name": "Gwyr",
     "players": [
         {
             "name": "Darrell Cox",
             "age": "blank",
-            "isCaptain": true,
-            "isViceCaptain": false,
+            "isCaptain": false,
+            "isViceCaptain": true,
             "isActive": true,
             "isPrivate": false,
             "isHero": false,
@@ -22,7 +23,7 @@
                 "position": "Midfield",
                 "matchesPlayed": "2",
                 "goals": "2",
-                "elevensTeam": "Tawe",
+                "elevensTeam": "None",
                 "favouriteTeamMate": "Martin - Animal, and compliments my game",
                 "hatePlayingAgainst": "TG - Runs rings around me"
             }
@@ -48,16 +49,16 @@
                 "position": "Midfield",
                 "matchesPlayed": "0",
                 "goals": "0",
-                "elevensTeam": "Tawe",
+                "elevensTeam": "None",
                 "favouriteTeamMate": "Martin - Animal, and compliments my game",
                 "hatePlayingAgainst": "TG - Runs rings around me"
             }
         },
         {
-            "name": "Scott Jones",
+            "name": "Nathan Hodgson",
             "age": "blank",
-            "isCaptain": false,
-            "isViceCaptain": true,
+            "isCaptain": true,
+            "isViceCaptain": false,
             "isActive": true,
             "isPrivate": false,
             "isHero": false,
@@ -71,7 +72,7 @@
                 "joiningReason": "Get Healthy"
             },
             "pitch": {
-                "position": "Goalkeeper",
+                "position": "Striker",
                 "matchesPlayed": "0",
                 "goals": "0",
                 "elevensTeam": "None",
@@ -80,7 +81,7 @@
             }
         },
         {
-            "name": "Tomas Scott",
+            "name": "Kristian Hassan",
             "age": "blank",
             "isCaptain": false,
             "isViceCaptain": false,
@@ -100,13 +101,13 @@
                 "position": "Striker",
                 "matchesPlayed": "0",
                 "goals": "0",
-                "elevensTeam": "Gwyr",
+                "elevensTeam": "None",
                 "favouriteTeamMate": "",
                 "hatePlayingAgainst": ""
             }
         },
         {
-            "name": "Nathan Charles",
+            "name": "Ross Thomas",
             "age": "blank",
             "isCaptain": false,
             "isViceCaptain": false,
@@ -132,7 +133,7 @@
             }
         },
         {
-            "name": "Matthew Corbett",
+            "name": "Alex Kirkhouse",
             "age": "blank",
             "isCaptain": false,
             "isViceCaptain": false,
@@ -158,7 +159,7 @@
             }
         },
         {
-            "name": "Matt Ridler",
+            "name": "Mike Rees",
             "age": "blank",
             "isCaptain": false,
             "isViceCaptain": false,
@@ -210,7 +211,7 @@
             }
         },
         {
-            "name": "Azzam Farooq",
+            "name": "Luke Massingham",
             "age": "blank",
             "isCaptain": false,
             "isViceCaptain": false,
@@ -236,7 +237,7 @@
             }
         },
         {
-            "name": "Kevin Carro",
+            "name": "Kyle Lewis",
             "age": "blank",
             "isCaptain": false,
             "isViceCaptain": false,
@@ -262,7 +263,7 @@
             }
         },
         {
-            "name": "Ryan Devereux-Harding",
+            "name": "Ryan Morris",
             "age": "blank",
             "isCaptain": false,
             "isViceCaptain": false,
@@ -286,49 +287,23 @@
                 "favouriteTeamMate": "",
                 "hatePlayingAgainst": ""
             }
-        },
-        {
-            "name": "Terry Hinder",
-            "age": "blank",
-            "isCaptain": false,
-            "isViceCaptain": false,
-            "isActive": true,
-            "isPrivate": false,
-            "isHero": false,
-            "isTOTW": false,
-            "profile": {
-                "hometown": "Swansea",
-                "career": "IT",
-                "hobbies": "Football",
-                "favouriteFood": "burger",
-                "favouriteTeam": "Liverpool",
-                "joiningReason": "Get Healthy"
-            },
-            "pitch": {
-                "position": "Goalkeeper",
-                "matchesPlayed": "0",
-                "goals": "0",
-                "elevensTeam": "None",
-                "favouriteTeamMate": "",
-                "hatePlayingAgainst": ""
-            }
         }
     ],
     "fixtures": [
         {
             "weekNumber": "1",
             "opponent": "GwyrRed",
-            "matchPlayed": true
+            "matchPlayed": false
         },
         {
             "weekNumber": "2",
             "opponent": "GwyrWhite",
-            "matchPlayed": true
+            "matchPlayed": false
         },
         {
             "weekNumber": "3",
             "opponent": "GwyrBlue",
-            "matchPlayed": true
+            "matchPlayed": false
         },
         {
             "weekNumber": "4",

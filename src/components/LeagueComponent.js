@@ -54,7 +54,7 @@ function LeagueComponent({ leagueName, leagueId }) {
                 <ul className="team-list">
                     {Object.values(leagueData.teams[0]).map((team) => (
                         <li key={team.name} className="team-item">
-                            <Link to={`/team/${Object.keys(leagueData.teams[0]).find(key => leagueData.teams[0][key] === team)}`} className="team-link">
+                            <Link to={`/leagues/team/${Object.keys(leagueData.teams[0]).find(key => leagueData.teams[0][key] === team)}`} className="team-link">
                                 <div className="team-color-block" style={{backgroundColor: team.color }}></div>
                                 {team.name}
                             </Link>

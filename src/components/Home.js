@@ -23,11 +23,6 @@ function Home() {
       </div>
       <div className='home-images'>
         <Button
-          text="League"
-          imageUrl="images/LeagueArt.png"
-          to="#/leagues"
-        />
-        <Button
           text="Elevens"
           imageUrl="images/ElevensArt.png"
           to="#/elevens"
