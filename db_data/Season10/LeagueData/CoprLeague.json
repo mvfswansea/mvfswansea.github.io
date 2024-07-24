@@ -4,35 +4,35 @@
     "teams": [
         {
             "CoprBlack": {
-                "name": "All Phats",
+                "name": "Blackburn Leftovers FC",
                 "color": "black"
             },
             "CoprBlue": {
-                "name": "L'argentina",
+                "name": "Portsmouthful FC",
                 "color": "blue"
             },
             "CoprGreen": {
-                "name": "Gastric Bandits",
+                "name": "Belly Athletic",
                 "color": "green"
             },
             "CoprOrange": {
-                "name": "FC Van Der Sarnies",
+                "name": "Tango Unchained",
                 "color": "orange"
             },
             "CoprPurple": {
-                "name": "Hangry Hippos",
+                "name": "To-Lose Weight",
                 "color": "purple"
             },
             "CoprRed": {
-                "name": "Massive Cochs",
+                "name": "Olympi-Tacos",
                 "color": "red"
             },
             "CoprWhite": {
-                "name": "Real Madri",
+                "name": "Champagne Super Rovers",
                 "color": "white"
             },
             "CoprYellow": {
-                "name": "Borussia Donuts",
+                "name": "Slug's Birthday Boys",
                 "color": "yellow"
             }
         }
