@@ -17,7 +17,7 @@ function Elevens() {
           />
         </div>
 
-        <div>
+        {/* <div>
           <Button
             text="Tawe"
             imageUrl="images/teams/TaweTeam.jpeg"
@@ -25,7 +25,7 @@ function Elevens() {
             imageWidth="900px"
             imageHeight="500px"
           />
-        </div>
+        </div> */}
 
         <div>
           <Button

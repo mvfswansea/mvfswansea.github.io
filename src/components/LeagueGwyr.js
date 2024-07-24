@@ -1,29 +1,29 @@
-import React, { useState, useEffect } from 'react';
-import { fetchLeagueData } from './aws';
-import LeaguesHome from './LeaguesHome';
+// import React, { useState, useEffect } from 'react';
+// import { fetchLeagueData } from './aws';
+// import LeaguesHome from './LeaguesHome';
 
 
-function LeagueGwyr() {
-  const [leagueData, setLeagueData] = useState(null);
+// function LeagueGwyr() {
+//   const [leagueData, setLeagueData] = useState(null);
 
-  useEffect(() => {
-    const fetchLeague = async () => {
-      try {
-        const data = await fetchLeagueData('2');
-        setLeagueData(data);
-      } catch (error) {
-        console.error('Error fetching league data:', error);
-      }
-    };
+//   useEffect(() => {
+//     const fetchLeague = async () => {
+//       try {
+//         const data = await fetchLeagueData('2');
+//         setLeagueData(data);
+//       } catch (error) {
+//         console.error('Error fetching league data:', error);
+//       }
+//     };
 
-    fetchLeague();
-  }, []);
+//     fetchLeague();
+//   }, []);
 
-  if (!leagueData) {
-    return <div>No league data available.</div>;
-  }
+//   if (!leagueData) {
+//     return <div>No league data available.</div>;
+//   }
 
-  return <LeaguesHome leagueData={leagueData} />;
-}
+//   return <LeaguesHome leagueData={leagueData} />;
+// }
 
-export default LeagueGwyr;
+// export default LeagueGwyr;

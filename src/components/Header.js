@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 
 import Sidebar from './Sidebar';
-import DropdownList from './DropdownList';
+// import DropdownList from './DropdownList';
 import '../styles/css/components/header.css';
 
 function Header() {
@@ -36,9 +36,9 @@ function Header() {
           />
         </Link>
       </div>
-      <div className="central-button">
+      {/* <div className="central-button">
         <DropdownList />
-      </div>
+      </div> */}
       <div className="right-button">
         <div className={`container ${showSidebar ? 'change' : ''}`} onClick={toggleSidebar}>
           <div className={`bar bar1 ${showSidebar ? 'change' : ''}`} />

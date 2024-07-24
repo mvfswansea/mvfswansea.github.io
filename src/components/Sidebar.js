@@ -17,9 +17,9 @@ function Sidebar({ closeSidebar }) {
             <ul>
                 <li><Link to="/" onClick={toggleSidebar}>Home</Link></li>
                 <li><Link to="/news" onClick={toggleSidebar}>News</Link></li>
-                <li><Link to="/leagues" onClick={toggleSidebar}>Leagues</Link></li>
-                <li><Link to="/challenge" onClick={toggleSidebar}>AC Challenge</Link></li>
-                <li><Link to="/totw" onClick={toggleSidebar}>Team Of The Week</Link></li>
+                {/* <li><Link to="/leagues" onClick={toggleSidebar}>Leagues</Link></li> */}
+                {/* <li><Link to="/challenge" onClick={toggleSidebar}>AC Challenge</Link></li> */}
+                {/* <li><Link to="/totw" onClick={toggleSidebar}>Team Of The Week</Link></li> */}
                 <li><Link to="/events" onClick={toggleSidebar}>Events</Link></li>
                 <li><Link to="/sponsors" onClick={toggleSidebar}>Sponsors</Link></li>
                 <li><a href="https://www.manvfatfootball.org/swansea">Official Gwyr League</a></li>
