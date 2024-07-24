@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.main-content {
+  padding-bottom: 50px;
+  /* Add padding equal to the height of the footer */
+}
+
+@media screen and (min-width: 768px) {
+  .main-content {
+    padding-bottom: 50px;
+    /* Add padding equal to the height of the footer */
+  }
+}
