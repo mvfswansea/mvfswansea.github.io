@@ -4,7 +4,7 @@
     "teams": [
         {
             "GwyrBlack": {
-                "name": "Borussia Monchenburger",
+                "name": "Fat Men In Black",
                 "color": "black"
             },
             "GwyrBlue": {
@@ -12,27 +12,27 @@
                 "color": "blue"
             },
             "GwyrGreen": {
-                "name": "Real Let-tuce",
+                "name": "Wolsburger",
                 "color": "green"
             },
             "GwyrOrange": {
-                "name": "Snacking Pumpkins",
+                "name": "New Yorkie Kicks",
                 "color": "orange"
             },
             "GwyrPurple": {
-                "name": "BMI Munchen",
+                "name": "Purple Gain",
                 "color": "purple"
             },
             "GwyrRed": {
-                "name": "Red Hot Chilli Porkers",
+                "name": "FC Beercelona",
                 "color": "red"
             },
             "GwyrWhite": {
-                "name": "Full Of Ham",
+                "name": "Bulky Ballers",
                 "color": "white"
             },
             "GwyrYellow": {
-                "name": "Clwb Tropicana Drinks FC",
+                "name": "Oreo De Janeiro",
                 "color": "yellow"
             }
         }
