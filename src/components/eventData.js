@@ -2,23 +2,31 @@
 
 const eventData = [
     {
-      "eventName": "Quiz Night",
-      "date": "2024-03-20",
-      "info": "Deers Leap at 7:30"
+      "eventName": "Something Happening",
+      "date": "2024-07-27",
+      "info": "At 7:30"
     },
     {
-      "eventName": "Quiz Night",
-      "date": "2024-04-20",
-      "info": "Deers Leap at 7:30"
+      "eventName": "MVF Football",
+      "date": "2024-07-30",
+      "info": "Purefootball at 7:30"
+    },
+    
+    // Currently cannot handle more than one event a day
+    
+    {
+      "eventName": "Beer O Clock",
+      "date": "2024-07-30",
+      "info": "Purefootball at 8:30"
     },
     {
-      "eventName": "Quiz Night",
-      "date": "2024-05-10",
-      "info": "Deers Leap at 7:30"
+      "eventName": "Hungry Men",
+      "date": "2024-07-29",
+      "info": "All Day"
     },
     {
-      "eventName": "Quiz Night",
-      "date": "2024-05-20",
+      "eventName": "MVF Football",
+      "date": "2024-08-06",
       "info": "Deers Leap at 7:30"
     },
     // Add other event data...

@@ -21,13 +21,16 @@ function Home() {
           leagueId="2"
         />
       </div>
-      <div className='home-images'>
+
+      {/* Bring the elevens back when we know more */}
+      
+      {/* <div className='home-images'>
         <Button
           text="Elevens"
           imageUrl="images/ElevensArt.png"
           to="#/elevens"
         />
-      </div>
+      </div> */}
 
     </div>
   );

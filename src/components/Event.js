@@ -1,4 +1,6 @@
 // Event.js
+// This file handles the singular event (extracts the json onto the page)
+
 
 import React from 'react';
 import { useParams } from 'react-router-dom';
@@ -8,10 +10,7 @@ function Event() {
     const { key } = useParams();
 
     // Look up the event data based on the unique key
-    console.log('Event Data:', eventData);
-    console.log('Key from URL:', key);
     const eventDataForEvent = eventData.find(event => event.key === key);
-    console.log(eventDataForEvent);
 
     if (!eventDataForEvent) {
         return <div>Event not found</div>;

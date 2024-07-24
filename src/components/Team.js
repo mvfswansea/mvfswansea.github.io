@@ -67,20 +67,20 @@ function Team({ teamName, leagueName }) {
   } else if (captain && !viceCaptain) {
     captainData =
       <>
-        <p>Captain <br /> Name: {captain.name} <br /> Age: {captain.age}</p>
+        <p>Captain <br /> Name: <Link to={`/player/${captain.id}`}>{captain.name}</Link> <br /> Age: {captain.age}</p>
         <p>No Vice Captain</p>
       </>
   } else if (!captain && viceCaptain) {
     captainData =
       <>
         <p>No Captain</p>
-        <p>Vice Captain <br /> Name: {viceCaptain.name} <br /> Age: {viceCaptain.age}</p>
+        <p>Vice Captain <br /> Name: <Link to={`/player/${viceCaptain.id}`}>{viceCaptain.name}</Link> <br /> Age: {viceCaptain.age}</p>
       </>
   } else {
     captainData =
       <>
-        <p>Captain <br /> Name: {captain.name} <br /> Age: {captain.age}</p>
-        <p>Vice Captain <br /> Name: {viceCaptain.name} <br /> Age: {viceCaptain.age}</p>
+        <p>Captain <br /> Name: <Link to={`/player/${captain.id}`}>{captain.name}</Link> <br /> Age: {captain.age}</p>
+        <p>Vice Captain <br /> Name: <Link to={`/player/${viceCaptain.id}`}>{viceCaptain.name}</Link> <br /> Age: {viceCaptain.age}</p>
       </>
   }
 
@@ -88,6 +88,9 @@ function Team({ teamName, leagueName }) {
     <div className='teamContainer'>
       <h1>{teamName}</h1>
       <h2>Team Members:</h2>
+      <div className='captainsContainer'>
+        {captainData}
+      </div>
       <div className='players'>
         {otherPlayers.map(player => (
           <div key={player.id} className='player'>
@@ -96,10 +99,6 @@ function Team({ teamName, leagueName }) {
           </div>
         ))}
       </div>
-      <div className='captainsContainer'>
-        {captainData}
-      </div>
-      <Link to={`/leagues/${leagueName}`} className='btn'>Back to League</Link>
     </div>
   );
 }
