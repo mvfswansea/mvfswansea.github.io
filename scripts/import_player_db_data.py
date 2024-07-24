@@ -15,7 +15,6 @@ session = boto3.Session(
 
 dynamodb = session.resource('dynamodb')
 players_table = dynamodb.Table('Players')
-leagues_table = dynamodb.Table('Leagues')
 
 
 # Function to load data from JSON file
@@ -50,27 +49,6 @@ folder_path = '../db_data/Season10'
 league_data_folder = os.path.join(folder_path, 'LeagueData')
 team_data_folder = os.path.join(league_data_folder, 'TeamData')
 
-
-# Process league data
-for root, dirs, files in os.walk(league_data_folder):
-    if root == league_data_folder:  # Check if we are in the LeagueData folder
-        for file in files:
-            if file.endswith('League.json'):
-                league_file = os.path.join(root, file)
-                print("Processing league file:", league_file)  # Add this line for debugging
-                try:
-                    league_data = load_data_from_file(league_file)
-                    league_name = league_data["league-name"] 
-                    teams = league_data["teams"]
-                    league_id = league_data["id"]
-                    
-                    # Store league data in DynamoDB table for leagues
-                    leagues_table.put_item(Item={'id': league_id, 'league_name': league_name, 'teams': teams})
-                except Exception as e:
-                    print("Error processing file:", league_file)
-                    print(e)
-
-# Process League Fixtures
 
 # Process team data
 team_files = []
