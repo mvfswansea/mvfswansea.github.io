@@ -82,7 +82,7 @@
         },
         {
             "name": "Dan Reid",
-            "age": "blank",
+            "age": "39",
             "isCaptain": false,
             "isViceCaptain": true,
             "isActive": true,
@@ -90,20 +90,20 @@
             "isHero": false,
             "isTOTW": false,
             "profile": {
-                "hometown": "",
-                "career": "",
-                "hobbies": "",
-                "favouriteFood": "",
-                "favouriteTeam": "",
-                "joiningReason": ""
+                "hometown": "Ammanford",
+                "career": "Specification Manager",
+                "hobbies": "Racing RC Cars",
+                "favouriteFood": "Chinese",
+                "favouriteTeam": "Cardiff",
+                "joiningReason": "To lose weight and to get to know other like minded lads"
             },
             "pitch": {
-                "position": "Defence",
+                "position": "Wing",
                 "matchesPlayed": "0",
                 "goals": "0",
                 "elevensTeam": "None",
-                "favouriteTeamMate": "",
-                "hatePlayingAgainst": ""
+                "favouriteTeamMate": "Ken",
+                "hatePlayingAgainst": "Everyone"
             }
         },
         {
@@ -186,7 +186,7 @@
         },
         {
             "name": "Joseph Chard",
-            "age": "blank",
+            "age": "37",
             "isCaptain": false,
             "isViceCaptain": false,
             "isActive": true,
@@ -194,15 +194,15 @@
             "isHero": false,
             "isTOTW": false,
             "profile": {
-                "hometown": "",
-                "career": "",
-                "hobbies": "",
-                "favouriteFood": "",
+                "hometown": "Swansea",
+                "career": "Welder",
+                "hobbies": "Fiahing, Gardening, Koi keeping",
+                "favouriteFood": "Greek yoghurt and honey",
                 "favouriteTeam": "",
                 "joiningReason": ""
             },
             "pitch": {
-                "position": "Defence",
+                "position": "Forward",
                 "matchesPlayed": "0",
                 "goals": "0",
                 "elevensTeam": "None",

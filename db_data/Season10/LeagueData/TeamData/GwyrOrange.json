@@ -134,7 +134,7 @@
         },
         {
             "name": "Morgan Lambert",
-            "age": "blank",
+            "age": "25",
             "isCaptain": true,
             "isViceCaptain": false,
             "isActive": true,
@@ -142,20 +142,20 @@
             "isHero": false,
             "isTOTW": false,
             "profile": {
-                "hometown": "",
-                "career": "",
-                "hobbies": "",
-                "favouriteFood": "",
-                "favouriteTeam": "",
-                "joiningReason": ""
+                "hometown": "Port Talbot",
+                "career": "Electrician",
+                "hobbies": "Football",
+                "favouriteFood": "Burgers",
+                "favouriteTeam": "Liverpool",
+                "joiningReason": "To shift some weight"
             },
             "pitch": {
-                "position": "Defence",
+                "position": "Anywhere",
                 "matchesPlayed": "0",
                 "goals": "0",
                 "elevensTeam": "None",
-                "favouriteTeamMate": "",
-                "hatePlayingAgainst": ""
+                "favouriteTeamMate": "Too many to pick from, everyone I've played with have been great",
+                "hatePlayingAgainst": "TG, can never keep up with him"
             }
         },
         {

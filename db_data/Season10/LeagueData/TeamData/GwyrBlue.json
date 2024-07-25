@@ -108,7 +108,7 @@
         },
         {
             "name": "Ross Thomas",
-            "age": "blank",
+            "age": "32",
             "isCaptain": false,
             "isViceCaptain": false,
             "isActive": true,
@@ -116,20 +116,20 @@
             "isHero": false,
             "isTOTW": false,
             "profile": {
-                "hometown": "Swansea",
-                "career": "",
-                "hobbies": "",
-                "favouriteFood": "",
-                "favouriteTeam": "Liverpool",
-                "joiningReason": ""
+                "hometown": "Port Talbot",
+                "career": "Steel Worker",
+                "hobbies": "Football",
+                "favouriteFood": "Cheeseburger",
+                "favouriteTeam": "Swansea",
+                "joiningReason": "Mental Health"
             },
             "pitch": {
-                "position": "Midfield",
+                "position": "Forward",
                 "matchesPlayed": "0",
                 "goals": "0",
                 "elevensTeam": "Copr",
-                "favouriteTeamMate": "",
-                "hatePlayingAgainst": ""
+                "favouriteTeamMate": "Everyone",
+                "hatePlayingAgainst": "Nobody"
             }
         },
         {
@@ -160,7 +160,7 @@
         },
         {
             "name": "Mike Rees",
-            "age": "blank",
+            "age": "32",
             "isCaptain": false,
             "isViceCaptain": false,
             "isActive": true,
@@ -168,12 +168,12 @@
             "isHero": false,
             "isTOTW": false,
             "profile": {
-                "hometown": "Swansea",
-                "career": "",
-                "hobbies": "",
-                "favouriteFood": "",
-                "favouriteTeam": "Liverpool",
-                "joiningReason": ""
+                "hometown": "Neath",
+                "career": "PCSO",
+                "hobbies": "Food",
+                "favouriteFood": "Pizza",
+                "favouriteTeam": "Swansea",
+                "joiningReason": "Weight Loss"
             },
             "pitch": {
                 "position": "Defender",

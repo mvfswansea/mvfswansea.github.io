@@ -4,7 +4,7 @@
     "players": [
         {
             "name": "Aaron John",
-            "age": "blank",
+            "age": "38",
             "isCaptain": false,
             "isViceCaptain": true,
             "isActive": true,
@@ -12,20 +12,20 @@
             "isHero": false,
             "isTOTW": false,
             "profile": {
-                "hometown": "",
-                "career": "",
-                "hobbies": "",
-                "favouriteFood": "",
-                "favouriteTeam": "",
-                "joiningReason": ""
+                "hometown": "Swansea",
+                "career": "Want away PCSO",
+                "hobbies": "Eating & Football",
+                "favouriteFood": "Chicken balls and curry sauce",
+                "favouriteTeam": "Man Utd",
+                "joiningReason": "Lose some timber"
             },
             "pitch": {
-                "position": "Defence",
+                "position": "Midfield",
                 "matchesPlayed": "0",
                 "goals": "0",
                 "elevensTeam": "None",
-                "favouriteTeamMate": "",
-                "hatePlayingAgainst": ""
+                "favouriteTeamMate": "Dai the bus",
+                "hatePlayingAgainst": "Big Martin"
             }
         },
         {

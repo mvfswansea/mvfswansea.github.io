@@ -134,7 +134,7 @@
         },
         {
             "name": "Joshua Roberts",
-            "age": "blank",
+            "age": "27",
             "isCaptain": true,
             "isViceCaptain": false,
             "isActive": true,
@@ -142,20 +142,20 @@
             "isHero": false,
             "isTOTW": false,
             "profile": {
-                "hometown": "",
-                "career": "",
-                "hobbies": "",
-                "favouriteFood": "",
-                "favouriteTeam": "",
-                "joiningReason": ""
+                "hometown": "Swansea",
+                "career": "Trainer in Admiral Insurance",
+                "hobbies": "Football, Swansea City, Gigs, IPA’s and good beer. Wrestling and Ice Hockey",
+                "favouriteFood": "Indian or Mexican",
+                "favouriteTeam": "Swansea",
+                "joiningReason": "Lose weight, mental health and get back to playing competitive football after 8 years"
             },
             "pitch": {
-                "position": "Defence",
+                "position": "Forward",
                 "matchesPlayed": "0",
                 "goals": "0",
                 "elevensTeam": "None",
-                "favouriteTeamMate": "",
-                "hatePlayingAgainst": ""
+                "favouriteTeamMate": "Too many to name. Loving my new team though 🧡! I'll go with Rhidian Evans. Without him, I wouldn’t have joined MVF. So owe him a lot",
+                "hatePlayingAgainst": "Been fortunate to only play TG once, but he made me look silly. So I'll go with TG, great guy tho on and off the pitch"
             }
         },
         {

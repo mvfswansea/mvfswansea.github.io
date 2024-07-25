@@ -238,7 +238,7 @@
         },
         {
             "name": "Christopher Evans",
-            "age": "blank",
+            "age": "52",
             "isCaptain": false,
             "isViceCaptain": true,
             "isActive": true,
@@ -246,20 +246,20 @@
             "isHero": false,
             "isTOTW": false,
             "profile": {
-                "hometown": "",
-                "career": "",
-                "hobbies": "",
-                "favouriteFood": "",
-                "favouriteTeam": "",
-                "joiningReason": ""
+                "hometown": "Swansea",
+                "career": "Carer",
+                "hobbies": "Football",
+                "favouriteFood": "Sunday Lunch",
+                "favouriteTeam": "Swansea",
+                "joiningReason": "Get to know people"
             },
             "pitch": {
                 "position": "Defence",
                 "matchesPlayed": "0",
                 "goals": "0",
                 "elevensTeam": "None",
-                "favouriteTeamMate": "",
-                "hatePlayingAgainst": ""
+                "favouriteTeamMate": "Eamesy",
+                "hatePlayingAgainst": "Nick Davies"
             }
         },
         {

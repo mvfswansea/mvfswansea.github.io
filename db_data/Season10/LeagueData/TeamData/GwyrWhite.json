@@ -134,7 +134,7 @@
         },
         {
             "name": "Martin Davies",
-            "age": "blank",
+            "age": "36",
             "isCaptain": false,
             "isViceCaptain": false,
             "isActive": true,
@@ -142,20 +142,20 @@
             "isHero": false,
             "isTOTW": false,
             "profile": {
-                "hometown": "",
-                "career": "",
-                "hobbies": "",
-                "favouriteFood": "",
-                "favouriteTeam": "",
-                "joiningReason": ""
+                "hometown": "Swansea",
+                "career": "Health and Safety Manager",
+                "hobbies": "Coaching and playing football and rugby",
+                "favouriteFood": "Full English",
+                "favouriteTeam": "Swansea",
+                "joiningReason": "Lose weight, while playing competitive sport"
             },
             "pitch": {
-                "position": "Defence",
+                "position": "Striker",
                 "matchesPlayed": "0",
                 "goals": "0",
                 "elevensTeam": "None",
-                "favouriteTeamMate": "",
-                "hatePlayingAgainst": ""
+                "favouriteTeamMate": "Gazza",
+                "hatePlayingAgainst": "Jordan Aspland"
             }
         },
         {

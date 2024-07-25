@@ -30,7 +30,7 @@
         },
         {
             "name": "Alfred Flynn",
-            "age": "blank",
+            "age": "40",
             "isCaptain": false,
             "isViceCaptain": true,
             "isActive": true,
@@ -38,25 +38,25 @@
             "isHero": false,
             "isTOTW": false,
             "profile": {
-                "hometown": "",
-                "career": "",
-                "hobbies": "",
-                "favouriteFood": "",
-                "favouriteTeam": "",
-                "joiningReason": ""
+                "hometown": "Swansea",
+                "career": "Insurance Consultant",
+                "hobbies": "Video games going to concerts and shows",
+                "favouriteFood": "The mcgangbang",
+                "favouriteTeam": "Aston Villa",
+                "joiningReason": "To lose weight"
             },
             "pitch": {
-                "position": "Defence",
+                "position": "Goalkeeper",
                 "matchesPlayed": "0",
                 "goals": "0",
                 "elevensTeam": "None",
-                "favouriteTeamMate": "",
-                "hatePlayingAgainst": ""
+                "favouriteTeamMate": "Phil",
+                "hatePlayingAgainst": "Gavin"
             }
         },
         {
             "name": "Callum Jones",
-            "age": "blank",
+            "age": "33",
             "isCaptain": false,
             "isViceCaptain": false,
             "isActive": true,
@@ -64,20 +64,20 @@
             "isHero": false,
             "isTOTW": false,
             "profile": {
-                "hometown": "",
-                "career": "",
-                "hobbies": "",
-                "favouriteFood": "",
-                "favouriteTeam": "",
-                "joiningReason": ""
+                "hometown": "Merthyr Tydfil",
+                "career": "South Wales Police",
+                "hobbies": "Football,  12m Sprint, Eating",
+                "favouriteFood": "Italian ( ANYTHING )",
+                "favouriteTeam": "Man Utd",
+                "joiningReason": "Lose weight in order to gain a Role with South Wales Police"
             },
             "pitch": {
-                "position": "Defence",
+                "position": "Anywhere",
                 "matchesPlayed": "0",
                 "goals": "0",
                 "elevensTeam": "None",
-                "favouriteTeamMate": "",
-                "hatePlayingAgainst": ""
+                "favouriteTeamMate": "Nick Davies",
+                "hatePlayingAgainst": "Karl Williams (Big Nasty Man)"
             }
         },
         {
@@ -220,25 +220,25 @@
             "isHero": false,
             "isTOTW": false,
             "profile": {
-                "hometown": "",
-                "career": "",
-                "hobbies": "",
-                "favouriteFood": "",
-                "favouriteTeam": "",
-                "joiningReason": ""
+                "hometown": "Swansea",
+                "career": "Chef",
+                "hobbies": "Walking, football mostly at the same time and family time",
+                "favouriteFood": "Lasagne",
+                "favouriteTeam": "Swansea",
+                "joiningReason": "To lose weight and improve mental health"
             },
             "pitch": {
-                "position": "Defence",
+                "position": "Midfield",
                 "matchesPlayed": "0",
                 "goals": "0",
                 "elevensTeam": "None",
-                "favouriteTeamMate": "",
-                "hatePlayingAgainst": ""
+                "favouriteTeamMate": "Nick Davies",
+                "hatePlayingAgainst": "TG or Ryan"
             }
         },
         {
             "name": "Scott Hanson",
-            "age": "blank",
+            "age": "32",
             "isCaptain": false,
             "isViceCaptain": false,
             "isActive": true,
@@ -246,20 +246,20 @@
             "isHero": false,
             "isTOTW": false,
             "profile": {
-                "hometown": "",
-                "career": "",
-                "hobbies": "",
-                "favouriteFood": "",
-                "favouriteTeam": "",
-                "joiningReason": ""
+                "hometown": "Newcastle",
+                "career": "Welsh Ambulance Service - Digital Project Manager",
+                "hobbies": "Football, watching TV series, playing FIFA, Traveling",
+                "favouriteFood": "Pizza, Chinese, BBQ, Mexican - all the good stuff",
+                "favouriteTeam": "Liverpool",
+                "joiningReason": "Wanting to lose weight and improve my health"
             },
             "pitch": {
-                "position": "Defence",
+                "position": "Forward",
                 "matchesPlayed": "0",
                 "goals": "0",
                 "elevensTeam": "None",
-                "favouriteTeamMate": "",
-                "hatePlayingAgainst": ""
+                "favouriteTeamMate": "No favourite as I have enjoyed every player I have played with but have made a few friendships that are now outside of MvF",
+                "hatePlayingAgainst": "Happy to play against any player, no hate just love"
             }
         },
         {

@@ -108,7 +108,7 @@
         },
         {
             "name": "Chris Jones",
-            "age": "blank",
+            "age": "41",
             "isCaptain": false,
             "isViceCaptain": false,
             "isActive": true,
@@ -116,15 +116,15 @@
             "isHero": false,
             "isTOTW": false,
             "profile": {
-                "hometown": "",
-                "career": "",
-                "hobbies": "",
-                "favouriteFood": "",
-                "favouriteTeam": "",
-                "joiningReason": ""
+                "hometown": "Swansea",
+                "career": "Leisure Tutor and Assessor ",
+                "hobbies": "Boxing",
+                "favouriteFood": "Nando's Chicken",
+                "favouriteTeam": "Swansea",
+                "joiningReason": "Start playing football after not kicking a ball for 15 years"
             },
             "pitch": {
-                "position": "Defence",
+                "position": "Midfield",
                 "matchesPlayed": "0",
                 "goals": "0",
                 "elevensTeam": "None",

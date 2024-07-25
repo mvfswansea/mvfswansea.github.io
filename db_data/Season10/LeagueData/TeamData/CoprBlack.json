@@ -30,7 +30,7 @@
         },
         {
             "name": "Declan Hughes",
-            "age": "blank",
+            "age": "28",
             "isCaptain": true,
             "isViceCaptain": false,
             "isActive": true,
@@ -38,15 +38,15 @@
             "isHero": false,
             "isTOTW": false,
             "profile": {
-                "hometown": "",
-                "career": "",
-                "hobbies": "",
-                "favouriteFood": "",
-                "favouriteTeam": "",
-                "joiningReason": ""
+                "hometown": "Newport",
+                "career": "Research and Development Aerospace Engineer",
+                "hobbies": "Video games, football, DIY, travelling",
+                "favouriteFood": "Enchilada",
+                "favouriteTeam": "Bayern Munich",
+                "joiningReason": "Lose weight while playing football"
             },
             "pitch": {
-                "position": "Defence",
+                "position": "Anywhere",
                 "matchesPlayed": "0",
                 "goals": "0",
                 "elevensTeam": "None",

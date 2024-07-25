@@ -212,7 +212,7 @@
         },
         {
             "name": "Paul Williams",
-            "age": "blank",
+            "age": "36",
             "isCaptain": false,
             "isViceCaptain": false,
             "isActive": true,
@@ -220,25 +220,25 @@
             "isHero": false,
             "isTOTW": false,
             "profile": {
-                "hometown": "",
-                "career": "",
-                "hobbies": "",
-                "favouriteFood": "",
-                "favouriteTeam": "",
-                "joiningReason": ""
+                "hometown": "Port Talbot",
+                "career": "Bus Driver",
+                "hobbies": "Playing Football. Watching football & Wrestling",
+                "favouriteFood": "Fucking everything 🤣 but double cheeseburgers if I had to pick. ",
+                "favouriteTeam": "Tottenham",
+                "joiningReason": "To lose about 10 stone"
             },
             "pitch": {
-                "position": "Defence",
+                "position": "Midfield",
                 "matchesPlayed": "0",
                 "goals": "0",
                 "elevensTeam": "None",
-                "favouriteTeamMate": "",
-                "hatePlayingAgainst": ""
+                "favouriteTeamMate": "TG",
+                "hatePlayingAgainst": "Anyone nippy, quick or skillful"
             }
         },
         {
             "name": "Tomas Scott",
-            "age": "blank",
+            "age": "31",
             "isCaptain": false,
             "isViceCaptain": false,
             "isActive": true,
@@ -246,15 +246,15 @@
             "isHero": false,
             "isTOTW": false,
             "profile": {
-                "hometown": "",
-                "career": "",
-                "hobbies": "",
-                "favouriteFood": "",
-                "favouriteTeam": "",
+                "hometown": "Swansea",
+                "career": "Key Account Manager",
+                "hobbies": "Darts, Football",
+                "favouriteFood": "Curry",
+                "favouriteTeam": "Swansea",
                 "joiningReason": ""
             },
             "pitch": {
-                "position": "Defence",
+                "position": "Forward",
                 "matchesPlayed": "0",
                 "goals": "0",
                 "elevensTeam": "None",

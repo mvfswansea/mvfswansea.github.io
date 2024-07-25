@@ -264,7 +264,7 @@
         },
         {
             "name": "Simon Downes",
-            "age": "blank",
+            "age": "49",
             "isCaptain": false,
             "isViceCaptain": false,
             "isActive": true,
@@ -272,20 +272,20 @@
             "isHero": false,
             "isTOTW": false,
             "profile": {
-                "hometown": "",
-                "career": "",
-                "hobbies": "",
-                "favouriteFood": "",
-                "favouriteTeam": "",
-                "joiningReason": ""
+                "hometown": "Llanelli",
+                "career": "University Lecturer",
+                "hobbies": "Refereeing, Football, Chelsea FC, eating food, and Sci-fi",
+                "favouriteFood": "Fish",
+                "favouriteTeam": "Chelsea",
+                "joiningReason": "Need to lose weight and wanted a fun way of doing it"
             },
             "pitch": {
-                "position": "Defence",
+                "position": "GK/Defence",
                 "matchesPlayed": "0",
                 "goals": "0",
                 "elevensTeam": "None",
                 "favouriteTeamMate": "",
-                "hatePlayingAgainst": ""
+                "hatePlayingAgainst": "Anyone better"
             }
         }
     ]
