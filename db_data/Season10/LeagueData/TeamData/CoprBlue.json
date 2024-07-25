@@ -4,7 +4,7 @@
     "players": [
         {
             "name": "Andrew Cook",
-            "age": "blank",
+            "age": "47",
             "isCaptain": false,
             "isViceCaptain": false,
             "isActive": true,
@@ -12,12 +12,12 @@
             "isHero": false,
             "isTOTW": false,
             "profile": {
-                "hometown": "",
-                "career": "",
-                "hobbies": "",
+                "hometown": "Swansea",
+                "career": "Ambulance Care Assistant",
+                "hobbies": "Motorsport",
                 "favouriteFood": "",
-                "favouriteTeam": "",
-                "joiningReason": ""
+                "favouriteTeam": "Swansea",
+                "joiningReason": "Lose Weight"
             },
             "pitch": {
                 "position": "Defence",

@@ -4,7 +4,7 @@
     "players": [
         {
             "name": "Thomas Griffiths",
-            "age": "blank",
+            "age": "31",
             "isCaptain": true,
             "isViceCaptain": false,
             "isActive": true,
@@ -12,20 +12,20 @@
             "isHero": false,
             "isTOTW": false,
             "profile": {
-                "hometown": "",
-                "career": "",
-                "hobbies": "",
-                "favouriteFood": "",
-                "favouriteTeam": "",
-                "joiningReason": ""
+                "hometown": "Swansea",
+                "career": "Maintenance Engineer",
+                "hobbies": "Football & Gaming",
+                "favouriteFood": "Indian",
+                "favouriteTeam": "Swansea",
+                "joiningReason": "My Son"
             },
             "pitch": {
-                "position": "Defence",
+                "position": "Anywhere",
                 "matchesPlayed": "0",
                 "goals": "0",
                 "elevensTeam": "None",
-                "favouriteTeamMate": "",
-                "hatePlayingAgainst": ""
+                "favouriteTeamMate": "If you know you know",
+                "hatePlayingAgainst": "Respectfully, Jordan Aspland, what a keeper 👏😂"
             }
         },
         {

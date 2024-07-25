@@ -186,7 +186,7 @@
         },
         {
             "name": "Ryan Hawkins",
-            "age": "blank",
+            "age": "27",
             "isCaptain": false,
             "isViceCaptain": false,
             "isActive": true,
@@ -194,20 +194,20 @@
             "isHero": false,
             "isTOTW": false,
             "profile": {
-                "hometown": "",
-                "career": "",
-                "hobbies": "",
-                "favouriteFood": "",
-                "favouriteTeam": "",
-                "joiningReason": ""
+                "hometown": "Swansea",
+                "career": "Mitie Supervisor",
+                "hobbies": "Football",
+                "favouriteFood": "Steak,chips, peppcorn sauce",
+                "favouriteTeam": "Swansea",
+                "joiningReason": "Healthier lifestyle and to get fitter"
             },
             "pitch": {
-                "position": "Defence",
+                "position": "Midfield",
                 "matchesPlayed": "0",
                 "goals": "0",
                 "elevensTeam": "None",
-                "favouriteTeamMate": "",
-                "hatePlayingAgainst": ""
+                "favouriteTeamMate": "TG & Craig Evans",
+                "hatePlayingAgainst": "Anyone who kicks me 😂"
             }
         },
         {
