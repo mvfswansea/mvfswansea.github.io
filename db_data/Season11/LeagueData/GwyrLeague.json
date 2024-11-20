@@ -1,0 +1,40 @@
+{
+    "id": "1",
+    "league-name": "Gwyr",
+    "teams": [
+        {
+            "GwyrBlack": {
+                "name": "Fat Men In Black",
+                "color": "black"
+            },
+            "GwyrBlue": {
+                "name": "Maccysfield",
+                "color": "blue"
+            },
+            "GwyrGreen": {
+                "name": "Belly Athletic",
+                "color": "green"
+            },
+            "GwyrOrange": {
+                "name": "New Yorkie Kicks",
+                "color": "orange"
+            },
+            "GwyrPurple": {
+                "name": "Purple Gain",
+                "color": "purple"
+            },
+            "GwyrRed": {
+                "name": "FC Beercelona",
+                "color": "red"
+            },
+            "GwyrWhite": {
+                "name": "Champagne Super Rovers",
+                "color": "white"
+            },
+            "GwyrYellow": {
+                "name": "Slug's Birthday Boys",
+                "color": "yellow"
+            }
+        }
+    ]
+}

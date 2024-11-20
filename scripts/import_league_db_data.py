@@ -1,8 +1,7 @@
 import json
 import boto3
 import os
-
-from boto3.dynamodb.conditions import Key
+import uuid  # Import uuid for unique ids
 
 # Load AWS credentials and configure AWS SDK
 session = boto3.Session(
@@ -11,40 +10,82 @@ session = boto3.Session(
     region_name="eu-west-2"
 )
 
-
 dynamodb = session.resource('dynamodb')
 leagues_table = dynamodb.Table('Leagues')
-
+fixtures_table = dynamodb.Table('Fixtures')  # Assuming Fixtures table exists
 
 # Function to load data from JSON file
 def load_data_from_file(filepath):
     with open(filepath, 'r') as file:
         return json.load(file)
 
-# Get list of JSON files in the db_data folder
-folder_path = '../db_data/Season10'
-
-# Specify the directories path for the data files
+# Folder paths for league and fixture data
+folder_path = '../db_data/Season11'
 league_data_folder = os.path.join(folder_path, 'LeagueData')
-
+fixture_data_folder = os.path.join(folder_path, 'FixtureData')
 
 # Process league data
 for root, dirs, files in os.walk(league_data_folder):
-    if root == league_data_folder:  # Check if we are in the LeagueData folder
+    if root == league_data_folder:
         for file in files:
             if file.endswith('League.json'):
                 league_file = os.path.join(root, file)
-                print("Processing league file:", league_file)  # Add this line for debugging
+                print("Processing league file:", league_file)
                 try:
                     league_data = load_data_from_file(league_file)
-                    league_name = league_data["league-name"] 
-                    teams = league_data["teams"]
-                    league_id = league_data["id"]
-                    
+                    league_name = league_data.get("league-name")
+                    teams = league_data.get("teams")
+                    league_id = league_data.get("id")
+
                     # Store league data in DynamoDB table for leagues
-                    leagues_table.put_item(Item={'id': league_id, 'league_name': league_name, 'teams': teams})
+                    leagues_table.put_item(
+                        Item={
+                            'id': league_id,
+                            'league_name': league_name,
+                            'teams': teams
+                        }
+                    )
                 except Exception as e:
                     print("Error processing file:", league_file)
                     print(e)
 
-print("Data updated or inserted successfully into DynamoDB tables.")
+# Process fixture data
+for root, dirs, files in os.walk(fixture_data_folder):
+    if root == fixture_data_folder:
+        for file in files:
+            if file.endswith('Fixtures.json'):
+                fixture_file = os.path.join(root, file)
+                print("Processing fixture file:", fixture_file)
+                try:
+                    fixture_data = load_data_from_file(fixture_file)
+                    league_id = fixture_data.get("league-id")
+                    fixtures = fixture_data.get("fixtures")
+
+                    # Create the overall structure for this league
+                    league_entry = {
+                        'league_id': league_id,
+                        'fixtures': {}  # Initialize the fixtures structure
+                    }
+                    
+                    # Prepare to populate fixtures with teams for each date
+                    for date, teams in fixtures.items():
+                        # Initialize the date entry if it doesn't exist
+                        if date not in league_entry['fixtures']:
+                            league_entry['fixtures'][date] = {}
+
+                        # Populate fixtures with teams
+                        for team, details in teams.items():
+                            league_entry['fixtures'][date][team] = {
+                                'opposition': details['opposition'],
+                                'played': details['played'],
+                                'pitchResult': details['pitchResult'],
+                                'overallResult': details['overallResult']
+                            }
+
+                    # Store the entire league entry in DynamoDB
+                    fixtures_table.put_item(Item=league_entry)
+
+                except Exception as e:
+                    print("Error processing file:", fixture_file)
+                    print(e)
+print("Data successfully updated or inserted into DynamoDB tables.")

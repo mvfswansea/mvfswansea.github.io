@@ -1,0 +1,40 @@
+{
+    "id": "2",
+    "league-name": "Copr",
+    "teams": [
+        {
+            "CoprBlack": {
+                "name": "Blackburn Leftovers FC",
+                "color": "black"
+            },
+            "CoprBlue": {
+                "name": "Portsmouthful FC",
+                "color": "blue"
+            },
+            "CoprGreen": {
+                "name": "Wolfsberger FC",
+                "color": "green"
+            },
+            "CoprOrange": {
+                "name": "Tango Unchained",
+                "color": "orange"
+            },
+            "CoprPurple": {
+                "name": "To-Lose Weight",
+                "color": "purple"
+            },
+            "CoprRed": {
+                "name": "Olympi-Tacos",
+                "color": "red"
+            },
+            "CoprWhite": {
+                "name": "Bulky Ballers",
+                "color": "white"
+            },
+            "CoprYellow": {
+                "name": "Oreo De Janeiro",
+                "color": "yellow"
+            }
+        }
+    ]
+}
