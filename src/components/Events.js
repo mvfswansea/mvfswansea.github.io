@@ -1,10 +1,9 @@
 import React, { useState } from 'react';
-import { Link } from 'react-router-dom'; // Import Link for navigation
+import { Link } from 'react-router-dom';
 import '../styles/css/components/events.css';
-import eventData from './eventData'; // Import the event data
+import eventData from './eventData';
 
 function Events() {
-  // Initialize state for the current date
   const [currentDate, setCurrentDate] = useState(new Date());
 
   // Function to generate an array of days in the current month
@@ -12,13 +11,12 @@ function Events() {
     const year = date.getFullYear();
     const month = date.getMonth();
     const daysInMonth = new Date(year, month + 1, 0).getDate();
-
     const firstDayOfMonth = new Date(year, month, 1);
-    const startingDayOfWeek = firstDayOfMonth.getDay(); // 0 (Sunday) to 6 (Saturday)
+    const startingDayOfWeek = firstDayOfMonth.getDay();
 
     const daysArray = [];
     for (let i = 0; i < startingDayOfWeek; i++) {
-      daysArray.push(null); // Add null for empty cells before the first day of the month
+      daysArray.push(null);
     }
     for (let day = 1; day <= daysInMonth; day++) {
       daysArray.push(new Date(year, month, day));
@@ -26,11 +24,19 @@ function Events() {
     return daysArray;
   };
 
-  // Function to render the calendar
+  // Get the next upcoming event after the current date
+  const getNextEvent = () => {
+    return eventData
+      .map(event => ({
+        ...event,
+        date: new Date(event.date) // Convert event date strings to Date objects
+      }))
+      .filter(event => event.date > currentDate) // Filter events that are after the current date
+      .sort((a, b) => a.date - b.date)[0]; // Sort by date and pick the earliest one
+  };
+
   const renderCalendar = () => {
     const daysInMonth = getDaysInMonth(currentDate);
-
-    // Array of days of the week
     const daysOfWeek = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
 
     return (
@@ -68,21 +74,29 @@ function Events() {
             );
           })}
         </div>
-        <h2> Upcoming Events </h2>
-        <div className="upcoming-events">
 
+        <h2> Next Event </h2>
+        <div className="upcoming-events">
+          {getNextEvent() ? (
+            <div>
+              <Link to={`/events/${getNextEvent().key}`}>
+                <h3>{getNextEvent().eventName}</h3>
+              </Link>
+              <p>Date: {getNextEvent().date.toLocaleDateString()}</p>
+              <p>Start Time: {getNextEvent().startTime}</p>
+            </div>
+          ) : (
+            <p>No upcoming events</p>
+          )}
         </div>
       </div>
     );
   };
 
-
-  // Function to navigate to the previous month
   const goToPreviousMonth = () => {
     setCurrentDate(new Date(currentDate.getFullYear(), currentDate.getMonth() - 1, 1));
   };
 
-  // Function to navigate to the next month
   const goToNextMonth = () => {
     setCurrentDate(new Date(currentDate.getFullYear(), currentDate.getMonth() + 1, 1));
   };

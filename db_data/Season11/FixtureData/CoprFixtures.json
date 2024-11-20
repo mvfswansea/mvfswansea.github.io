@@ -1,0 +1,805 @@
+{
+    "league-id": "2",
+    "fixtures": {
+        "2024-10-22": {
+            "CoprRed": {
+                "opposition": "CoprBlue",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprBlue": {
+                "opposition": "CoprRed",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprWhite": {
+                "opposition": "CoprBlack",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprBlack": {
+                "opposition": "CoprWhite",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprOrange": {
+                "opposition": "CoprGreen",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprGreen": {
+                "opposition": "CoprOrange",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprPurple": {
+                "opposition": "CoprYellow",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprYellow": {
+                "opposition": "CoprPurple",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            }
+        },
+        "2024-10-29": {
+            "CoprRed": {
+                "opposition": "CoprYellow",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprYellow": {
+                "opposition": "CoprRed",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprPurple": {
+                "opposition": "CoprBlue",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprBlue": {
+                "opposition": "CoprPurple",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprBlack": {
+                "opposition": "CoprWhite",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprWhite": {
+                "opposition": "CoprBlack",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprOrange": {
+                "opposition": "CoprGreen",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprGreen": {
+                "opposition": "CoprOrange",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            }
+        },
+        "2024-11-05": {
+            "CoprGreen": {
+                "opposition": "CoprPurple",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprPurple": {
+                "opposition": "CoprGreen",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprWhite": {
+                "opposition": "CoprOrange",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprOrange": {
+                "opposition": "CoprWhite",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprYellow": {
+                "opposition": "CoprBlack",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprBlack": {
+                "opposition": "CoprYellow",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprBlue": {
+                "opposition": "CoprRed",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprRed": {
+                "opposition": "CoprBlue",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            }
+        },
+        "2024-11-12": {
+            "CoprBlack": {
+                "opposition": "CoprBlue",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprBlue": {
+                "opposition": "CoprBlack",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprPurple": {
+                "opposition": "CoprRed",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprRed": {
+                "opposition": "CoprPurple",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprOrange": {
+                "opposition": "CoprYellow",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprYellow": {
+                "opposition": "CoprOrange",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprGreen": {
+                "opposition": "CoprWhite",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprWhite": {
+                "opposition": "CoprGreen",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            }
+        },
+        "2024-11-19": {
+            "CoprWhite": {
+                "opposition": "CoprPurple",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprPurple": {
+                "opposition": "CoprWhite",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprYellow": {
+                "opposition": "CoprGreen",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprGreen": {
+                "opposition": "CoprYellow",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprOrange": {
+                "opposition": "CoprBlue",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprBlue": {
+                "opposition": "CoprOrange",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprRed": {
+                "opposition": "CoprBlack",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprBlack": {
+                "opposition": "CoprRed",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            }
+        },
+        "2024-11-26": {
+            "CoprOrange": {
+                "opposition": "CoprRed",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprRed": {
+                "opposition": "CoprOrange",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprPurple": {
+                "opposition": "CoprBlack",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprBlack": {
+                "opposition": "CoprPurple",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprGreen": {
+                "opposition": "CoprBlue",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprBlue": {
+                "opposition": "CoprGreen",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprWhite": {
+                "opposition": "CoprYellow",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprYellow": {
+                "opposition": "CoprWhite",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            }
+        },
+        "2024-12-03": {
+            "CoprYellow": {
+                "opposition": "CoprPurple",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprPurple": {
+                "opposition": "CoprYellow",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprBlue": {
+                "opposition": "CoprWhite",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprWhite": {
+                "opposition": "CoprBlue",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprRed": {
+                "opposition": "CoprGreen",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprGreen": {
+                "opposition": "CoprRed",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprBlack": {
+                "opposition": "CoprOrange",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprOrange": {
+                "opposition": "CoprBlack",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            }
+        },
+        "2024-12-10": {
+            "CoprPurple": {
+                "opposition": "CoprOrange",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprOrange": {
+                "opposition": "CoprPurple",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprBlack": {
+                "opposition": "CoprGreen",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprGreen": {
+                "opposition": "CoprBlack",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprRed": {
+                "opposition": "CoprWhite",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprWhite": {
+                "opposition": "CoprRed",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprBlue": {
+                "opposition": "CoprYellow",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprYellow": {
+                "opposition": "CoprBlue",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            }
+        },
+        "2024-12-17": {
+            "CoprYellow": {
+                "opposition": "CoprRed",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprRed": {
+                "opposition": "CoprYellow",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprBlue": {
+                "opposition": "CoprPurple",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprPurple": {
+                "opposition": "CoprBlue",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprWhite": {
+                "opposition": "CoprBlack",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprBlack": {
+                "opposition": "CoprWhite",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprGreen": {
+                "opposition": "CoprOrange",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprOrange": {
+                "opposition": "CoprGreen",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            }
+        },
+        "2024-12-24": {
+            "CoprGreen": {
+                "opposition": "CoprBlue",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprBlue": {
+                "opposition": "CoprGreen",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprYellow": {
+                "opposition": "CoprRed",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprRed": {
+                "opposition": "CoprYellow",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprPurple": {
+                "opposition": "CoprBlack",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprBlack": {
+                "opposition": "CoprPurple",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprWhite": {
+                "opposition": "CoprOrange",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprOrange": {
+                "opposition": "CoprWhite",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            }
+        },
+        "2024-12-31": {
+            "CoprBlue": {
+                "opposition": "CoprYellow",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprYellow": {
+                "opposition": "CoprBlue",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprGreen": {
+                "opposition": "CoprPurple",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprPurple": {
+                "opposition": "CoprGreen",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprRed": {
+                "opposition": "CoprWhite",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprWhite": {
+                "opposition": "CoprRed",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprBlack": {
+                "opposition": "CoprOrange",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprOrange": {
+                "opposition": "CoprBlack",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            }
+        },
+        "2025-01-07": {
+            "CoprPurple": {
+                "opposition": "CoprGreen",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprGreen": {
+                "opposition": "CoprPurple",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprOrange": {
+                "opposition": "CoprWhite",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprWhite": {
+                "opposition": "CoprOrange",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprBlack": {
+                "opposition": "CoprYellow",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprYellow": {
+                "opposition": "CoprBlack",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprRed": {
+                "opposition": "CoprBlue",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprBlue": {
+                "opposition": "CoprRed",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            }
+        },
+        "2025-01-14": {
+            "CoprBlue": {
+                "opposition": "CoprBlack",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprBlack": {
+                "opposition": "CoprBlue",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprRed": {
+                "opposition": "CoprPurple",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprPurple": {
+                "opposition": "CoprRed",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprYellow": {
+                "opposition": "CoprOrange",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprOrange": {
+                "opposition": "CoprYellow",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprWhite": {
+                "opposition": "CoprGreen",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprGreen": {
+                "opposition": "CoprWhite",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            }
+        },
+        "2025-01-21": {
+            "CoprPurple": {
+                "opposition": "CoprWhite",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprWhite": {
+                "opposition": "CoprPurple",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprGreen": {
+                "opposition": "CoprYellow",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprYellow": {
+                "opposition": "CoprGreen",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprOrange": {
+                "opposition": "CoprBlue",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprBlue": {
+                "opposition": "CoprOrange",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprBlack": {
+                "opposition": "CoprRed",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprRed": {
+                "opposition": "CoprBlack",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            }
+        },
+        "2025-01-28": {
+            "CoprRed": {
+                "opposition": "CoprOrange",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprOrange": {
+                "opposition": "CoprRed",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprBlack": {
+                "opposition": "CoprPurple",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprPurple": {
+                "opposition": "CoprBlack",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprBlue": {
+                "opposition": "CoprGreen",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprGreen": {
+                "opposition": "CoprBlue",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprYellow": {
+                "opposition": "CoprWhite",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprWhite": {
+                "opposition": "CoprYellow",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            }
+        },
+        "2025-02-04": {
+            "CoprPurple": {
+                "opposition": "CoprYellow",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprYellow": {
+                "opposition": "CoprPurple",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprWhite": {
+                "opposition": "CoprBlue",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprBlue": {
+                "opposition": "CoprWhite",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprGreen": {
+                "opposition": "CoprRed",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprRed": {
+                "opposition": "CoprGreen",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprOrange": {
+                "opposition": "CoprBlack",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "CoprBlack": {
+                "opposition": "CoprOrange",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            }
+        }
+    }
+}

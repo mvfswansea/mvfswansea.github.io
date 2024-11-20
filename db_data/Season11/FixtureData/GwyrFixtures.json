@@ -1,700 +1,801 @@
 {
+    "league-id": "1",
     "fixtures": {
-        "2024-07-16": {
-            "GwyrBlack": {
-                "opposition": "",
+        "2024-10-22": {
+            "GwyrRed": {
+                "opposition": "GwyrBlue",
                 "played": false,
                 "pitchResult": "",
                 "overallResult": ""
             },
             "GwyrBlue": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrGreen": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrOrange": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrPurple": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrRed": {
-                "opposition": "",
+                "opposition": "GwyrRed",
                 "played": false,
                 "pitchResult": "",
                 "overallResult": ""
             },
             "GwyrWhite": {
-                "opposition": "",
+                "opposition": "GwyrBlack",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrBlack": {
+                "opposition": "GwyrWhite",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrOrange": {
+                "opposition": "GwyrGreen",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrGreen": {
+                "opposition": "GwyrOrange",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrPurple": {
+                "opposition": "GwyrYellow",
                 "played": false,
                 "pitchResult": "",
                 "overallResult": ""
             },
             "GwyrYellow": {
-                "opposition": "",
+                "opposition": "GwyrPurple",
                 "played": false,
                 "pitchResult": "",
                 "overallResult": ""
             }
         },
-        "2024-07-23": {
-            "GwyrBlack": {
-                "opposition": "",
+        "2024-10-29": {
+            "GwyrRed": {
+                "opposition": "GwyrBlue",
                 "played": false,
                 "pitchResult": "",
                 "overallResult": ""
             },
             "GwyrBlue": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrGreen": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrOrange": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrPurple": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrRed": {
-                "opposition": "",
+                "opposition": "GwyrRed",
                 "played": false,
                 "pitchResult": "",
                 "overallResult": ""
             },
             "GwyrWhite": {
-                "opposition": "",
+                "opposition": "GwyrBlack",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrBlack": {
+                "opposition": "GwyrWhite",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrOrange": {
+                "opposition": "GwyrGreen",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrGreen": {
+                "opposition": "GwyrOrange",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrPurple": {
+                "opposition": "GwyrYellow",
                 "played": false,
                 "pitchResult": "",
                 "overallResult": ""
             },
             "GwyrYellow": {
-                "opposition": "",
+                "opposition": "GwyrPurple",
                 "played": false,
                 "pitchResult": "",
                 "overallResult": ""
             }
         },
-        "2024-07-30": {
-            "GwyrBlack": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrBlue": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrGreen": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrOrange": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrPurple": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrRed": {
-                "opposition": "",
+        "2024-11-05": {
+            "GwyrYellow": {
+                "opposition": "GwyrWhite",
                 "played": false,
                 "pitchResult": "",
                 "overallResult": ""
             },
             "GwyrWhite": {
-                "opposition": "",
+                "opposition": "GwyrYellow",
                 "played": false,
                 "pitchResult": "",
                 "overallResult": ""
             },
-            "GwyrYellow": {
-                "opposition": "",
+            "GwyrGreen": {
+                "opposition": "GwyrPurple",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrPurple": {
+                "opposition": "GwyrGreen",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrBlue": {
+                "opposition": "GwyrOrange",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrOrange": {
+                "opposition": "GwyrBlue",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrBlack": {
+                "opposition": "GwyrRed",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrRed": {
+                "opposition": "GwyrBlack",
                 "played": false,
                 "pitchResult": "",
                 "overallResult": ""
             }
         },
-        "2024-08-06": {
-            "GwyrBlack": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrBlue": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrGreen": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
+        "2024-11-12": {
             "GwyrOrange": {
-                "opposition": "",
+                "opposition": "GwyrBlack",
                 "played": false,
                 "pitchResult": "",
                 "overallResult": ""
             },
-            "GwyrPurple": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrRed": {
-                "opposition": "",
+            "GwyrBlack": {
+                "opposition": "GwyrOrange",
                 "played": false,
                 "pitchResult": "",
                 "overallResult": ""
             },
             "GwyrWhite": {
-                "opposition": "",
+                "opposition": "GwyrRed",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrRed": {
+                "opposition": "GwyrWhite",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrPurple": {
+                "opposition": "GwyrBlue",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrBlue": {
+                "opposition": "GwyrPurple",
                 "played": false,
                 "pitchResult": "",
                 "overallResult": ""
             },
             "GwyrYellow": {
-                "opposition": "",
+                "opposition": "GwyrGreen",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrGreen": {
+                "opposition": "GwyrYellow",
                 "played": false,
                 "pitchResult": "",
                 "overallResult": ""
             }
         },
-        "2024-08-13": {
-            "GwyrBlack": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrBlue": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
+        "2024-11-19": {
             "GwyrGreen": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrOrange": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrPurple": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrRed": {
-                "opposition": "",
+                "opposition": "GwyrWhite",
                 "played": false,
                 "pitchResult": "",
                 "overallResult": ""
             },
             "GwyrWhite": {
-                "opposition": "",
+                "opposition": "GwyrGreen",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrBlue": {
+                "opposition": "GwyrYellow",
                 "played": false,
                 "pitchResult": "",
                 "overallResult": ""
             },
             "GwyrYellow": {
-                "opposition": "",
+                "opposition": "GwyrBlue",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrBlack": {
+                "opposition": "GwyrPurple",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrPurple": {
+                "opposition": "GwyrBlack",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrRed": {
+                "opposition": "GwyrOrange",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrOrange": {
+                "opposition": "GwyrRed",
                 "played": false,
                 "pitchResult": "",
                 "overallResult": ""
             }
         },
-        "2024-08-20": {
-            "GwyrBlack": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrBlue": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrGreen": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrOrange": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
+        "2024-11-26": {
             "GwyrPurple": {
-                "opposition": "",
+                "opposition": "GwyrRed",
                 "played": false,
                 "pitchResult": "",
                 "overallResult": ""
             },
             "GwyrRed": {
-                "opposition": "",
+                "opposition": "GwyrPurple",
                 "played": false,
                 "pitchResult": "",
                 "overallResult": ""
             },
             "GwyrWhite": {
-                "opposition": "",
+                "opposition": "GwyrOrange",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrOrange": {
+                "opposition": "GwyrWhite",
                 "played": false,
                 "pitchResult": "",
                 "overallResult": ""
             },
             "GwyrYellow": {
-                "opposition": "",
+                "opposition": "GwyrBlack",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrBlack": {
+                "opposition": "GwyrYellow",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrGreen": {
+                "opposition": "GwyrBlue",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrBlue": {
+                "opposition": "GwyrGreen",
                 "played": false,
                 "pitchResult": "",
                 "overallResult": ""
             }
         },
-        "2024-08-27": {
-            "GwyrBlack": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
+        "2024-12-03": {
             "GwyrBlue": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrGreen": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrOrange": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrPurple": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrRed": {
-                "opposition": "",
+                "opposition": "GwyrWhite",
                 "played": false,
                 "pitchResult": "",
                 "overallResult": ""
             },
             "GwyrWhite": {
-                "opposition": "",
+                "opposition": "GwyrBlue",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrBlack": {
+                "opposition": "GwyrGreen",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrGreen": {
+                "opposition": "GwyrBlack",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrRed": {
+                "opposition": "GwyrYellow",
                 "played": false,
                 "pitchResult": "",
                 "overallResult": ""
             },
             "GwyrYellow": {
-                "opposition": "",
+                "opposition": "GwyrRed",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrOrange": {
+                "opposition": "GwyrPurple",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrPurple": {
+                "opposition": "GwyrOrange",
                 "played": false,
                 "pitchResult": "",
                 "overallResult": ""
             }
         },
-        "2024-09-03": {
-            "GwyrBlack": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrBlue": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrGreen": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrOrange": {
-                "opposition": "",
+        "2024-12-10": {
+            "GwyrWhite": {
+                "opposition": "GwyrPurple",
                 "played": false,
                 "pitchResult": "",
                 "overallResult": ""
             },
             "GwyrPurple": {
-                "opposition": "",
+                "opposition": "GwyrWhite",
                 "played": false,
                 "pitchResult": "",
                 "overallResult": ""
             },
-            "GwyrRed": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrWhite": {
-                "opposition": "",
+            "GwyrOrange": {
+                "opposition": "GwyrYellow",
                 "played": false,
                 "pitchResult": "",
                 "overallResult": ""
             },
             "GwyrYellow": {
-                "opposition": "",
+                "opposition": "GwyrOrange",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrBlack": {
+                "opposition": "GwyrBlue",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrBlue": {
+                "opposition": "GwyrBlack",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrGreen": {
+                "opposition": "GwyrRed",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrRed": {
+                "opposition": "GwyrGreen",
                 "played": false,
                 "pitchResult": "",
                 "overallResult": ""
             }
         },
-        "2024-09-10": {
-            "GwyrBlack": {
-                "opposition": "",
+        "2024-12-17": {
+            "GwyrRed": {
+                "opposition": "GwyrBlue",
                 "played": false,
                 "pitchResult": "",
                 "overallResult": ""
             },
             "GwyrBlue": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrGreen": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrOrange": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrPurple": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrRed": {
-                "opposition": "",
+                "opposition": "GwyrRed",
                 "played": false,
                 "pitchResult": "",
                 "overallResult": ""
             },
             "GwyrWhite": {
-                "opposition": "",
+                "opposition": "GwyrBlack",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrBlack": {
+                "opposition": "GwyrWhite",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrOrange": {
+                "opposition": "GwyrGreen",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrGreen": {
+                "opposition": "GwyrOrange",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrPurple": {
+                "opposition": "GwyrYellow",
                 "played": false,
                 "pitchResult": "",
                 "overallResult": ""
             },
             "GwyrYellow": {
-                "opposition": "",
+                "opposition": "GwyrPurple",
                 "played": false,
                 "pitchResult": "",
                 "overallResult": ""
             }
         },
-        "2024-09-17": {
-            "GwyrBlack": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrBlue": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrGreen": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrOrange": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrPurple": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrRed": {
-                "opposition": "",
+        "2024-12-24": {
+            "GwyrYellow": {
+                "opposition": "GwyrWhite",
                 "played": false,
                 "pitchResult": "",
                 "overallResult": ""
             },
             "GwyrWhite": {
-                "opposition": "",
+                "opposition": "GwyrYellow",
                 "played": false,
                 "pitchResult": "",
                 "overallResult": ""
             },
-            "GwyrYellow": {
-                "opposition": "",
+            "GwyrGreen": {
+                "opposition": "GwyrPurple",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrPurple": {
+                "opposition": "GwyrGreen",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrBlue": {
+                "opposition": "GwyrOrange",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrOrange": {
+                "opposition": "GwyrBlue",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrBlack": {
+                "opposition": "GwyrRed",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrRed": {
+                "opposition": "GwyrBlack",
                 "played": false,
                 "pitchResult": "",
                 "overallResult": ""
             }
         },
-        "2024-09-24": {
-            "GwyrBlack": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrBlue": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrGreen": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
+        "2024-12-31": {
             "GwyrOrange": {
-                "opposition": "",
+                "opposition": "GwyrBlack",
                 "played": false,
                 "pitchResult": "",
                 "overallResult": ""
             },
-            "GwyrPurple": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrRed": {
-                "opposition": "",
+            "GwyrBlack": {
+                "opposition": "GwyrOrange",
                 "played": false,
                 "pitchResult": "",
                 "overallResult": ""
             },
             "GwyrWhite": {
-                "opposition": "",
+                "opposition": "GwyrRed",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrRed": {
+                "opposition": "GwyrWhite",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrPurple": {
+                "opposition": "GwyrBlue",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrBlue": {
+                "opposition": "GwyrPurple",
                 "played": false,
                 "pitchResult": "",
                 "overallResult": ""
             },
             "GwyrYellow": {
-                "opposition": "",
+                "opposition": "GwyrGreen",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrGreen": {
+                "opposition": "GwyrYellow",
                 "played": false,
                 "pitchResult": "",
                 "overallResult": ""
             }
         },
-        "2024-10-01": {
-            "GwyrBlack": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrBlue": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
+        "2025-01-07": {
             "GwyrGreen": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrOrange": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrPurple": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrRed": {
-                "opposition": "",
+                "opposition": "GwyrWhite",
                 "played": false,
                 "pitchResult": "",
                 "overallResult": ""
             },
             "GwyrWhite": {
-                "opposition": "",
+                "opposition": "GwyrGreen",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrBlue": {
+                "opposition": "GwyrYellow",
                 "played": false,
                 "pitchResult": "",
                 "overallResult": ""
             },
             "GwyrYellow": {
-                "opposition": "",
+                "opposition": "GwyrBlue",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrBlack": {
+                "opposition": "GwyrPurple",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrPurple": {
+                "opposition": "GwyrBlack",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrRed": {
+                "opposition": "GwyrOrange",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrOrange": {
+                "opposition": "GwyrRed",
                 "played": false,
                 "pitchResult": "",
                 "overallResult": ""
             }
         },
-        "2024-10-08": {
-            "GwyrBlack": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrBlue": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrGreen": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrOrange": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
+        "2025-01-14": {
             "GwyrPurple": {
-                "opposition": "",
+                "opposition": "GwyrRed",
                 "played": false,
                 "pitchResult": "",
                 "overallResult": ""
             },
             "GwyrRed": {
-                "opposition": "",
+                "opposition": "GwyrPurple",
                 "played": false,
                 "pitchResult": "",
                 "overallResult": ""
             },
             "GwyrWhite": {
-                "opposition": "",
+                "opposition": "GwyrOrange",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrOrange": {
+                "opposition": "GwyrWhite",
                 "played": false,
                 "pitchResult": "",
                 "overallResult": ""
             },
             "GwyrYellow": {
-                "opposition": "",
+                "opposition": "GwyrBlack",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrBlack": {
+                "opposition": "GwyrYellow",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrGreen": {
+                "opposition": "GwyrBlue",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrBlue": {
+                "opposition": "GwyrGreen",
                 "played": false,
                 "pitchResult": "",
                 "overallResult": ""
             }
         },
-        "2024-10-15": {
-            "GwyrBlack": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
+        "2025-01-21": {
             "GwyrBlue": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrGreen": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrOrange": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrPurple": {
-                "opposition": "",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
-            },
-            "GwyrRed": {
-                "opposition": "",
+                "opposition": "GwyrWhite",
                 "played": false,
                 "pitchResult": "",
                 "overallResult": ""
             },
             "GwyrWhite": {
-                "opposition": "",
+                "opposition": "GwyrBlue",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrBlack": {
+                "opposition": "GwyrGreen",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrGreen": {
+                "opposition": "GwyrBlack",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrRed": {
+                "opposition": "GwyrYellow",
                 "played": false,
                 "pitchResult": "",
                 "overallResult": ""
             },
             "GwyrYellow": {
-                "opposition": "",
+                "opposition": "GwyrRed",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrOrange": {
+                "opposition": "GwyrPurple",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrPurple": {
+                "opposition": "GwyrOrange",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            }
+        },
+        "2025-01-28": {
+            "GwyrWhite": {
+                "opposition": "GwyrPurple",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrPurple": {
+                "opposition": "GwyrWhite",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrOrange": {
+                "opposition": "GwyrYellow",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrYellow": {
+                "opposition": "GwyrOrange",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrBlack": {
+                "opposition": "GwyrBlue",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrBlue": {
+                "opposition": "GwyrBlack",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrGreen": {
+                "opposition": "GwyrRed",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrRed": {
+                "opposition": "GwyrGreen",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            }
+        },
+        "2025-02-04": {
+            "GwyrRed": {
+                "opposition": "GwyrBlue",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrBlue": {
+                "opposition": "GwyrRed",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrWhite": {
+                "opposition": "GwyrBlack",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrBlack": {
+                "opposition": "GwyrWhite",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrOrange": {
+                "opposition": "GwyrGreen",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrGreen": {
+                "opposition": "GwyrOrange",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrPurple": {
+                "opposition": "GwyrYellow",
+                "played": false,
+                "pitchResult": "",
+                "overallResult": ""
+            },
+            "GwyrYellow": {
+                "opposition": "GwyrPurple",
                 "played": false,
                 "pitchResult": "",
                 "overallResult": ""

@@ -1,0 +1,292 @@
+{
+    "team-name": "Oreo De Janeiro",
+    "league-name": "Gwyr",
+    "players": [
+        {
+            "name": "Thomas Griffiths",
+            "age": "31",
+            "isCaptain": true,
+            "isViceCaptain": false,
+            "isActive": true,
+            "isPrivate": false,
+            "isHero": false,
+            "isTOTW": false,
+            "profile": {
+                "hometown": "Swansea",
+                "career": "Maintenance Engineer",
+                "hobbies": "Football & Gaming",
+                "favouriteFood": "Indian",
+                "favouriteTeam": "Swansea",
+                "joiningReason": "My Son"
+            },
+            "pitch": {
+                "position": "Anywhere",
+                "matchesPlayed": "0",
+                "goals": "0",
+                "elevensTeam": "None",
+                "favouriteTeamMate": "If you know you know",
+                "hatePlayingAgainst": "Respectfully, Jordan Aspland, what a keeper 👏😂"
+            }
+        },
+        {
+            "name": "Adam Rayson",
+            "age": "blank",
+            "isCaptain": false,
+            "isViceCaptain": false,
+            "isActive": true,
+            "isPrivate": false,
+            "isHero": false,
+            "isTOTW": false,
+            "profile": {
+                "hometown": "",
+                "career": "",
+                "hobbies": "",
+                "favouriteFood": "",
+                "favouriteTeam": "",
+                "joiningReason": ""
+            },
+            "pitch": {
+                "position": "Defence",
+                "matchesPlayed": "0",
+                "goals": "0",
+                "elevensTeam": "None",
+                "favouriteTeamMate": "",
+                "hatePlayingAgainst": ""
+            }
+        },
+        {
+            "name": "Daniel Stewart",
+            "age": "blank",
+            "isCaptain": false,
+            "isViceCaptain": false,
+            "isActive": true,
+            "isPrivate": false,
+            "isHero": false,
+            "isTOTW": false,
+            "profile": {
+                "hometown": "",
+                "career": "",
+                "hobbies": "",
+                "favouriteFood": "",
+                "favouriteTeam": "",
+                "joiningReason": ""
+            },
+            "pitch": {
+                "position": "Defence",
+                "matchesPlayed": "0",
+                "goals": "0",
+                "elevensTeam": "None",
+                "favouriteTeamMate": "",
+                "hatePlayingAgainst": ""
+            }
+        },
+        {
+            "name": "Joe Spiteri",
+            "age": "blank",
+            "isCaptain": false,
+            "isViceCaptain": false,
+            "isActive": true,
+            "isPrivate": false,
+            "isHero": false,
+            "isTOTW": false,
+            "profile": {
+                "hometown": "",
+                "career": "",
+                "hobbies": "",
+                "favouriteFood": "",
+                "favouriteTeam": "",
+                "joiningReason": ""
+            },
+            "pitch": {
+                "position": "Defence",
+                "matchesPlayed": "0",
+                "goals": "0",
+                "elevensTeam": "None",
+                "favouriteTeamMate": "",
+                "hatePlayingAgainst": ""
+            }
+        },
+        {
+            "name": "Kieran Thomas",
+            "age": "blank",
+            "isCaptain": false,
+            "isViceCaptain": true,
+            "isActive": true,
+            "isPrivate": false,
+            "isHero": false,
+            "isTOTW": false,
+            "profile": {
+                "hometown": "",
+                "career": "",
+                "hobbies": "",
+                "favouriteFood": "",
+                "favouriteTeam": "",
+                "joiningReason": ""
+            },
+            "pitch": {
+                "position": "Defence",
+                "matchesPlayed": "0",
+                "goals": "0",
+                "elevensTeam": "None",
+                "favouriteTeamMate": "",
+                "hatePlayingAgainst": ""
+            }
+        },
+        {
+            "name": "Craig Palmer",
+            "age": "blank",
+            "isCaptain": false,
+            "isViceCaptain": false,
+            "isActive": true,
+            "isPrivate": false,
+            "isHero": false,
+            "isTOTW": false,
+            "profile": {
+                "hometown": "",
+                "career": "",
+                "hobbies": "",
+                "favouriteFood": "",
+                "favouriteTeam": "",
+                "joiningReason": ""
+            },
+            "pitch": {
+                "position": "Defence",
+                "matchesPlayed": "0",
+                "goals": "0",
+                "elevensTeam": "None",
+                "favouriteTeamMate": "",
+                "hatePlayingAgainst": ""
+            }
+        },
+        {
+            "name": "Simon Petherbridge",
+            "age": "blank",
+            "isCaptain": false,
+            "isViceCaptain": false,
+            "isActive": true,
+            "isPrivate": false,
+            "isHero": false,
+            "isTOTW": false,
+            "profile": {
+                "hometown": "",
+                "career": "",
+                "hobbies": "",
+                "favouriteFood": "",
+                "favouriteTeam": "",
+                "joiningReason": ""
+            },
+            "pitch": {
+                "position": "Defence",
+                "matchesPlayed": "0",
+                "goals": "0",
+                "elevensTeam": "None",
+                "favouriteTeamMate": "",
+                "hatePlayingAgainst": ""
+            }
+        },
+        {
+            "name": "Terry Hinder",
+            "age": "blank",
+            "isCaptain": false,
+            "isViceCaptain": false,
+            "isActive": true,
+            "isPrivate": false,
+            "isHero": false,
+            "isTOTW": false,
+            "profile": {
+                "hometown": "",
+                "career": "",
+                "hobbies": "",
+                "favouriteFood": "",
+                "favouriteTeam": "",
+                "joiningReason": ""
+            },
+            "pitch": {
+                "position": "Defence",
+                "matchesPlayed": "0",
+                "goals": "0",
+                "elevensTeam": "None",
+                "favouriteTeamMate": "",
+                "hatePlayingAgainst": ""
+            }
+        },
+        {
+            "name": "Paul Williams",
+            "age": "36",
+            "isCaptain": false,
+            "isViceCaptain": false,
+            "isActive": true,
+            "isPrivate": false,
+            "isHero": false,
+            "isTOTW": false,
+            "profile": {
+                "hometown": "Port Talbot",
+                "career": "Bus Driver",
+                "hobbies": "Playing Football. Watching football & Wrestling",
+                "favouriteFood": "Fucking everything 🤣 but double cheeseburgers if I had to pick. ",
+                "favouriteTeam": "Tottenham",
+                "joiningReason": "To lose about 10 stone"
+            },
+            "pitch": {
+                "position": "Midfield",
+                "matchesPlayed": "0",
+                "goals": "0",
+                "elevensTeam": "None",
+                "favouriteTeamMate": "TG",
+                "hatePlayingAgainst": "Anyone nippy, quick or skillful"
+            }
+        },
+        {
+            "name": "Tomas Scott",
+            "age": "31",
+            "isCaptain": false,
+            "isViceCaptain": false,
+            "isActive": true,
+            "isPrivate": false,
+            "isHero": false,
+            "isTOTW": false,
+            "profile": {
+                "hometown": "Swansea",
+                "career": "Key Account Manager",
+                "hobbies": "Darts, Football",
+                "favouriteFood": "Curry",
+                "favouriteTeam": "Swansea",
+                "joiningReason": ""
+            },
+            "pitch": {
+                "position": "Forward",
+                "matchesPlayed": "0",
+                "goals": "0",
+                "elevensTeam": "None",
+                "favouriteTeamMate": "",
+                "hatePlayingAgainst": ""
+            }
+        },
+        {
+            "name": "Josh Murphy",
+            "age": "blank",
+            "isCaptain": false,
+            "isViceCaptain": false,
+            "isActive": true,
+            "isPrivate": false,
+            "isHero": false,
+            "isTOTW": false,
+            "profile": {
+                "hometown": "",
+                "career": "",
+                "hobbies": "",
+                "favouriteFood": "",
+                "favouriteTeam": "",
+                "joiningReason": ""
+            },
+            "pitch": {
+                "position": "Defence",
+                "matchesPlayed": "0",
+                "goals": "0",
+                "elevensTeam": "None",
+                "favouriteTeamMate": "",
+                "hatePlayingAgainst": ""
+            }
+        }
+    ]
+}

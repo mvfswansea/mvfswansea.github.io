@@ -15,6 +15,7 @@ session = boto3.Session(
 
 dynamodb = session.resource('dynamodb')
 players_table = dynamodb.Table('Players')
+leagues_table = dynamodb.Table('Leagues')
 
 
 # Function to delete all items from DynamoDB table
@@ -30,3 +31,4 @@ def delete_all_items(table):
 
 # Call the function to delete all items
 delete_all_items(players_table)
+delete_all_items(leagues_table)

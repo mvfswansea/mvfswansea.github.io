@@ -1,0 +1,292 @@
+{
+    "team-name": "Maccysfield",
+    "league-name": "Gwyr",
+    "players": [
+        {
+            "name": "Darrell Cox",
+            "age": "blank",
+            "isCaptain": false,
+            "isViceCaptain": true,
+            "isActive": true,
+            "isPrivate": false,
+            "isHero": false,
+            "isTOTW": false,
+            "profile": {
+                "hometown": "Swansea",
+                "career": "IT",
+                "hobbies": "Football",
+                "favouriteFood": "burger",
+                "favouriteTeam": "Liverpool",
+                "joiningReason": "Get Healthy"
+            },
+            "pitch": {
+                "position": "Midfield",
+                "matchesPlayed": "2",
+                "goals": "2",
+                "elevensTeam": "None",
+                "favouriteTeamMate": "Martin - Animal, and compliments my game",
+                "hatePlayingAgainst": "TG - Runs rings around me"
+            }
+        },
+        {
+            "name": "Richard Davies",
+            "age": "blank",
+            "isCaptain": false,
+            "isViceCaptain": false,
+            "isActive": true,
+            "isPrivate": false,
+            "isHero": false,
+            "isTOTW": false,
+            "profile": {
+                "hometown": "Swansea",
+                "career": "Bread",
+                "hobbies": "Football",
+                "favouriteFood": "Chicken Nuggies",
+                "favouriteTeam": "Liverpool",
+                "joiningReason": "Darrell"
+            },
+            "pitch": {
+                "position": "Midfield",
+                "matchesPlayed": "0",
+                "goals": "0",
+                "elevensTeam": "None",
+                "favouriteTeamMate": "Any goalkeeper",
+                "hatePlayingAgainst": ""
+            }
+        },
+        {
+            "name": "Nathan Hodgson",
+            "age": "blank",
+            "isCaptain": true,
+            "isViceCaptain": false,
+            "isActive": true,
+            "isPrivate": false,
+            "isHero": false,
+            "isTOTW": false,
+            "profile": {
+                "hometown": "Swansea",
+                "career": "",
+                "hobbies": "",
+                "favouriteFood": "",
+                "favouriteTeam": "Liverpool",
+                "joiningReason": ""
+            },
+            "pitch": {
+                "position": "Striker",
+                "matchesPlayed": "0",
+                "goals": "0",
+                "elevensTeam": "None",
+                "favouriteTeamMate": "",
+                "hatePlayingAgainst": ""
+            }
+        },
+        {
+            "name": "Kristian Hassan",
+            "age": "blank",
+            "isCaptain": false,
+            "isViceCaptain": false,
+            "isActive": true,
+            "isPrivate": false,
+            "isHero": false,
+            "isTOTW": false,
+            "profile": {
+                "hometown": "Swansea",
+                "career": "",
+                "hobbies": "",
+                "favouriteFood": "",
+                "favouriteTeam": "Liverpool",
+                "joiningReason": ""
+            },
+            "pitch": {
+                "position": "Striker",
+                "matchesPlayed": "0",
+                "goals": "0",
+                "elevensTeam": "None",
+                "favouriteTeamMate": "",
+                "hatePlayingAgainst": ""
+            }
+        },
+        {
+            "name": "Ross Thomas",
+            "age": "32",
+            "isCaptain": false,
+            "isViceCaptain": false,
+            "isActive": true,
+            "isPrivate": false,
+            "isHero": false,
+            "isTOTW": false,
+            "profile": {
+                "hometown": "Port Talbot",
+                "career": "Steel Worker",
+                "hobbies": "Football",
+                "favouriteFood": "Cheeseburger",
+                "favouriteTeam": "Swansea",
+                "joiningReason": "Mental Health"
+            },
+            "pitch": {
+                "position": "Forward",
+                "matchesPlayed": "0",
+                "goals": "0",
+                "elevensTeam": "Copr",
+                "favouriteTeamMate": "Everyone",
+                "hatePlayingAgainst": "Nobody"
+            }
+        },
+        {
+            "name": "Alex Kirkhouse",
+            "age": "blank",
+            "isCaptain": false,
+            "isViceCaptain": false,
+            "isActive": true,
+            "isPrivate": false,
+            "isHero": false,
+            "isTOTW": false,
+            "profile": {
+                "hometown": "Swansea",
+                "career": "",
+                "hobbies": "",
+                "favouriteFood": "",
+                "favouriteTeam": "Liverpool",
+                "joiningReason": ""
+            },
+            "pitch": {
+                "position": "Defender",
+                "matchesPlayed": "0",
+                "goals": "0",
+                "elevensTeam": "Copr",
+                "favouriteTeamMate": "",
+                "hatePlayingAgainst": ""
+            }
+        },
+        {
+            "name": "Mike Rees",
+            "age": "32",
+            "isCaptain": false,
+            "isViceCaptain": false,
+            "isActive": true,
+            "isPrivate": false,
+            "isHero": false,
+            "isTOTW": false,
+            "profile": {
+                "hometown": "Neath",
+                "career": "PCSO",
+                "hobbies": "Food",
+                "favouriteFood": "Pizza",
+                "favouriteTeam": "Swansea",
+                "joiningReason": "Weight Loss"
+            },
+            "pitch": {
+                "position": "Defender",
+                "matchesPlayed": "0",
+                "goals": "0",
+                "elevensTeam": "None",
+                "favouriteTeamMate": "",
+                "hatePlayingAgainst": ""
+            }
+        },
+        {
+            "name": "Andrew Thomas",
+            "age": "blank",
+            "isCaptain": false,
+            "isViceCaptain": false,
+            "isActive": true,
+            "isPrivate": false,
+            "isHero": false,
+            "isTOTW": false,
+            "profile": {
+                "hometown": "Swansea",
+                "career": "",
+                "hobbies": "",
+                "favouriteFood": "",
+                "favouriteTeam": "Liverpool",
+                "joiningReason": ""
+            },
+            "pitch": {
+                "position": "Midfield",
+                "matchesPlayed": "0",
+                "goals": "0",
+                "elevensTeam": "None",
+                "favouriteTeamMate": "",
+                "hatePlayingAgainst": ""
+            }
+        },
+        {
+            "name": "Luke Massingham",
+            "age": "blank",
+            "isCaptain": false,
+            "isViceCaptain": false,
+            "isActive": true,
+            "isPrivate": false,
+            "isHero": false,
+            "isTOTW": false,
+            "profile": {
+                "hometown": "Swansea",
+                "career": "",
+                "hobbies": "",
+                "favouriteFood": "",
+                "favouriteTeam": "Liverpool",
+                "joiningReason": ""
+            },
+            "pitch": {
+                "position": "Defender",
+                "matchesPlayed": "0",
+                "goals": "0",
+                "elevensTeam": "Gwyr",
+                "favouriteTeamMate": "",
+                "hatePlayingAgainst": ""
+            }
+        },
+        {
+            "name": "Kyle Lewis",
+            "age": "blank",
+            "isCaptain": false,
+            "isViceCaptain": false,
+            "isActive": true,
+            "isPrivate": false,
+            "isHero": false,
+            "isTOTW": false,
+            "profile": {
+                "hometown": "Swansea",
+                "career": "",
+                "hobbies": "",
+                "favouriteFood": "",
+                "favouriteTeam": "Liverpool",
+                "joiningReason": ""
+            },
+            "pitch": {
+                "position": "Midfield",
+                "matchesPlayed": "0",
+                "goals": "0",
+                "elevensTeam": "Copr",
+                "favouriteTeamMate": "",
+                "hatePlayingAgainst": ""
+            }
+        },
+        {
+            "name": "Ryan Morris",
+            "age": "blank",
+            "isCaptain": false,
+            "isViceCaptain": false,
+            "isActive": true,
+            "isPrivate": false,
+            "isHero": false,
+            "isTOTW": false,
+            "profile": {
+                "hometown": "Swansea",
+                "career": "",
+                "hobbies": "",
+                "favouriteFood": "",
+                "favouriteTeam": "Liverpool",
+                "joiningReason": ""
+            },
+            "pitch": {
+                "position": "Goalkeeper",
+                "matchesPlayed": "0",
+                "goals": "0",
+                "elevensTeam": "Copr",
+                "favouriteTeamMate": "",
+                "hatePlayingAgainst": ""
+            }
+        }
+    ]
+}

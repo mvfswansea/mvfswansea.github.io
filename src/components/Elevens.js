@@ -17,16 +17,6 @@ function Elevens() {
           />
         </div>
 
-        {/* <div>
-          <Button
-            text="Tawe"
-            imageUrl="images/teams/TaweTeam.jpeg"
-            to="#/elevens/tawe"
-            imageWidth="900px"
-            imageHeight="500px"
-          />
-        </div> */}
-
         <div>
           <Button
             text="Copr"
