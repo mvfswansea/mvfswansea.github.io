@@ -140,7 +140,7 @@ function LeagueComponent({ leagueName, leagueId }) {
 
             <div className="fixtures">
                 <div className="latest-results">
-                    <h3>Latest Result</h3>
+                    <h3>Latest Results</h3>
                     {latestResult ? (
                         <div className="latest-results-teams">
                             {Object.entries(latestResult).map(([team, details], index, entries) => {
@@ -159,7 +159,8 @@ function LeagueComponent({ leagueName, leagueId }) {
                                         <span className="latest-results-text">
                                             {details.played ? (
                                                 details.pitchResult ? (
-                                                    <Link to={`#/results/${team}Vs${details.opposition}`}>
+                                                    <Link
+                                                        to={`/results/${latestResult.date}/${team}/${details.opposition}`}>
                                                         {details.pitchResult}
                                                     </Link>
                                                 ) : 'TBA'

@@ -79,7 +79,15 @@ for root, dirs, files in os.walk(fixture_data_folder):
                                 'opposition': details['opposition'],
                                 'played': details['played'],
                                 'pitchResult': details['pitchResult'],
-                                'overallResult': details['overallResult']
+                                'overallResult': details['overallResult'],
+
+                                'matchReport': {
+                                'scorers': details['matchReport']['scorers'] if 'matchReport' in details else {},
+                                'scalesMOTM': details['matchReport']['scalesMOTM'] if 'matchReport' in details else '',
+                                'pitchMOTM': details['matchReport']['pitchMOTM'] if 'matchReport' in details else '',
+                                'opponentMOTM': details['matchReport']['opponentMOTM'] if 'matchReport' in details else '',
+                                'writeUp': details['matchReport']['writeUp'] if 'matchReport' in details else ''
+                            }
                             }
 
                     # Store the entire league entry in DynamoDB

@@ -6,7 +6,18 @@
                 "opposition": "GwyrBlue",
                 "played": false,
                 "pitchResult": "",
-                "overallResult": ""
+                "overallResult": "",
+                "matchReport": {
+                    "scorers": {
+                        "MichaelEames": 5,
+                        "KyleLewis": 2,
+                        "MikeThomas": 1
+                    },
+                    "scalesMOTM": "",
+                    "pitchMOTM": "",
+                    "opponentMOTM": "",
+                    "writeUp": ""
+                }
             },
             "GwyrBlue": {
                 "opposition": "GwyrRed",
@@ -304,15 +315,38 @@
         "2024-12-03": {
             "GwyrBlue": {
                 "opposition": "GwyrWhite",
-                "played": false,
-                "pitchResult": "",
-                "overallResult": ""
+                "played": true,
+                "pitchResult": "9-2",
+                "overallResult": "12-7",
+                "matchReport": {
+                    "scorers": {
+                        "DarrellCox": 4,
+                        "NathanHodgson": 2,
+                        "LukeMassingham": 1,
+                        "MikeRees": 1,
+                        "DeanDavies": 1
+                    },
+                    "scalesMOTM": "Nathan Hodgson",
+                    "pitchMOTM": "Darrell Cox",
+                    "opponentMOTM": "Leon Kissick",
+                    "writeUp": "A lot of stuff happened, and it was a good game. #ImLovinIt"
+                }
             },
             "GwyrWhite": {
                 "opposition": "GwyrBlue",
                 "played": false,
-                "pitchResult": "",
-                "overallResult": ""
+                "pitchResult": "2-9",
+                "overallResult": "7-12",
+                "matchReport": {
+                    "scorers": {
+                        "RyanHawkins": 1,
+                        "PhilRichards": 1
+                    },
+                    "scalesMOTM": "Ryan Devereux-Harding",
+                    "pitchMOTM": "Leon Kissick",
+                    "opponentMOTM": "Ryan Morris",
+                    "writeUp": "A lot of stuff happened, and it was a good game. #ImLovinIt"
+                }
             },
             "GwyrBlack": {
                 "opposition": "GwyrGreen",
