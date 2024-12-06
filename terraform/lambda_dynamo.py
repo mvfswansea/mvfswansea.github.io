@@ -33,9 +33,9 @@ def lambda_handler(event, context):
             return get_player(player_id)
         
         elif path.startswith('/fixtures'):
-            league_id = query_params.get('leagueId')  # Get leagueId from query parameters
+            league_id = query_params.get('leagueId')
             date = query_params.get('date')
-            return get_fixtures(league_id, date)  # Pass leagueId to get_fixtures
+            return get_fixtures(league_id, date)
             
         else:
             return {
@@ -104,21 +104,61 @@ def get_player(player_id):
             'headers': headers
         }
 
-def get_fixtures(league_id, date):  # Accept league_id and date
+def get_fixtures(league_id, date):
     try:
         response = fixtures_table.query(
-            KeyConditionExpression=Key('league_id').eq(league_id) & Key('date').eq(date)
+            KeyConditionExpression=Key('league_id').eq(league_id)
         )
-
+        
         fixtures = {}
+        
         for item in response['Items']:
-            if date not in fixtures:
-                fixtures[date] = {}
-            fixtures[date][item['team']] = {
-                "opposition": item['opposition'],
-                "played": item['played'],
-                "pitchResult": item['pitchResult'],
-                "overallResult": item['overallResult']
+            # Access the fixtures object
+            fixtures_data = item.get('fixtures')
+            
+            # Iterate through each date in the fixtures
+            for fixture_date, teams in fixtures_data.items():
+                if fixture_date == date:  # Check if the date matches the requested date
+                    fixtures[fixture_date] = {}
+                    
+                    # Now process each team under the date
+                    for team_name, team_details in teams.items():
+                        name = team_name
+                        opposition = team_details.get('opposition')
+                        played = team_details.get('played')
+                        pitch_result = team_details.get('pitchResult')
+                        overall_result = team_details.get('overallResult')
+
+                        # Extract match report details, with fallback for missing data
+                        match_report = team_details.get('matchReport', {})
+
+                        scorers = match_report.get('scorers', {})
+                        scorers = {player: int(goals) for player, goals in scorers.items()}
+                        
+                        scales_motm = match_report.get('scalesMOTM', '')
+                        pitch_motm = match_report.get('pitchMOTM', '')
+                        opponent_motm = match_report.get('opponentMOTM', '')
+                        write_up = match_report.get('writeUp', '')
+                        
+                        fixtures[fixture_date][team_name] = {
+                            "opposition": opposition,
+                            "played": played,
+                            "pitchResult": pitch_result,
+                            "overallResult": overall_result,
+                            "matchReport": {
+                                "scorers": scorers,
+                                "scalesMOTM": scales_motm,
+                                "pitchMOTM": pitch_motm,
+                                "opponentMOTM": opponent_motm,
+                                "writeUp": write_up
+                            }
+                        }
+
+        if not fixtures:
+            return {
+                'statusCode': 404,
+                'body': json.dumps({'message': 'No fixtures found for the specified date'}),
+                'headers': headers
             }
 
         return {

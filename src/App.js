@@ -17,7 +17,7 @@ import Sponsors from './components/Sponsors';
 // import LeagueCopr from './components/LeagueCopr';
 // import LeagueGwyr from './components/LeagueGwyr';
 // import TeamOfTheWeek from './components/TeamOfTheWeek';
-
+import MatchResult from './components/MatchResult';
 
 // Gwyr League
 import GwyrBlack from './components/teams/gwyr/GwyrBlack';
@@ -67,6 +67,7 @@ function App() {
           {/* <Route path="/leagues/gwyr" element={<LeagueGwyr />} /> */}
           {/* <Route path="/leagues/copr" element={<LeagueCopr />} /> */}
           <Route path="/player/:id" element={<PlayerProfile />} />
+          <Route path="/results/:date/:team1/:team2" element={<MatchResult />} />
 
           {/* Gwyr League */}
           <Route path="/leagues/team/GwyrBlack" element={<GwyrBlack />} />
