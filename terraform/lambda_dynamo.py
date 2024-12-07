@@ -1,6 +1,7 @@
 import json
 import boto3
 from boto3.dynamodb.conditions import Key, Attr
+from decimal import Decimal
 
 dynamodb = boto3.resource('dynamodb')
 leagues_table = dynamodb.Table('Leagues')
@@ -12,6 +13,17 @@ headers = {
     'Access-Control-Allow-Methods': 'GET',
     'Access-Control-Allow-Headers': 'Content-Type'
 }
+
+def convert_decimal(value):
+    """Recursively converts Decimal values to floats."""
+    if isinstance(value, Decimal):
+        return float(value)
+    elif isinstance(value, dict):
+        return {k: convert_decimal(v) for k, v in value.items()}
+    elif isinstance(value, list):
+        return [convert_decimal(v) for v in value]
+    else:
+        return value
 
 def lambda_handler(event, context):
     http_method = event['httpMethod']
@@ -36,6 +48,10 @@ def lambda_handler(event, context):
             league_id = query_params.get('leagueId')
             date = query_params.get('date')
             return get_fixtures(league_id, date)
+
+        elif path.startswith('/top-scorers'):
+            league_id = query_params.get('leagueId')
+            return get_top_scorers(league_id)
             
         else:
             return {
@@ -132,8 +148,8 @@ def get_fixtures(league_id, date):
                         # Extract match report details, with fallback for missing data
                         match_report = team_details.get('matchReport', {})
 
-                        scorers = match_report.get('scorers', {})
-                        scorers = {player: int(goals) for player, goals in scorers.items()}
+                        scorers = match_report.get('scorers', [])
+                        formatted_scorers = [{"name": scorer.get("name", ""), "goalsScored": int(scorer.get("goalsScored", 0))} for scorer in scorers]
                         
                         scales_motm = match_report.get('scalesMOTM', '')
                         pitch_motm = match_report.get('pitchMOTM', '')
@@ -146,7 +162,7 @@ def get_fixtures(league_id, date):
                             "pitchResult": pitch_result,
                             "overallResult": overall_result,
                             "matchReport": {
-                                "scorers": scorers,
+                                "scorers": formatted_scorers,
                                 "scalesMOTM": scales_motm,
                                 "pitchMOTM": pitch_motm,
                                 "opponentMOTM": opponent_motm,
@@ -167,6 +183,83 @@ def get_fixtures(league_id, date):
             'headers': headers
         }
     except Exception as e:
+        return {
+            'statusCode': 500,
+            'body': json.dumps(f"Error: {str(e)}"),
+            'headers': headers
+        }
+
+def get_top_scorers(league_id):
+    try:
+        print(f"league_id: {league_id} (type: {type(league_id)})")  # Debug league_id
+
+        # Query the DynamoDB table
+        response = fixtures_table.query(
+            KeyConditionExpression=Key('league_id').eq(league_id)
+        )
+        print(f"response: {response} (type: {type(response)})")  # Debug response
+
+        scorers = {}
+
+        # Process the items returned by the query
+        for item in response.get('Items', []):  # Safely get 'Items'
+            fixtures_data = item.get('fixtures', {})
+            
+            # Ensure fixtures_data is a dictionary
+            if not isinstance(fixtures_data, dict):
+                print(f"Invalid fixtures_data format: {fixtures_data}")
+                continue
+
+            for fixture_date, teams in fixtures_data.items():
+                # Ensure teams is a dictionary
+                if not isinstance(teams, dict):
+                    print(f"Invalid teams format: {teams}")
+                    continue
+
+                for team_name, team_details in teams.items():
+                    # Ensure team_details is a dictionary
+                    if not isinstance(team_details, dict):
+                        print(f"Invalid team_details format: {team_details}")
+                        continue
+
+                    # Extract the match report safely
+                    match_report = team_details.get('matchReport', {})
+                    if not isinstance(match_report, dict):
+                        print(f"Invalid match_report format: {match_report}")
+                        continue
+
+                    # Iterate through the scorers list
+                    for scorer in match_report.get('scorers', []):
+                        if not isinstance(scorer, dict):
+                            print(f"Invalid scorer format: {scorer}")
+                            continue
+
+                        name = scorer.get('name', 'Unknown')
+                        goals_scored = scorer.get('goalsScored', 0)
+
+                        # Aggregate scores
+                        if name in scorers:
+                            scorers[name]['goals'] += int(goals_scored)  # Convert goals to int
+                        else:
+                            scorers[name] = {
+                                'name': name,
+                                'goals': int(goals_scored),  # Convert goals to int
+                                'team': team_name
+                            }
+
+        # Sort the scorers by goals in descending order
+        sorted_scorers = sorted(scorers.values(), key=lambda x: x['goals'], reverse=True)
+
+        # Convert Decimal values to floats
+        sorted_scorers = convert_decimal(sorted_scorers)
+
+        return {
+            'statusCode': 200,
+            'body': json.dumps(sorted_scorers),
+            'headers': headers
+        }
+    except Exception as e:
+        print(f"Error occurred: {str(e)}")  # Log error
         return {
             'statusCode': 500,
             'body': json.dumps(f"Error: {str(e)}"),

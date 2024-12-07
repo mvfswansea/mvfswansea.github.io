@@ -10,13 +10,15 @@ import News from './components/News';
 import Events from './components/Events';
 // import Challenge from './components/Challenge';
 import Sponsors from './components/Sponsors';
-// import Elevens from './components/Elevens';
+import Elevens from './components/Elevens';
 // import Leagues from './components/Leagues';
-// import TeamCopr from './components/TeamCopr';
-// import TeamGwyr from './components/TeamGwyr';
 // import LeagueCopr from './components/LeagueCopr';
 // import LeagueGwyr from './components/LeagueGwyr';
 // import TeamOfTheWeek from './components/TeamOfTheWeek';
+import TeamGwyr from './components/TeamGwyr';
+import TeamCopr from './components/TeamCopr';
+import TeamTawe from './components/TeamTawe';
+import TopScorers from './components/TopScorers';
 import MatchResult from './components/MatchResult';
 
 // Gwyr League
@@ -60,12 +62,14 @@ function App() {
           <Route path="/events/:key" element={<Event />} />
           {/* <Route path="/challenge" element={<Challenge />} /> */}
           <Route path="/sponsors" element={<Sponsors />} />
-          {/* <Route path="/elevens" element={<Elevens />} /> */}
-          {/* <Route path="/elevens/gwyr" element={<TeamGwyr />} /> */}
-          {/* <Route path="/elevens/copr" element={<TeamCopr />} /> */}
+          <Route path="/elevens" element={<Elevens />} />
+          <Route path="/elevens/gwyr" element={<TeamGwyr />} />
+          <Route path="/elevens/copr" element={<TeamCopr />} />
+          <Route path="/elevens/tawe" element={<TeamTawe />} />
           {/* <Route path="/leagues" element={<Leagues />} /> */}
           {/* <Route path="/leagues/gwyr" element={<LeagueGwyr />} /> */}
           {/* <Route path="/leagues/copr" element={<LeagueCopr />} /> */}
+          <Route path="/top-scorers" element={<TopScorers />} />
           <Route path="/player/:id" element={<PlayerProfile />} />
           <Route path="/results/:date/:team1/:team2" element={<MatchResult />} />
 

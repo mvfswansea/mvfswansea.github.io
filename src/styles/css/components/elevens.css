@@ -1,0 +1,44 @@
+.elevens-page {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .elevens-page h1 {
+    font-size: 2em;
+  }
+  
+  .elevens-page ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .elevens-page ul li {
+    margin: 10px 0;
+  }
+  
+  .team-page {
+    padding: 20px;
+  }
+  
+  .team-page h1 {
+    font-size: 2em;
+    text-align: center;
+  }
+  
+  .team-page section {
+    margin: 20px 0;
+  }
+  
+  .team-page h2 {
+    font-size: 1.5em;
+  }
+  
+  .team-page ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .team-page ul li {
+    margin: 5px 0;
+  }
+  
