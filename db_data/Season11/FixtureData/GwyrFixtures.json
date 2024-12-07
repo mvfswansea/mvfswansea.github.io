@@ -319,14 +319,29 @@
                 "pitchResult": "9-2",
                 "overallResult": "12-7",
                 "matchReport": {
-                    "scorers": {
-                        "DarrellCox": 4,
-                        "NathanHodgson": 2,
-                        "LukeMassingham": 1,
-                        "MikeRees": 1,
-                        "DeanDavies": 1
-                    },
-                    "scalesMOTM": "Nathan Hodgson",
+                    "scorers": [
+                        {
+                            "name": "Darrell Cox",
+                            "goalsScored": 4
+                        },
+                        {
+                            "name": "Nathan Hodgson",
+                            "goalsScored": 2
+                        },
+                        {
+                            "name": "Luke Massingham",
+                            "goalsScored": 1
+                        },
+                        {
+                            "name": "Mike Rees",
+                            "goalsScored": 1
+                        },
+                        {
+                            "name": "Dean Davies",
+                            "goalsScored": 1
+                        }
+                    ],
+                    "scalesMOTM": "Ross Thomas",
                     "pitchMOTM": "Darrell Cox",
                     "opponentMOTM": "Leon Kissick",
                     "writeUp": "A lot of stuff happened, and it was a good game. #ImLovinIt"
@@ -334,14 +349,20 @@
             },
             "GwyrWhite": {
                 "opposition": "GwyrBlue",
-                "played": false,
+                "played": true,
                 "pitchResult": "2-9",
                 "overallResult": "7-12",
                 "matchReport": {
-                    "scorers": {
-                        "RyanHawkins": 1,
-                        "PhilRichards": 1
-                    },
+                    "scorers": [
+                        {
+                            "name": "Ryan Hawkins",
+                            "goalsScored": 1
+                        },
+                        {
+                            "name": "Phil Richards",
+                            "goalsScored": 1
+                        }
+                    ],
                     "scalesMOTM": "Ryan Devereux-Harding",
                     "pitchMOTM": "Leon Kissick",
                     "opponentMOTM": "Ryan Morris",
