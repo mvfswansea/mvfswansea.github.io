@@ -76,11 +76,13 @@ function MatchResult() {
                     <p><strong>Opponent MOTM:</strong> {team1Details.matchReport?.opponentMOTM || "N/A"}</p>
                     <p><strong>Scorers:</strong></p>
                     <ul>
-                        {team1Details.matchReport?.scorers
-                            ? Object.entries(team1Details.matchReport.scorers).map(([player, goals]) => (
-                                <li key={player}>{player}: {goals}</li>
+                        {team1Details.matchReport?.scorers && team1Details.matchReport.scorers.length > 0 ? (
+                            team1Details.matchReport.scorers.map((scorer, index) => (
+                                <li key={index}>{scorer.name}: {scorer.goalsScored}</li>
                             ))
-                            : <li>N/A</li>}
+                        ) : (
+                            <li>N/A</li>
+                        )}
                     </ul>
                     <p><strong>Write-Up:</strong> {team1Details.matchReport?.writeUp || "N/A"}</p>
                 </div>
@@ -92,12 +94,15 @@ function MatchResult() {
                     <p><strong>Pitch MOTM:</strong> {team2Details.matchReport?.pitchMOTM || "N/A"}</p>
                     <p><strong>Opponent MOTM:</strong> {team2Details.matchReport?.opponentMOTM || "N/A"}</p>
                     <p><strong>Scorers:</strong></p>
+                    <p><strong>Scorers:</strong></p>
                     <ul>
-                        {team2Details.matchReport?.scorers
-                            ? Object.entries(team2Details.matchReport.scorers).map(([player, goals]) => (
-                                <li key={player}>{player}: {goals}</li>
+                        {team2Details.matchReport?.scorers && team2Details.matchReport.scorers.length > 0 ? (
+                            team2Details.matchReport.scorers.map((scorer, index) => (
+                                <li key={index}>{scorer.name}: {scorer.goalsScored}</li>
                             ))
-                            : <li>N/A</li>}
+                        ) : (
+                            <li>N/A</li>
+                        )}
                     </ul>
                     <p><strong>Write-Up:</strong> {team2Details.matchReport?.writeUp || "N/A"}</p>
                 </div>

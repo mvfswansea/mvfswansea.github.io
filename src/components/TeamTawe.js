@@ -1,15 +1,15 @@
-// TeamCopr.js
+// TeamTawe.js
 import React from 'react';
 
-function TeamCopr() {
+function TeamTawe() {
   return (
     <div className="team-page">
-      <h1>Copr Team</h1>
+      <h1>Tawe Team</h1>
       
       {/* Results Section */}
       <section>
         <h2>Results</h2>
-        <p><strong>Write-Up:</strong> Copr had a solid performance...</p>
+        <p><strong>Write-Up:</strong> Tawe put on a great performance...</p>
         <h3>Team Sheet</h3>
         <ul>
           <li>Player 1</li>
@@ -18,7 +18,7 @@ function TeamCopr() {
         </ul>
         <h3>Scorers</h3>
         <ul>
-          <li>Player 1 - 3 goals</li>
+          <li>Player 1 - 2 goals</li>
           <li>Player 2 - 1 goal</li>
         </ul>
       </section>
@@ -27,8 +27,8 @@ function TeamCopr() {
       <section>
         <h2>Upcoming Fixtures</h2>
         <ul>
-          <li>Fixture 1: Copr vs Gwyr</li>
-          <li>Fixture 2: Copr vs Tawe</li>
+          <li>Fixture 1: Tawe vs Gwyr</li>
+          <li>Fixture 2: Tawe vs Copr</li>
         </ul>
       </section>
 
@@ -36,8 +36,8 @@ function TeamCopr() {
       <section>
         <h2>Management Team</h2>
         <ul>
-          <li>Manager: Jack Smith</li>
-          <li>Assistant Manager: Sarah Lee</li>
+          <li>Manager: Mike Brown</li>
+          <li>Assistant Manager: Linda Green</li>
         </ul>
       </section>
 
@@ -54,4 +54,4 @@ function TeamCopr() {
   );
 }
 
-export default TeamCopr;
+export default TeamTawe;

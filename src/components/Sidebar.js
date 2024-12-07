@@ -22,6 +22,9 @@ function Sidebar({ closeSidebar }) {
                 {/* <li><Link to="/totw" onClick={toggleSidebar}>Team Of The Week</Link></li> */}
                 <li><Link to="/events" onClick={toggleSidebar}>Events</Link></li>
                 <li><Link to="/sponsors" onClick={toggleSidebar}>Sponsors</Link></li>
+                <li><Link to="/elevens" onClick={toggleSidebar}>Elevens</Link></li>
+                <li><Link to="/top-scorers?leagueId=1" onClick={toggleSidebar}>Top Scorer Gwyr</Link></li>
+                <li><Link to="/top-scorers?leagueId=2" onClick={toggleSidebar}>Top Scorer Copr</Link></li>
                 <li><a href="https://www.manvfatfootball.org/swansea">Official Gwyr League</a></li>
                 <li><a href="https://www.manvfatfootball.org/swansea2">Official Copr League</a></li>
             </ul>

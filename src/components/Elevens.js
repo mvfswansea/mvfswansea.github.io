@@ -1,33 +1,16 @@
+// Elevens.js
 import React from 'react';
-import Button from './Button';
+import { Link } from 'react-router-dom';
 
 function Elevens() {
   return (
-    <div>
-      <div>
-        <h1> Welcome to MvF Swansea </h1>
-
-        <div>
-          <Button
-            text="Gwyr"
-            imageUrl="images/ynystawe.jpg"
-            to="#/elevens/gwyr"
-            imageWidth="900px"
-            imageHeight="500px"
-          />
-        </div>
-
-        <div>
-          <Button
-            text="Copr"
-            imageUrl="images/purefootball.jpg"
-            to="#/elevens/copr"
-            imageWidth="900px"
-            imageHeight="500px"
-          />
-        </div>
-
-      </div>
+    <div className="elevens-page">
+      <h1>All Teams</h1>
+      <ul>
+        <li><Link to="/elevens/gwyr">Gwyr Team</Link></li>
+        <li><Link to="/elevens/copr">Copr Team</Link></li>
+        <li><Link to="/elevens/tawe">Tawe Team</Link></li>
+      </ul>
     </div>
   );
 }
