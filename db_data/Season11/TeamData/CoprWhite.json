@@ -185,7 +185,7 @@
             }
         },
         {
-            "name": "Richard Blow",
+            "name": "James Barratt",
             "age": "blank",
             "isCaptain": false,
             "isViceCaptain": false,
@@ -211,7 +211,7 @@
             }
         },
         {
-            "name": "Vincent Allder",
+            "name": "Callum Williams",
             "age": "blank",
             "isCaptain": false,
             "isViceCaptain": true,
@@ -237,7 +237,7 @@
             }
         },
         {
-            "name": "William Cook",
+            "name": "",
             "age": "blank",
             "isCaptain": false,
             "isViceCaptain": false,

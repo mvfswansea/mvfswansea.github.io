@@ -29,7 +29,7 @@
             }
         },
         {
-            "name": "Richard Davies",
+            "name": "Dean Davies",
             "age": "blank",
             "isCaptain": false,
             "isViceCaptain": false,
@@ -38,19 +38,19 @@
             "isHero": false,
             "isTOTW": false,
             "profile": {
-                "hometown": "Swansea",
-                "career": "Bread",
-                "hobbies": "Football",
-                "favouriteFood": "Chicken Nuggies",
-                "favouriteTeam": "Liverpool",
-                "joiningReason": "Darrell"
+                "hometown": "",
+                "career": "",
+                "hobbies": "",
+                "favouriteFood": "",
+                "favouriteTeam": "",
+                "joiningReason": ""
             },
             "pitch": {
-                "position": "Midfield",
+                "position": "Defender",
                 "matchesPlayed": "0",
                 "goals": "0",
                 "elevensTeam": "None",
-                "favouriteTeamMate": "Any goalkeeper",
+                "favouriteTeamMate": "",
                 "hatePlayingAgainst": ""
             }
         },
