@@ -3,32 +3,6 @@
     "league-name": "Copr",
     "players": [
         {
-            "name": "Aaron John",
-            "age": "38",
-            "isCaptain": false,
-            "isViceCaptain": true,
-            "isActive": true,
-            "isPrivate": false,
-            "isHero": false,
-            "isTOTW": false,
-            "profile": {
-                "hometown": "Swansea",
-                "career": "Want away PCSO",
-                "hobbies": "Eating & Football",
-                "favouriteFood": "Chicken balls and curry sauce",
-                "favouriteTeam": "Man Utd",
-                "joiningReason": "Lose some timber"
-            },
-            "pitch": {
-                "position": "Midfield",
-                "matchesPlayed": "0",
-                "goals": "0",
-                "elevensTeam": "None",
-                "favouriteTeamMate": "Dai the bus",
-                "hatePlayingAgainst": "Big Martin"
-            }
-        },
-        {
             "name": "Aaron Newcombe",
             "age": "blank",
             "isCaptain": false,
@@ -108,32 +82,6 @@
         },
         {
             "name": "David Walters",
-            "age": "blank",
-            "isCaptain": false,
-            "isViceCaptain": false,
-            "isActive": true,
-            "isPrivate": false,
-            "isHero": false,
-            "isTOTW": false,
-            "profile": {
-                "hometown": "",
-                "career": "",
-                "hobbies": "",
-                "favouriteFood": "",
-                "favouriteTeam": "",
-                "joiningReason": ""
-            },
-            "pitch": {
-                "position": "Defence",
-                "matchesPlayed": "0",
-                "goals": "0",
-                "elevensTeam": "None",
-                "favouriteTeamMate": "",
-                "hatePlayingAgainst": ""
-            }
-        },
-        {
-            "name": "Dean Davies",
             "age": "blank",
             "isCaptain": false,
             "isViceCaptain": false,
@@ -263,7 +211,33 @@
             }
         },
         {
-            "name": "Scott Davies",
+            "name": "Jake Williams",
+            "age": "blank",
+            "isCaptain": false,
+            "isViceCaptain": false,
+            "isActive": true,
+            "isPrivate": false,
+            "isHero": false,
+            "isTOTW": false,
+            "profile": {
+                "hometown": "",
+                "career": "",
+                "hobbies": "",
+                "favouriteFood": "",
+                "favouriteTeam": "",
+                "joiningReason": ""
+            },
+            "pitch": {
+                "position": "Defence",
+                "matchesPlayed": "0",
+                "goals": "0",
+                "elevensTeam": "None",
+                "favouriteTeamMate": "",
+                "hatePlayingAgainst": ""
+            }
+        },
+        {
+            "name": "Will Brailey",
             "age": "blank",
             "isCaptain": false,
             "isViceCaptain": false,

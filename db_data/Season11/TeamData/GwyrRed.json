@@ -3,7 +3,7 @@
     "league-name": "Gwyr",
     "players": [
         {
-            "name": "Richard Webber",
+            "name": "Anthony Hopkins",
             "age": "blank",
             "isCaptain": true,
             "isViceCaptain": false,
@@ -55,7 +55,7 @@
             }
         },
         {
-            "name": "Ashley Gilbert",
+            "name": "Craig Bowles",
             "age": "blank",
             "isCaptain": false,
             "isViceCaptain": false,
@@ -159,7 +159,7 @@
             }
         },
         {
-            "name": "Jordan Gilbert",
+            "name": "Rhys Hold",
             "age": "blank",
             "isCaptain": false,
             "isViceCaptain": false,
@@ -263,7 +263,7 @@
             }
         },
         {
-            "name": "Chris Green",
+            "name": "",
             "age": "blank",
             "isCaptain": false,
             "isViceCaptain": false,

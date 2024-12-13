@@ -29,7 +29,7 @@
             }
         },
         {
-            "name": "Gareth Lewis",
+            "name": "Adam Godbeer",
             "age": "blank",
             "isCaptain": false,
             "isViceCaptain": false,
@@ -237,7 +237,7 @@
             }
         },
         {
-            "name": "Matt Evans",
+            "name": "",
             "age": "blank",
             "isCaptain": false,
             "isViceCaptain": false,
@@ -263,7 +263,7 @@
             }
         },
         {
-            "name": "Lee Oats",
+            "name": "",
             "age": "blank",
             "isCaptain": false,
             "isViceCaptain": false,

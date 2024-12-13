@@ -3,7 +3,7 @@
     "league-name": "Copr",
     "players": [
         {
-            "name": "Matthew Miles",
+            "name": "Cai Owens",
             "age": "blank",
             "isCaptain": false,
             "isViceCaptain": false,
@@ -29,7 +29,7 @@
             }
         },
         {
-            "name": "Ben Williams",
+            "name": "Luke Davies",
             "age": "blank",
             "isCaptain": false,
             "isViceCaptain": false,
@@ -185,8 +185,8 @@
             }
         },
         {
-            "name": "Ryan Hawkins",
-            "age": "27",
+            "name": "Matthew Miles",
+            "age": "blank",
             "isCaptain": false,
             "isViceCaptain": false,
             "isActive": true,
@@ -194,20 +194,20 @@
             "isHero": false,
             "isTOTW": false,
             "profile": {
-                "hometown": "Swansea",
-                "career": "Mitie Supervisor",
-                "hobbies": "Football",
-                "favouriteFood": "Steak,chips, peppcorn sauce",
-                "favouriteTeam": "Swansea",
-                "joiningReason": "Healthier lifestyle and to get fitter"
+                "hometown": "",
+                "career": "",
+                "hobbies": "",
+                "favouriteFood": "",
+                "favouriteTeam": "",
+                "joiningReason": ""
             },
             "pitch": {
-                "position": "Midfield",
+                "position": "Defence",
                 "matchesPlayed": "0",
                 "goals": "0",
                 "elevensTeam": "None",
-                "favouriteTeamMate": "TG & Craig Evans",
-                "hatePlayingAgainst": "Anyone who kicks me 😂"
+                "favouriteTeamMate": "",
+                "hatePlayingAgainst": ""
             }
         },
         {
@@ -237,7 +237,7 @@
             }
         },
         {
-            "name": "",
+            "name": "Ross Draisey",
             "age": "blank",
             "isCaptain": false,
             "isViceCaptain": false,
